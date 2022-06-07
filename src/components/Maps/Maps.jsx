@@ -1,40 +1,52 @@
-import React, { useEffect, useState } from 'react'
-import { fetchUserLocation } from '../../utils/fetchUserDetails'
-import { getLocatios } from '../../utils/firebaseUtils'
+import React, { useEffect, useReducer, useState } from 'react'
+import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils'
 import LocationDetails from '../LocationDetails/LocationDetails'
 
 const Maps = () => {
-  const [val, setVal] = useState();
-  const [locations, setLocations] = useState();
+  const [, forceUpdate] = useReducer(x => x + 1, 0);
+
+  const [locationsList, setLocationsList] = useState();
+  const [visitedLocations, setVisitedLocations] = useState();
+  const [isLoading, setIsLoading] = useState(true);
+  // Modal Logic
   const [locationId, setLocationId] = useState(0);
   const [lastLocationId, setLastLocationId] = useState(0);
+  const [locationDetails, setLocationDetails] = useState();
   const [locationDetailsIsOpen, setLocationDetailsIsOpen] = useState(false);
 
-  const visited_locations = fetchUserLocation();
-  const visited_locations_as_array = Object.keys(visited_locations).map(function (key) { return visited_locations[key] = `${key}` });
-
-  const updateUserLocations = getLocatios().then(data => {
-    setLocations(data)
-  })
-
   useEffect(() => {
-    updateUserLocations
-  }, [val])
+    const a = fetchLocationToVisit()
+    const b = fetchUserVisitedLocations()
+    Promise.all([a, b]).then(values => {
+      setLocationsList(values[0]);
+      setVisitedLocations(Object.keys(values[1]).map(function (key) { return values[1][key] = `${key}` }));
+    }).finally(() => {
+      setTimeout(() =>{
+        setIsLoading(false);
+      }, 1500)
+    });
+  }, [])
 
+  const fetchLocationToVisit = () => getLocatiosToVisit().then(locationsToVisit => { return locationsToVisit });
+  const fetchUserVisitedLocations = () => getUserVisitedLocations().then(userVisitedLocations => { return userVisitedLocations });
+
+  const onModalLocationsChanged = (newLocations) => {
+    setVisitedLocations(newLocations);
+    forceUpdate()
+  }
 
   const locationModalLogic = (index) => {
-
     if (index !== lastLocationId) {
       setLocationDetailsIsOpen(true);
       setLastLocationId(index)
       setLocationId(index)
     } else {
-        if (index === lastLocationId) {
-          setLocationDetailsIsOpen(false);
-          setLastLocationId(0)
-        } else {
-          setLocationDetailsIsOpen(true);
-        }
+      if (index === lastLocationId) {
+        setLocationDetailsIsOpen(false);
+        setLastLocationId(0)
+      } else {
+        setLocationDetailsIsOpen(true);
+      }
     }
 
   }
@@ -42,21 +54,33 @@ const Maps = () => {
   return (
     <>
       <div className='flex flex-wrap max-h-[200px] max-w-[900px] whitespace-normal'>
-        {locations && Object.keys(locations).map((x, i) => {
-          const locationId = i + 1;
-          if (visited_locations_as_array.includes((locationId).toString())) {
-            return (<span onClick={() => {
-              locationModalLogic(locationId)
-            }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-blue-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
-          } else {
-            return (<span onClick={() => {
-              locationModalLogic(locationId)
-            }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-red-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
-          }
-        })
+        {isLoading
+          ?
+          <div> Loading </div>
+          :
+          Object.keys(locationsList).map((x, i) => {
+            const locationId = i + 1;
+            if (visitedLocations.includes((locationId).toString())) {
+              return (<span onClick={() => {
+                locationModalLogic(locationId);
+                setLocationDetails(locationsList[locationId])
+              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-blue-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
+            } else {
+              return (<span onClick={() => {
+                locationModalLogic(locationId)
+                setLocationDetails(locationsList[locationId])
+              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-red-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
+            }
+          })
         }
       </div>
-      {locationDetailsIsOpen && <LocationDetails locationId={locationId} visited_locations={visited_locations} />}
+      {locationDetailsIsOpen &&
+        <LocationDetails
+          key={locationId}
+          locationId={locationId}
+          location_details={locationDetails}
+          visited_locations={visitedLocations}
+          onModalLocationsChanged={onModalLocationsChanged} />}
     </>
   )
 }

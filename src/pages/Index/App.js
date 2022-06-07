@@ -4,7 +4,7 @@ import { firebaseApp } from '../../config/firebase-config';
 import { userAccessToken } from '../../utils/fetchUserDetails';
 import { FcGoogle } from 'react-icons/fc';
 import { child, get, getDatabase, ref } from 'firebase/database';
-import { getLocatios, writeDataToFirebase } from '../../utils/firebaseUtils';
+import { getLocatiosToVisit, writeDataToFirebase } from '../../utils/firebaseUtils';
 import { useNavigate, Routes, Route } from 'react-router-dom';
 import MainComponent from '../Main/MainComponent';
 
@@ -23,21 +23,17 @@ const App = () => {
     const { user } = await signInWithPopup(firebaseAuth, provider);
 
     get(child(ref(db), `users/${user.uid}/visited_locations`)).then(snapshot => {
-      if (snapshot.exists()) {
-        localStorage.setItem('visited_locations', JSON.stringify(snapshot.val()));
-      }
-      else {
+      if (!snapshot.exists()) {
         writeDataToFirebase(`users/${user.uid}`, {
           visited_locations: { 0: 0 }
         })
-        localStorage.setItem('visited_locations', JSON.stringify({ 0: 0 }))
+        localStorage.setItem('visited_locations', JSON.stringify(snapshot.val()));
       }
     }).catch((error) => {
       console.error(error)
     })
     localStorage.setItem('user', JSON.stringify(user.providerData));
     localStorage.setItem('accessToken', JSON.stringify(user.refreshToken));
-    getLocatios().then(data => localStorage.setItem('locations', JSON.stringify(data)))
     navigate('/main')
   }
 

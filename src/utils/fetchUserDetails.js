@@ -18,7 +18,9 @@ export const getUserId = () => {
     if (auth.currentUser) {
         uuid = auth.currentUser.uid
     }
-    console.log('uuid:', uuid);
+    if( uuid === null && window.location.pathname != "/"){
+        window.location.href = "/"
+    }
     return uuid;
 }
 

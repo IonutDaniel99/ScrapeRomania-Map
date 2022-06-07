@@ -23,8 +23,3 @@ export const getUserId = () => {
     }
     return uuid;
 }
-
-export const fetchUserLocation = () => {
-    const accessToken = localStorage.getItem('visited_locations') !== "undefined" ? JSON.parse(localStorage.getItem('visited_locations')) : localStorage.clear()
-    return accessToken
-}

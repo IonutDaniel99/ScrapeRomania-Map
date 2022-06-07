@@ -27,7 +27,6 @@ const App = () => {
         writeDataToFirebase(`users/${user.uid}`, {
           visited_locations: { 0: 0 }
         })
-        localStorage.setItem('visited_locations', JSON.stringify(snapshot.val()));
       }
     }).catch((error) => {
       console.error(error)

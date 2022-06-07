@@ -63,13 +63,13 @@ const Maps = () => {
             if (visitedLocations.includes((locationId).toString())) {
               return (<span onClick={() => {
                 locationModalLogic(locationId);
-                setLocationDetails(locationsList[locationId])
-              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-blue-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
+                setLocationDetails(locationsList[x])
+              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-blue-500 rounded-full px-2 text-white cursor-pointer'>{locationId}</span>)
             } else {
               return (<span onClick={() => {
                 locationModalLogic(locationId)
-                setLocationDetails(locationsList[locationId])
-              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-red-500 rounded-full px-2 text-white cursor-pointer'>{x}</span>)
+                setLocationDetails(locationsList[x])
+              }} key={locationId} className='flex justify-center items-center w-10 h-10 bg-red-500 rounded-full px-2 text-white cursor-pointer'>{locationId}</span>)
             }
           })
         }

@@ -1,0 +1,517 @@
+{
+    "locations": [
+      {
+        "lat": 1,
+        "long": -1,
+        "name": "Test1",
+        "image": 2,
+        "description": "CapyBara"
+      },
+      {
+        "lat": 2,
+        "long": -2,
+        "name": "Test2"
+      },
+      {
+        "lat": 3,
+        "long": -3,
+        "name": "Test3"
+      },
+      {
+        "lat": 4,
+        "long": -4,
+        "name": "Test4"
+      },
+      {
+        "lat": 5,
+        "long": -5,
+        "name": "Test5"
+      },
+      {
+        "lat": 6,
+        "long": -6,
+        "name": "Test6"
+      },
+      {
+        "lat": 7,
+        "long": -7,
+        "description": "CapyBara",
+        "name": "Test7"
+      },
+      {
+        "lat": 8,
+        "long": -8,
+        "name": "Test8"
+      },
+      {
+        "lat": 9,
+        "long": -9,
+        "name": "Test9"
+      },
+      {
+        "lat": 10,
+        "long": -10,
+        "name": "Test10"
+      },
+      {
+        "lat": 11,
+        "long": -11,
+        "name": "Test11"
+      },
+      {
+        "lat": 12,
+        "long": -12,
+        "name": "Test12"
+      },
+      {
+        "lat": 13,
+        "long": -13,
+        "name": "Test13"
+      },
+      {
+        "lat": 14,
+        "long": -14,
+        "name": "Test14"
+      },
+      {
+        "lat": 15,
+        "long": -15,
+        "name": "Test15"
+      },
+      {
+        "lat": 16,
+        "long": -16,
+        "name": "Test16"
+      },
+      {
+        "lat": 17,
+        "long": -17,
+        "name": "Test17"
+      },
+      {
+        "lat": 18,
+        "long": -18,
+        "name": "Test18"
+      },
+      {
+        "lat": 19,
+        "long": -19,
+        "name": "Test19"
+      },
+      {
+        "lat": 20,
+        "long": -20,
+        "name": "Test20"
+      },
+      {
+        "lat": 21,
+        "long": -21,
+        "name": "Test21"
+      },
+      {
+        "lat": 22,
+        "long": -22,
+        "name": "Test22"
+      },
+      {
+        "lat": 23,
+        "long": -23,
+        "name": "Test23"
+      },
+      {
+        "lat": 24,
+        "long": -24,
+        "name": "Test24"
+      },
+      {
+        "lat": 25,
+        "long": -25,
+        "name": "Test25"
+      },
+      {
+        "lat": 26,
+        "long": -26,
+        "name": "Test26"
+      },
+      {
+        "lat": 27,
+        "long": -27,
+        "name": "Test27"
+      },
+      {
+        "lat": 28,
+        "long": -28,
+        "name": "Test28"
+      },
+      {
+        "lat": 29,
+        "long": -29,
+        "name": "Test29"
+      },
+      {
+        "lat": 30,
+        "long": -30,
+        "name": "Test30"
+      },
+      {
+        "lat": 31,
+        "long": -31,
+        "name": "Test31"
+      },
+      {
+        "lat": 32,
+        "long": -32,
+        "name": "Test32"
+      },
+      {
+        "lat": 33,
+        "long": -33,
+        "name": "Test33"
+      },
+      {
+        "lat": 34,
+        "long": -34,
+        "name": "Test34"
+      },
+      {
+        "lat": 35,
+        "long": -35,
+        "name": "Test35"
+      },
+      {
+        "lat": 36,
+        "long": -36,
+        "name": "Test36"
+      },
+      {
+        "lat": 37,
+        "long": -37,
+        "name": "Test37"
+      },
+      {
+        "lat": 38,
+        "long": -38,
+        "name": "Test38"
+      },
+      {
+        "lat": 39,
+        "long": -39,
+        "name": "Test39"
+      },
+      {
+        "lat": 40,
+        "long": -40,
+        "name": "Test40"
+      },
+      {
+        "lat": 41,
+        "long": -41,
+        "name": "Test41"
+      },
+      {
+        "lat": 42,
+        "long": -42,
+        "name": "Test42"
+      },
+      {
+        "lat": 43,
+        "long": -43,
+        "name": "Test43"
+      },
+      {
+        "lat": 44,
+        "long": -44,
+        "name": "Test44"
+      },
+      {
+        "lat": 45,
+        "long": -45,
+        "name": "Test45"
+      },
+      {
+        "lat": 46,
+        "long": -46,
+        "name": "Test46"
+      },
+      {
+        "lat": 47,
+        "long": -47,
+        "name": "Test47"
+      },
+      {
+        "lat": 48,
+        "long": -48,
+        "name": "Test48"
+      },
+      {
+        "lat": 49,
+        "long": -49,
+        "name": "Test49"
+      },
+      {
+        "lat": 50,
+        "long": -50,
+        "name": "Test50"
+      },
+      {
+        "lat": 51,
+        "long": -51,
+        "name": "Test51"
+      },
+      {
+        "lat": 52,
+        "long": -52,
+        "name": "Test52"
+      },
+      {
+        "lat": 53,
+        "long": -53,
+        "name": "Test53"
+      },
+      {
+        "lat": 54,
+        "long": -54,
+        "name": "Test54"
+      },
+      {
+        "lat": 55,
+        "long": -55,
+        "name": "Test55"
+      },
+      {
+        "lat": 56,
+        "long": -56,
+        "name": "Test56"
+      },
+      {
+        "lat": 57,
+        "long": -57,
+        "name": "Test57"
+      },
+      {
+        "lat": 58,
+        "long": -58,
+        "name": "Test58"
+      },
+      {
+        "lat": 59,
+        "long": -59,
+        "name": "Test59"
+      },
+      {
+        "lat": 60,
+        "long": -60,
+        "name": "Test60"
+      },
+      {
+        "lat": 61,
+        "long": -61,
+        "name": "Test61"
+      },
+      {
+        "lat": 62,
+        "long": -62,
+        "name": "Test62"
+      },
+      {
+        "lat": 63,
+        "long": -63,
+        "name": "Test63"
+      },
+      {
+        "lat": 64,
+        "long": -64,
+        "name": "Test64"
+      },
+      {
+        "lat": 65,
+        "long": -65,
+        "name": "Test65"
+      },
+      {
+        "lat": 66,
+        "long": -66,
+        "name": "Test66"
+      },
+      {
+        "lat": 67,
+        "long": -67,
+        "name": "Test67"
+      },
+      {
+        "lat": 68,
+        "long": -68,
+        "name": "Test68"
+      },
+      {
+        "lat": 69,
+        "long": -69,
+        "name": "Test69"
+      },
+      {
+        "lat": 70,
+        "long": -70,
+        "name": "Test70"
+      },
+      {
+        "lat": 71,
+        "long": -71,
+        "name": "Test71"
+      },
+      {
+        "lat": 72,
+        "long": -72,
+        "name": "Test72"
+      },
+      {
+        "lat": 73,
+        "long": -73,
+        "name": "Test73"
+      },
+      {
+        "lat": 74,
+        "long": -74,
+        "name": "Test74"
+      },
+      {
+        "lat": 75,
+        "long": -75,
+        "name": "Test75"
+      },
+      {
+        "lat": 76,
+        "long": -76,
+        "name": "Test76"
+      },
+      {
+        "lat": 77,
+        "long": -77,
+        "name": "Test77"
+      },
+      {
+        "lat": 78,
+        "long": -78,
+        "name": "Test78"
+      },
+      {
+        "lat": 79,
+        "long": -79,
+        "name": "Test79"
+      },
+      {
+        "lat": 80,
+        "long": -80,
+        "name": "Test80"
+      },
+      {
+        "lat": 81,
+        "long": -81,
+        "name": "Test81"
+      },
+      {
+        "lat": 82,
+        "long": -82,
+        "name": "Test82"
+      },
+      {
+        "lat": 83,
+        "long": -83,
+        "name": "Test83"
+      },
+      {
+        "lat": 84,
+        "long": -84,
+        "name": "Test84"
+      },
+      {
+        "lat": 85,
+        "long": -85,
+        "name": "Test85"
+      },
+      {
+        "lat": 86,
+        "long": -86,
+        "name": "Test86"
+      },
+      {
+        "lat": 87,
+        "long": -87,
+        "name": "Test87"
+      },
+      {
+        "lat": 88,
+        "long": -88,
+        "name": "Test88"
+      },
+      {
+        "lat": 89,
+        "long": -89,
+        "name": "Test89"
+      },
+      {
+        "lat": 90,
+        "long": -90,
+        "name": "Test90"
+      },
+      {
+        "lat": 91,
+        "long": -91,
+        "name": "Test91"
+      },
+      {
+        "lat": 92,
+        "long": -92,
+        "name": "Test92"
+      },
+      {
+        "lat": 93,
+        "long": -93,
+        "name": "Test93"
+      },
+      {
+        "lat": 94,
+        "long": -94,
+        "name": "Test94"
+      },
+      {
+        "lat": 95,
+        "long": -95,
+        "name": "Test95"
+      },
+      {
+        "lat": 96,
+        "long": -96,
+        "name": "Test96"
+      },
+      {
+        "lat": 97,
+        "long": -97,
+        "name": "Test97"
+      },
+      {
+        "lat": 98,
+        "long": -98,
+        "name": "Test98"
+      },
+      {
+        "lat": 99,
+        "long": -99,
+        "name": "Test99"
+      },
+      {
+        "lat": 100,
+        "long": -100,
+        "name": "Test100"
+      }
+    ],
+    "users": {
+      "Wni1bEjH3PRAQJ1FAKOt4uRkB4u2": {
+        "visited_locations": {
+          "0": "0",
+          "1": "1",
+          "2": "2",
+          "8": "8"
+        }
+      }
+    }
+  }

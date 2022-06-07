@@ -51,6 +51,10 @@ const Maps = () => {
 
   }
 
+  const onHandleChildCloseModal = () => {
+    setLocationDetailsIsOpen(false);
+  }
+
   return (
     <>
       <div className='flex flex-wrap max-h-[200px] max-w-[900px] whitespace-normal'>
@@ -80,7 +84,8 @@ const Maps = () => {
           locationId={locationId}
           location_details={locationDetails}
           visited_locations={visitedLocations}
-          onModalLocationsChanged={onModalLocationsChanged} />}
+          onModalLocationsChanged={onModalLocationsChanged}
+          onHandleChildCloseModal={onHandleChildCloseModal} />}
     </>
   )
 }

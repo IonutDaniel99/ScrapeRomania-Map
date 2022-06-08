@@ -15,6 +15,6 @@
     "jsx": "preserve",
     "incremental": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Maps/Maps.jsx"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "src/components/Maps/Maps.jsx", "src/components/NavBar/NavBar.jsx", "src/pages/Main/MainComponent.jsx", "src/utils/firebaseUtils.js"],
   "exclude": ["node_modules"]
 }

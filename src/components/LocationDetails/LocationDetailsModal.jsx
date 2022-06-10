@@ -4,6 +4,7 @@ import { RiCloseFill } from 'react-icons/ri';
 import { TbMapSearch } from 'react-icons/tb';
 import { writeData } from './utils';
 import { capitalize } from 'lodash';
+import _ from 'lodash';
 const LocationDetailsModal = ({ locationId, location_details, visited_locations, onModalLocationsChanged, onHandleChildCloseModal }) => {
     const [check, setCheck] = useState(true);
 
@@ -34,17 +35,29 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
         writeData(_newLocations);
     };
 
+    const _tempImageGen = () => {
+        const url = `https://loremflickr.com/${_.random(590, 610)}/${_.random(990, 1010)}`;
+        // const bran = 'http://www.bran-castle.com/assets/castle/06-full.jpg';
+
+
+        return url;
+    };
+
     return (
         <>
             <div className="
                     absolute w-full min-h-[28rem] max-w-sm shadow-lg rounded-lg overflow-hidden z-50
                     sm:top-20 sm:left-10 sm:w-96 my-4
                 ">
+                <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={_tempImageGen()} />
                 <div className='flex max-w-sm w-full shadow-md rounded-lg overflow-hidden mx-auto'>
                     <div className="overflow-hidden relative transform shadow-lg text-white w-full">
                         <div className="absolute inset-0 top-64 z-10 transition duration-300 ease-in-out bg-gradient-to-t from-black via-black to-transparent"></div>
                         <div className="relative  group z-10 px-10 pt-10 space-y-6">
                             <div className="align-self-end w-full">
+                                <div className="absolute inset-x-0 top-0 pt-5 w-full mx-auto text-2xl uppercase text-center drop-shadow-sm font-bold text-white">
+                                    <span className='bg-black bg-opacity-40 px-2 shadow-stone-900 rounded-tl-lg rounded-br-lg'>{location_details.location}</span>
+                                </div>
                                 <div className="h-[22rem]"></div>
                                 <div className="relative space-y-2">
                                     <div className='relative flex'>
@@ -101,12 +114,8 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                         </div>
                                     </div>
                                 </div>
-                                <div className="absolute inset-x-0 top-0 pt-5 w-full mx-auto text-2xl uppercase text-center drop-shadow-sm font-bold text-white">
-                                    <span style={{WebkitTextStroke:'1px #334155', paintOrder:'stroke fill'}}>{location_details.location}</span>
-                                </div>
                             </div>
                         </div>
-                        <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={location_details.image || 'http://www.bran-castle.com/assets/castle/06-full.jpg'} />
                     </div>
                 </div>
             </div>

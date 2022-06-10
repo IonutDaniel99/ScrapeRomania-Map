@@ -5,8 +5,8 @@ module.exports = {
 	theme: {
 		extend: {
 			boxShadow: {
-				myShadow1: "4.1px -5px 0 0 rgb(17,24,39)",
-				myShadow2: "-4.1px -5px 0 0 rgb(17,24,39)",
+				countyShadown: "0px 5px 10px gray",
+
 			},
 		},
 	},

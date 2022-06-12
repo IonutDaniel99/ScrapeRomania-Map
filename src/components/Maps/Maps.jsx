@@ -1,8 +1,11 @@
+/* eslint-disable */
 import React, { useEffect, useReducer, useRef, useState } from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
-import { startWorldMap } from './utils';
+
 import countries from '../../data/countries.json';
+import coords from '../../dummy/coordsC.json';
+
 
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
@@ -14,6 +17,7 @@ const Maps = () => {
     const [lastLocationId, setLastLocationId] = useState(0);
     const [locationDetails, setLocationDetails] = useState();
     const [locationDetailsIsOpen, setLocationDetailsIsOpen] = useState(false);
+
 
     useEffect(() => {
         const a = fetchLocationToVisit();
@@ -56,17 +60,40 @@ const Maps = () => {
         setLocationDetailsIsOpen(false);
     };
 
-    setTimeout(() => {
-        var canvas = document.querySelector('canvas');
-        var ctx = canvas.getContext('2d');
-        startWorldMap(ctx);
-        console.log('swdone');
-    }, 2000);
-
     return (
         <>
-            <div className='flex flex-wrap max-h-[200px] max-w-[900px] whitespace-normal'>
-                <canvas width="450" height="450" style={{ border: '2px solid red', position: 'absolute', top: '0px' }}></canvas>
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width="1200" height="800" viewBox="0 0 1200 800">
+                    {
+                        Object.values(coords).map((location, i) => {
+                            const svg_ref = useRef(null);
+                            if(svg_ref.current != null && document.getElementById("location_svg_"+i) == null){
+                                let { x, y, width, height } = svg_ref.current.getBBox();
+                                let cx = x + width / 2;
+                                let cy = y + height / 2;
+                                let name = document.createElementNS("http://www.w3.org/2000/svg", "text");
+                                name.setAttribute('id',"location_svg_"+i);
+                                name.setAttribute("x", cx);
+                                name.setAttribute("y", cy +5);
+                                name.innerHTML = location.number;
+                                svg_ref.current.parentNode.append(name);
+                            }
+                            return (
+                                <svg key={i} ref={svg_ref} >
+                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".98" fill="#FFFFFF" aria-valuetext="test" >
+                                        <path key={i} d={location.path} 
+                                        onClick={() => {
+                                            locationModalLogic(i+1);
+                                            setLocationDetails(locationsList[2])
+                                        }} 
+                                        fill={location.card_data.name === "Necunoscut" ? "red" : "transparent"} />
+                                    </g>
+                                </svg>
+                            )
+                        })
+                    }
+                </svg>
+                
                 {/* {isLoading
                     ?
                     <div> Loading </div>

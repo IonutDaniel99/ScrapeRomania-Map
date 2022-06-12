@@ -1,0 +1,42 @@
+{"1": {
+    "number": 1,
+    "path": "m334.41 193.33l-62.01-27.87-105.06-7.09-61.29-16.69-43.41-13.64-8.57 13.89-31.92-5.81-17.15 14.92 17.88 22.52 11.3 12.67 20.07 6.6 16.78 15.22 32.83 15.24 20.43 24.42 24.08 9.68-4.75 16.82-5.29 9.44 4.93 8.43 7.66 10.34-12.77 12.4 22.62 6.39 113.82-39.85 37.94-26.52 37.94-34.6-16.06-26.91z",
+    "card_data": {
+        "name": "Timisoara",
+        "location": "Timisoara",
+        "image_url": "",
+        "coords": {
+            "lat": "45.748872",
+            "long": "21.208679"
+        },
+        "tags": [
+            "castle",
+            "ruin"
+        ],
+        "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+        "distance": 909,
+        "popularity": 360046,
+        "visit_time": 886
+    }
+},
+"2": {
+    "number": 2,
+    "path": "m161.98 323.06l-.54 7.5 13.41 4.13 7.57 8.88 20.44 15.4 18.99 5.93 21.87-6.7 8.78 20.56 23.34 3.6 24.81 5.14 25.54 8.22 19.69-33.38 57.64-33.32 16.78-65.89-67.74-42.16-38.02 34.71-38.02 27.39-114.54 39.99z",
+    "card_data": {
+        "name": "Staţiunea balneoclimatică Buziaş",
+        "location": "Timisoara",
+        "image_url": "",
+        "coords": {
+            "lat": "45.648693",
+            "long": "21.606187"
+        },
+        "tags": [
+            "castle",
+            "ruin"
+        ],
+        "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+        "distance": 909,
+        "popularity": 360046,
+        "visit_time": 886
+    }
+}}

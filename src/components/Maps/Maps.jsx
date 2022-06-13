@@ -64,7 +64,15 @@ const Maps = () => {
     const gPanZoomRef = useRef(null);
     useEffect(()=>{
         if(gPanZoomRef.current == null) return;
-        panzoom(gPanZoomRef.current)
+        panzoom(gPanZoomRef.current, {
+            transformOrigin: {x: 0.5, y: 0.5},
+            maxZoom: 8,
+            minZoom: 1,
+            smoothScroll: true,
+            zoomSpeed: 0.5,
+            bounds: true,
+            boundsPadding: 0.6
+        })
     },[gPanZoomRef])
 
     return (

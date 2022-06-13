@@ -4,8 +4,8 @@ import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
 
 import countries from '../../data/countries.json';
-import coords from '../../dummy/coordsC.json';
-
+import coords from '../../dummy/coordsD.json';
+import panzoom from 'panzoom';
 
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
@@ -17,6 +17,7 @@ const Maps = () => {
     const [lastLocationId, setLastLocationId] = useState(0);
     const [locationDetails, setLocationDetails] = useState();
     const [locationDetailsIsOpen, setLocationDetailsIsOpen] = useState(false);
+
 
 
     useEffect(() => {
@@ -60,31 +61,33 @@ const Maps = () => {
         setLocationDetailsIsOpen(false);
     };
 
+    const gPanZoomRef = useRef(null);
+    useEffect(()=>{
+        if(gPanZoomRef.current == null) return;
+        panzoom(gPanZoomRef.current)
+    },[gPanZoomRef])
+
     return (
         <>
-            <div>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width="1200" height="800" viewBox="0 0 1200 800">
+            <div className='relative' ref={gPanZoomRef}>
+                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={window.innerWidth} height={window.innerHeight}>
                     {
                         Object.values(coords).map((location, i) => {
                             const svg_ref = useRef(null);
-                            if(svg_ref.current != null && document.getElementById("location_svg_"+i) == null){
-                                let { x, y, width, height } = svg_ref.current.getBBox();
-                                let cx = x + width / 2;
-                                let cy = y + height / 2;
-                                let name = document.createElementNS("http://www.w3.org/2000/svg", "text");
-                                name.setAttribute('id',"location_svg_"+i);
-                                name.setAttribute("x", cx);
-                                name.setAttribute("y", cy +5);
+                            if (svg_ref.current != null && document.getElementById("location_svg_"+i) == null){
+                                let name = document.createElement("div");
+                                name.setAttribute("id", `location_svg_${i}`);
+                                name.setAttribute("class", 'absolute top-0 left-0')
+                                name.setAttribute("style", `transform: translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`);
                                 name.innerHTML = location.number;
-                                svg_ref.current.parentNode.append(name);
+                                svg_ref.current.parentElement.parentNode.append(name);
                             }
                             return (
                                 <svg key={i} ref={svg_ref} >
                                     <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".98" fill="#FFFFFF" aria-valuetext="test" >
                                         <path key={i} d={location.path} 
                                         onClick={() => {
-                                            locationModalLogic(i+1);
-                                            setLocationDetails(locationsList[2])
+                                            console.log(location.card_data.name)
                                         }} 
                                         fill={location.card_data.name === "Necunoscut" ? "red" : "transparent"} />
                                     </g>
@@ -93,7 +96,7 @@ const Maps = () => {
                         })
                     }
                 </svg>
-                
+            </div>
                 {/* {isLoading
                     ?
                     <div> Loading </div>
@@ -113,7 +116,6 @@ const Maps = () => {
                         }
                     })
                 } */}
-            </div>
             {locationDetailsIsOpen &&
                 <LocationDetailsModal
                     key={locationId}

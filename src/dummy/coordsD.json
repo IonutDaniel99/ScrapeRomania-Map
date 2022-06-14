@@ -864,7 +864,7 @@
         "card_data": {
             "name": "Castelul Bran",
             "location": "Timisoara",
-            "image_url": "",
+            "image_url": "http://www.bran-castle.com/assets/castle/06-full.jpg",
             "coords": {
                 "lat": "45.648693",
                 "long": "21.606187"

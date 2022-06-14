@@ -40,7 +40,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                     absolute w-full min-h-[28rem] max-w-sm shadow-lg rounded-lg overflow-hidden z-50
                     sm:top-20 sm:left-10 sm:w-96 my-4
                 ">
-                <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={location_details.image} />
+                <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={location_details.image_url} />
                 <div className='flex max-w-sm w-full shadow-md rounded-lg overflow-hidden mx-auto'>
                     <div className="overflow-hidden relative transform shadow-lg text-white w-full">
                         <div className="absolute inset-0 top-64 z-10 transition duration-300 ease-in-out bg-gradient-to-t from-black via-black to-transparent"></div>

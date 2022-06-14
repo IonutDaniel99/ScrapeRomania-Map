@@ -7,7 +7,6 @@ import { capitalize } from 'lodash';
 import _ from 'lodash';
 const LocationDetailsModal = ({ locationId, location_details, visited_locations, onModalLocationsChanged, onHandleChildCloseModal }) => {
     const [check, setCheck] = useState(true);
-
     useEffect(() => {
         isChecked();
     }, []);
@@ -35,21 +34,13 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
         writeData(_newLocations);
     };
 
-    const _tempImageGen = () => {
-        const url = `https://loremflickr.com/${_.random(590, 610)}/${_.random(990, 1010)}`;
-        // const bran = 'http://www.bran-castle.com/assets/castle/06-full.jpg';
-
-
-        return url;
-    };
-
     return (
         <>
             <div className="
                     absolute w-full min-h-[28rem] max-w-sm shadow-lg rounded-lg overflow-hidden z-50
                     sm:top-20 sm:left-10 sm:w-96 my-4
                 ">
-                <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={_tempImageGen()} />
+                <img className="absolute inset-0 transform w-full -translate-y-4 grayscale-0" src={location_details.image} />
                 <div className='flex max-w-sm w-full shadow-md rounded-lg overflow-hidden mx-auto'>
                     <div className="overflow-hidden relative transform shadow-lg text-white w-full">
                         <div className="absolute inset-0 top-64 z-10 transition duration-300 ease-in-out bg-gradient-to-t from-black via-black to-transparent"></div>
@@ -64,7 +55,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                         <div className="flex flex-col w-4/6 space-y-2 ">
                                             <h3 className="text-2xl font-bold text-white">{location_details.name}</h3>
                                             <div className="mb-0 text-xs text-gray-400 w-3/4 leading-5 flex gap-2">
-                                                <p className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis">
+                                                <p onClick={onHandleChildCloseModal} className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis">
                                                     {capitalize(location_details.tags[0])}
                                                 </p>
                                                 <p className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis">

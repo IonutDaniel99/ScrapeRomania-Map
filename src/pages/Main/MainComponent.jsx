@@ -8,7 +8,12 @@ import { fetchUser } from '../../utils/fetchUserDetails';
 function MainComponent() {
 
     const navigate = useNavigate();
-
+    window.addEventListener("touchstart", touchHandler, { passive: false });
+    function touchHandler(event) {
+        if (event.touches.length > 1) {
+            event.preventDefault();
+        }
+    }
     const [user, setUser] = useState();
     onAuthStateChanged(getAuth(), (user) => {
         if (user) {
@@ -23,9 +28,9 @@ function MainComponent() {
     }, []);
 
     return (
-        <div className='h-screen flex justify-center items-center flex-col bg-white'>
+        <div className='h-screen flex justify-center items-center flex-col bg-white  overflow-hidden'>
             <Maps />
-            <NavBar userData = {user}/>
+            <NavBar userData={user} />
         </div>
     );
 }

@@ -128,7 +128,7 @@ const Maps = () => {
                                 if (visitedLocations.includes((locationId).toString())) {
                                     return (
                                         <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".90" fill="#FFFFFF" aria-valuetext="test" >
+                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
                                                 <path key={i} d={location.path}
                                                     onPointerUp={(e) => {
                                                         if (isPanMoving == false) {
@@ -136,14 +136,14 @@ const Maps = () => {
                                                             setLocationDetails(location.card_data);
                                                         }
                                                     }}
-                                                    fill="transparent" />
+                                                    fill="green" />
                                             </g>
                                         </svg>
                                     );
                                 } else {
                                     return (
                                         <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".90" fill="#FFFFFF" aria-valuetext="test" >
+                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
                                                 <path key={i} d={location.path}
                                                     onPointerUp={(e) => {
                                                         if (isPanMoving == false) {
@@ -151,7 +151,7 @@ const Maps = () => {
                                                             setLocationDetails(location.card_data);
                                                         }
                                                     }}
-                                                    fill="blue" />
+                                                    fill="white" />
                                             </g>
                                         </svg>
                                     );

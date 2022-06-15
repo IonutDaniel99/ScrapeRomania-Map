@@ -35,18 +35,6 @@ const Login = () => {
         }
     }, [user]);
 
-    // const singIn = async () => {
-    //     try {
-    //         await googleSignIn();
-    //     } catch (error) {
-    //         console.log(error);
-    //     }
-
-   
-
-    //     navigate('/main');
-    // };
-
     return (
         <div className='w-screen h-screen flex justify-center items-center bg-white relative'>
             <video muted loop autoPlay className='absolute object-cover w-full h-full'>

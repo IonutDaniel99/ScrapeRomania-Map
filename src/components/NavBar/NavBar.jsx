@@ -5,6 +5,7 @@ import { CgProfile } from 'react-icons/cg';
 import { FiLogOut } from 'react-icons/fi';
 import { RiSettings3Line } from 'react-icons/ri';
 import { UserAuth } from '../../context/AuthContext';
+import { Navigate } from 'react-router-dom';
 
 function NavBar() {
     const { logOut, user } = UserAuth();
@@ -12,6 +13,7 @@ function NavBar() {
     const handleSignOut = async () => {
         try {
             await logOut();
+            Navigate('/');
         } catch (error) {
             console.log(error);
         }

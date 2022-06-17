@@ -69,7 +69,7 @@ const Maps = () => {
         if (gPanZoomRef.current == null) return;
         var instance = panzoom(gPanZoomRef.current, {
             transformOrigin: { x: 0.5, y: 0.5 },
-            maxZoom: 8,
+            maxZoom: 6,
             minZoom: 1,
             smoothScroll: false,
             zoomSpeed: 0.5,
@@ -104,8 +104,7 @@ const Maps = () => {
                 setDisplayPanZoomDisplayNumbers(false);
             }
         })
-    }, [gPanZoomRef])
-
+    }, [])
 
     return (
         <>

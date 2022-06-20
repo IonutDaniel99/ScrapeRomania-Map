@@ -3,8 +3,7 @@ import React, { useEffect, useReducer, useRef, useState } from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
 
-import countries from '../../data/countries.json';
-import coords from '../../dummy/coordsD.json';
+import coords from '../../data/coordsD.json';
 import panzoom from 'panzoom';
 
 const Maps = () => {
@@ -26,6 +25,7 @@ const Maps = () => {
         const a = fetchLocationToVisit();
         const b = fetchUserVisitedLocations();
         Promise.all([a, b]).then(values => {
+            setLocationsList(values[0]);
             setVisitedLocations(Object.keys(values[1]).map(function (key) { return values[1][key] = `${key}`; }));
         }).finally(() => {
 
@@ -44,6 +44,7 @@ const Maps = () => {
     };
 
     const locationModalLogic = (index) => {
+        console.log(index);
         if (index !== lastLocationId) {
             setLocationDetailsIsOpen(true);
             setLastLocationId(index);
@@ -67,7 +68,7 @@ const Maps = () => {
     useEffect(() => {
 
         if (gPanZoomRef.current == null) return;
-        var instance = panzoom(gPanZoomRef.current, {
+        const instance = panzoom(gPanZoomRef.current, {
             transformOrigin: { x: 0.5, y: 0.5 },
             maxZoom: 6,
             minZoom: 1,
@@ -80,20 +81,20 @@ const Maps = () => {
                 bottom: 200
             },
             boundsPadding: 0.6,
-            onTouch: function (e) {
+            onTouch: function () {
                 console.log("doubleee")
                 return false; // tells the library to not preventDefault.
             },
-            onDoubleClick: function (e) {
+            onDoubleClick: function () {
                 console.log('double');
                 return false; // tells the library to not preventDefault, and not stop propagation
             }
         })
 
-        instance.on('pan', (e) => {
+        instance.on('pan', () => {
             setIsPanMoving(true);
         })
-        instance.on('panend', (e) => {
+        instance.on('panend', () => {
             setIsPanMoving(false);
         })
         instance.on('zoom', (e) => {
@@ -129,13 +130,13 @@ const Maps = () => {
                                         <svg key={i} ref={svg_ref} strokeWidth='.50'>
                                             <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
                                                 <path key={i} d={location.path}
-                                                    onPointerUp={(e) => {
-                                                        if (isPanMoving == false) {
+                                                    onPointerUp={() => {
+                                                        if (isPanMoving === false) {
                                                             locationModalLogic(locationId);
                                                             setLocationDetails(location.card_data);
                                                         }
                                                     }}
-                                                    fill="green" />
+                                                    fill='blue' />
                                             </g>
                                         </svg>
                                     );
@@ -144,13 +145,13 @@ const Maps = () => {
                                         <svg key={i} ref={svg_ref} strokeWidth='.50'>
                                             <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
                                                 <path key={i} d={location.path}
-                                                    onPointerUp={(e) => {
-                                                        if (isPanMoving == false) {
+                                                    onPointerUp={() => {
+                                                        if (isPanMoving === false) {
                                                             locationModalLogic(locationId);
                                                             setLocationDetails(location.card_data);
                                                         }
                                                     }}
-                                                    fill="white" />
+                                                    fill={location.card_data.name === "Necunoscut" ? 'green': 'white'} />
                                             </g>
                                         </svg>
                                     );

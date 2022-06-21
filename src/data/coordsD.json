@@ -2698,5 +2698,430 @@
       "popularity": 360046,
       "visit_time": 886
     }
+  },
+  "109": {
+    "number": 109,
+    "path": "m657.24 149.38l-12.83 1.21-4.42.53-4.94 2.85-3.81-.3-2.86 1.23.86 1.86-.34 1.68-2.34 0 .08 1.46-.78 1.39-1.64 1.11-1.74 2.09-.17 1.81-1.74.58-1.12-.35-3.47 2.8-.26 1.86-4.68 1.17-1.65.93-1.38-.87-1.74 2.33.09 5.01 2.08 2.81 6.07 1.4 1.9 2.45-1.21 2.8.52 5.03.69 2.81 5.03 2.22 1.56 2.58 13.87-.59 13.35-.35 24.96-2.1-1.69-7.14 2.97-6.95-3.33-6.82-2.46-5.06-6.7-6.43-2.36-10.03-4.37-7.01z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Necunoscut",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "110": {
+    "number": 110,
+    "path": "m605.15 174.57l-3.3-.81-1.21.99-1.39-.24-5.72 0-3.9.7-1.82-.11 0 2.27.35 2.45-.26 2.34-.26 2.04-3.3 2.75-2.95 2.63-2.16.4-3.73-.52-5.63-.29-8.5-.24-10.75.06-11.09-1.46 1.73 5.73 0 5.26 2.08 4.57 4.16 6.33 2.95 4.57 5.55 5.87 9.71 1.17 3.46.24 9.88-7.75 10.41-3.99 10.05-4.68 13.52-1.64 8.93-1.18-1.78-2.54-4.72-2.02-1.34-8.19 1.06-2.92-1.46-1.93-6.02-1.13-2.15-3.32-.4-5.41z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Parcul National Muntii Rodnei",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "111": {
+    "number": 111,
+    "path": "m492.98 150.89l-5.03 3.95-1.9 5.23 3.98 6.29 7.28 5.12 13.01 6.42 6.58 2.56 11.1 2.34 11.27 3.74 11.44 1.52 10.58 0 8.66.11 10.4.82 5.73-5.37.69-6.54-.17-2.91-2.26-3.39-1.9-2.44-3.3-4.66-3.29-.82-5.03-2.09-5.89-.35-1.74-1.51-3.47-1.28 0-2.79-.69-3.26-4.16-2.67-.87-2.44-4.16-1.51-3.46-.46-1.74.81-5.72.7-4.16-.35-5.03-1.51-1.73.35-2.43 1.39-2.42 2.32-.7 1.51-3.29.82-3.3 0-2.42.93-3.64.69-4.16 0-3.64.82-1.74-1.17-3.29-.92-3.99 0z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Valea Vaserului - Mocanita",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "112": {
+    "number": 112,
+    "path": "m493.04 201.12l7.8-12.4 12.48-7.6-16.47-7.58-9.88-5.94-4.34-6.87 3.47-6.98 3.82-2.67-2.26-2.33-4.51-2.32-3.29-.11-3.81-1.51-4.86 0-3.64 1.39-5.72 1.28-4.33 1.04-3.47-1.86-1.91-3.01-2.25 3.36-2.43 7.55 4.68 12.81 4.16 8.39 4.68 11.44 15.43 9.94 16.65 3.98z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Manastirea Barsana",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "113": {
+    "number": 113,
+    "path": "m567.41 222.81l-12.27-1.41-7.24-7.04-9.1-15.7.78-5.38-1.99-6.32-10.06-2.45-11.78-2.57-12.83 8.41-15.08 22.95-10.58 20.21 10.06 7.77 12.82 6.01 32.08 2.71 22.88-3.65 10.75-11.31 1.56-12.23z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Orasul Bistrita Nasaud",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "114": {
+    "number": 114,
+    "path": "m484.02 294.49l-3.29-26.77-7.8-3.67-8.15-4.13-16.99-.65-12.48-3.01-40.92-10.39-7.28 7.79-3.98 9.33-1.05 2.24 55.83 18.41 35.02 5.43 11.09 5.42z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Castelul Banffy de la Bondita",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "115": {
+    "number": 115,
+    "path": "m481.77 266.18l14.39-17.83-10.75-5.77-10.58-7.89-25.83-5.18-23.75-4.47-21.84 5.65-8.15 13.65 52.62 13.27 18.46 1.36 15.43 7.21z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Castelul Cornis",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "116": {
+    "number": 116,
+    "path": "m474.63 231.69l9.01-19.96 8.32-8.21-17.33-3.74-16.64-10.06-5.2-13.08-10.75-2.1-10.41-2.33-21.84-5.83-3.47 6.76-8.32 11.9-3.46 18.95 2.42 10.32 5.9 14.09 22.53-6.7 49.24 9.99z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Orasul Baia Mare",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "117": {
+    "number": 117,
+    "path": "m451.66 142.96l-.7-.82-2.6 0-2.08-1.21-2.42 0-1.56-.18-3.82.29-2.16.52-3.64.64-2.52-.64-1.82-1.33-1.73-.35-4.6-.64-2.08.53-2.68-.58-2.34-1.69-.87 2.56-2.25 2.95-.09 1.22.17 9.24-.17 5.58-.35 4.3 20.11 6.29 10.75.94 11.27 3.96-6.94-19.97 2.67-7.83 2.45-3.78z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Cimitirul Vesel din Sapanta",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "118": {
+    "number": 118,
+    "path": "m275.61 173.14l4.85 10.27 5.9 15.9 20.8 18.99 32.59 5.4 40.22 1.64 19.94 3.18-6.59-13.74-1.73-10.44 3.81-20.11 7.46-12.02 2.77-6.53.35-4.42 0-4.89 0-9.06.34-3.48-6.24-2.56-5.2-2.08-3.46-1.16-3.82-2.79-3.81-2.08 0-3.01-4.86-1.39-4.5-.93-4.16-2.55-6.77 3.94-3.2 9.39-8.54 2.49-12.24-3.05 2.19 6.26-7.56 1.73-6.21 5.98-9.35 1.94 1.39 5.86-6.23 1.07-5.38 5.89-16.38 1.9-9.06-4.76-4 1.23-3.32 7.99z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Orasul Satu Mare",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "119": {
+    "number": 119,
+    "path": "m273.46 172.33l-4.25 0-5.03-1.98-1.56-.82-.69 2.1-.87 1.16-3.98 1.64-1.56 1.51-1.56 2.45-3.3.59-1.73 4.08-2.25 4.67 8.49 7.84 5.72 5.26 7.98 12.89 20.8 5.52 15.08-.82-19.94-18.52-5.54-13.92-5.81-13.65z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Orasul Carei",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "120": {
+    "number": 120,
+    "path": "m224.38 218.28l5.03 2.59 4.77.82 5.11.82 15.6 2.94 12.14 2.11 21.32-7.63-21.32-5.17-8.15-13.59-5.89-4.8-7.63-7.02-2.17 2.4-5.28-.64-4.17 3.86-4.85 2.1-2.25 2.23-2.78 3.39-1.21 2.7 3.12 4.1.17 4.51-1.56 4.28z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Statiunea balneoclimaterica Tasnad",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "121": {
+    "number": 121,
+    "path": "m266.16 228.51l-37.7-7.11-5.03-2.41-5.29-.65-3.99 1.12-1.21 2.93-3.47 4.82-2.08 2.94-.52 2.35-4.33 5.18 2.08 1.18-.52 3.53-5.2 2.12-2.25 5.07 0 3.31-3.13 0-7.28 3.3-2.42 2.6-6.24 3.07 4.16 3.07.86 1.78-1.38 2.01.34 1.77 14.74 1.42 12.83.83 12.83.59 5.72-4.85 5.2-7.57 6.24-7.32 5.72-8.25 8.84-5.54 12.48-11.29z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Orasul Oradea",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "122": {
+    "number": 122,
+    "path": "m224.35 273.41l13.26 1.42 15.52 4.62.61 5.21 20.24 8.37 7.06 2.19 4.85-5.34 13.35-9.36 4.16-5.1-26.35-9.23-20.11-7.09-13.52-6.96-2.43 2.48-6.06 6.61-4.51 7.92-6.07 4.26z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Pestera Vadul Crisului",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "123": {
+    "number": 123,
+    "path": "m304.59 220.24l-15.26 1.06-21.49 7.75-12.14 11.89-9.01 4.95-2.6 4.13 14.39 6.96 20.8 7.56 26 9.58 5.81-6.21-5.29-18.6-3.64-16.38 2.43-12.69z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Statiunea balneoclimaterica Boghis",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "124": {
+    "number": 124,
+    "path": "m366.65 216.72l-58.25 1.64-1.73 3.29-2.43 11.28 4.16 16.26 4.6 18.42 10.49-3.43 18.63 7.87 13.79-46.17 10.74-9.16z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Cetatea Porolissum",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
+  },
+  "125": {
+    "number": 125,
+    "path": "m393.35 215.08l-22.88 1.64-10.75 10.34-5.2 18.12-9.02 26.93 32.25-7.57 5.89-11.81 6.94-9.2 8.67-12.48-5.9-15.97z",
+    "number_coords": [
+      800,
+      285
+    ],
+    "card_data": {
+      "name": "Gradina Botanica de la Jibou",
+      "location": "Timisoara",
+      "image_url": "",
+      "coords": {
+        "lat": "45.648693",
+        "long": "21.606187"
+      },
+      "tags": [
+        "castle",
+        "ruin"
+      ],
+      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
+      "distance": 909,
+      "popularity": 360046,
+      "visit_time": 886
+    }
   }
 }

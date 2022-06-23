@@ -1,9 +1,8 @@
-/* eslint-disable */
 import React, { useEffect, useReducer, useRef, useState } from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
 
-import coords from '../../data/coordsD.json';
+import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
 
 const Maps = () => {
@@ -28,7 +27,6 @@ const Maps = () => {
             setLocationsList(values[0]);
             setVisitedLocations(Object.keys(values[1]).map(function (key) { return values[1][key] = `${key}`; }));
         }).finally(() => {
-
             setTimeout(() => {
                 setIsLoading(false);
             }, 1500);
@@ -82,21 +80,21 @@ const Maps = () => {
             },
             boundsPadding: 0.6,
             onTouch: function () {
-                console.log("doubleee")
+                console.log('doubleee');
                 return false; // tells the library to not preventDefault.
             },
             onDoubleClick: function () {
                 console.log('double');
                 return false; // tells the library to not preventDefault, and not stop propagation
             }
-        })
+        });
 
         instance.on('pan', () => {
             setIsPanMoving(true);
-        })
+        });
         instance.on('panend', () => {
             setIsPanMoving(false);
-        })
+        });
         instance.on('zoom', (e) => {
             if (e.getTransform().scale > 2.5) {
                 setDisplayPanZoomDisplayNumbers(true);
@@ -104,62 +102,69 @@ const Maps = () => {
             else {
                 setDisplayPanZoomDisplayNumbers(false);
             }
-        })
-    }, [])
+        });
+    }, []);
+
+    const svg_ref = useRef(null);
 
     return (
         <>
+
             <div className='relative' ref={gPanZoomRef}>
-                <div id="locations_numbers" ref={locationsNumberRef} style={{ visibility: displayPanZoomDisplayNumbers ? "visible" : "hidden" }}></div>
-                <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={1200} height={800}>
-                    {
-                        Object.values(coords).map((location, i) => {
-                            const svg_ref = useRef(null);
-                            const locationId = i + 1;
-                            if (svg_ref.current != null && document.getElementById("location_svg_" + i) == null) {
-                                let name = document.createElement("div");
-                                name.setAttribute("id", `location_svg_${i}`);
-                                name.setAttribute("class", 'absolute top-0 left-0 text-[6px] ml-1 mt-[10px] font-semibold')
-                                name.setAttribute("style", `transform: translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`);
-                                name.innerHTML = location.number;
-                                locationsNumberRef.current.appendChild(name);
-                            }
-                            if (!isLoading) {
-                                if (visitedLocations.includes((locationId).toString())) {
-                                    return (
-                                        <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
-                                                <path key={i} d={location.path}
-                                                    onPointerUp={() => {
-                                                        if (isPanMoving === false) {
-                                                            locationModalLogic(locationId);
-                                                            setLocationDetails(location.card_data);
-                                                        }
-                                                    }}
-                                                    fill='blue' />
-                                            </g>
-                                        </svg>
-                                    );
-                                } else {
-                                    return (
-                                        <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                            <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
-                                                <path key={i} d={location.path}
-                                                    onPointerUp={() => {
-                                                        if (isPanMoving === false) {
-                                                            locationModalLogic(locationId);
-                                                            setLocationDetails(location.card_data);
-                                                        }
-                                                    }}
-                                                    fill={location.card_data.name === "Necunoscut" ? 'green': 'white'} />
-                                            </g>
-                                        </svg>
-                                    );
+                {
+                    isLoading ? 'DA' :
+                        <>
+                            <div id="locations_numbers" ref={locationsNumberRef} style={{ visibility: displayPanZoomDisplayNumbers ? 'visible' : 'hidden' }}></div>
+                            <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={1200} height={800}>
+                                {Object.values(locationsList).map((location, i) => {
+                                    const locationId = i + 1;
+                                    if (svg_ref.current != null && document.getElementById('location_svg_' + i) == null) {
+                                        let name = document.createElement('div');
+                                        name.setAttribute('id', `location_svg_${i}`);
+                                        name.setAttribute('class', 'absolute top-0 left-0 text-[6px] ml-1 mt-[10px] font-semibold');
+                                        name.setAttribute('style', `transform: translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`);
+                                        name.innerHTML = location.number;
+                                        locationsNumberRef.current.appendChild(name);
+                                    }
+                                    if (!isLoading) {
+                                        if (visitedLocations.includes((locationId).toString())) {
+                                            return (
+                                                <svg key={i} ref={svg_ref} strokeWidth='.50'>
+                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
+                                                        <path key={i} d={location.path}
+                                                            onPointerUp={() => {
+                                                                if (isPanMoving === false) {
+                                                                    locationModalLogic(locationId);
+                                                                    setLocationDetails(location.card_data);
+                                                                }
+                                                            }}
+                                                            fill='blue' />
+                                                    </g>
+                                                </svg>
+                                            );
+                                        } else {
+                                            return (
+                                                <svg key={i} ref={svg_ref} strokeWidth='.50'>
+                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
+                                                        <path key={i} d={location.path}
+                                                            onPointerUp={() => {
+                                                                if (isPanMoving === false) {
+                                                                    locationModalLogic(locationId);
+                                                                    setLocationDetails(location.card_data);
+                                                                }
+                                                            }}
+                                                            fill={location.card_data.name === 'Necunoscut' ? 'green': 'white'} />
+                                                    </g>
+                                                </svg>
+                                            );
+                                        }
+                                    }
+                                })
                                 }
-                            }
-                        })
-                    }
-                </svg>
+                            </svg>
+                        </>
+                }
+
             </div>
             {
                 locationDetailsIsOpen &&

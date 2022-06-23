@@ -1,6 +1,7 @@
 import React, { useEffect, useReducer, useRef, useState } from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
+import { Transition } from '@tailwindui/react';
 
 import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
@@ -109,7 +110,6 @@ const Maps = () => {
 
     return (
         <>
-
             <div className='relative' ref={gPanZoomRef}>
                 {
                     isLoading ? 'DA' :
@@ -130,7 +130,12 @@ const Maps = () => {
                                         if (visitedLocations.includes((locationId).toString())) {
                                             return (
                                                 <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
+                                                    <defs>
+                                                        <pattern id={'img_pattern_'+locationId} patternUnits="userSpaceOnUse" width="600" height="1000">
+                                                            <image href = {location.card_data.image_url} x="0" y="200" width="300" height="600" />
+                                                        </pattern>
+                                                    </defs>
+                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
                                                         <path key={i} d={location.path}
                                                             onPointerUp={() => {
                                                                 if (isPanMoving === false) {
@@ -138,14 +143,14 @@ const Maps = () => {
                                                                     setLocationDetails(location.card_data);
                                                                 }
                                                             }}
-                                                            fill='blue' />
+                                                            fill={`url(#img_pattern_${locationId})`} />
                                                     </g>
                                                 </svg>
                                             );
                                         } else {
                                             return (
                                                 <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".40" fill="#FFFFFF" aria-valuetext="test" >
+                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
                                                         <path key={i} d={location.path}
                                                             onPointerUp={() => {
                                                                 if (isPanMoving === false) {
@@ -167,14 +172,23 @@ const Maps = () => {
 
             </div>
             {
-                locationDetailsIsOpen &&
-                <LocationDetailsModal
-                    key={locationId}
-                    locationId={locationId}
-                    location_details={locationDetails}
-                    visited_locations={visitedLocations}
-                    onModalLocationsChanged={onModalLocationsChanged}
-                    onHandleChildCloseModal={onHandleChildCloseModal} />
+                <Transition
+                    show={locationDetailsIsOpen}
+                    enter="transition-opacity duration-1000"
+                    enterFrom="opacity-0"
+                    enterTo="opacity-100"
+                    leave="transition-opacity duration-1000"
+                    leaveFrom="opacity-100"
+                    leaveTo="opacity-0"
+                >
+                    <LocationDetailsModal
+                        key={locationId}
+                        locationId={locationId}
+                        location_details={locationDetails}
+                        visited_locations={visitedLocations}
+                        onModalLocationsChanged={onModalLocationsChanged}
+                        onHandleChildCloseModal={onHandleChildCloseModal} />
+                </Transition>
             }
         </>
     );

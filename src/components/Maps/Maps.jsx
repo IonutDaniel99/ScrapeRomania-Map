@@ -2,9 +2,11 @@ import React, { useEffect, useReducer, useRef, useState } from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
 import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
 import { Transition } from '@tailwindui/react';
+import ReactLoading from 'react-loading';
 
 import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
+import SvgDisplay from './SvgDisplay';
 
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
@@ -43,7 +45,6 @@ const Maps = () => {
     };
 
     const locationModalLogic = (index) => {
-        console.log(index);
         if (index !== lastLocationId) {
             setLocationDetailsIsOpen(true);
             setLastLocationId(index);
@@ -71,7 +72,7 @@ const Maps = () => {
             transformOrigin: { x: 0.5, y: 0.5 },
             maxZoom: 6,
             minZoom: 1,
-            smoothScroll: false,
+            smoothScroll: true,
             zoomSpeed: 0.5,
             bounds: {
                 left: 700,
@@ -90,6 +91,7 @@ const Maps = () => {
             }
         });
 
+
         instance.on('pan', () => {
             setIsPanMoving(true);
         });
@@ -103,70 +105,85 @@ const Maps = () => {
             else {
                 setDisplayPanZoomDisplayNumbers(false);
             }
+            console.log(e.getTransform().scale);
         });
+
     }, []);
 
     const svg_ref = useRef(null);
 
     return (
         <>
+            {
+                isLoading &&
+                <div className={'absolute top-0 left-0 w-full h-full z-50 flex justify-center items-center'}>
+
+                    <ReactLoading type={'bubbles'} color={'black'} height={300} width={150} />
+                </div>
+            }
             <div className='relative' ref={gPanZoomRef}>
                 {
-                    isLoading ? 'DA' :
+                    !isLoading &&
                         <>
-                            <div id="locations_numbers" ref={locationsNumberRef} style={{ visibility: displayPanZoomDisplayNumbers ? 'visible' : 'hidden' }}></div>
+
+                            <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'}>
+                                {
+                                    Object.values(locationsList).map((location, i) => {
+                                        if (svg_ref.current != null) {
+                                            return (
+                                                <div
+                                                    key={`key_location_svg_${i}`}
+                                                    id={`location_svg_${i}`}
+                                                    className={'absolute top-0 left-0 text-[6px] ml-1 mt-[10px] font-semibold'}
+                                                    style={{
+                                                        transform: `translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`,
+                                                        visibility: displayPanZoomDisplayNumbers ? 'visible' : 'hidden',
+                                                    }}
+
+                                                >
+                                                    {location.number}
+                                                </div>
+                                            );
+                                        }
+                                    })
+                                }
+
+                            </div>
                             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={1200} height={800}>
                                 {Object.values(locationsList).map((location, i) => {
                                     const locationId = i + 1;
-                                    if (svg_ref.current != null && document.getElementById('location_svg_' + i) == null) {
-                                        let name = document.createElement('div');
-                                        name.setAttribute('id', `location_svg_${i}`);
-                                        name.setAttribute('class', 'absolute top-0 left-0 text-[6px] ml-1 mt-[10px] font-semibold');
-                                        name.setAttribute('style', `transform: translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`);
-                                        name.innerHTML = location.number;
-                                        locationsNumberRef.current.appendChild(name);
-                                    }
-                                    if (!isLoading) {
-                                        if (visitedLocations.includes((locationId).toString())) {
-                                            return (
-                                                <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                                    <defs>
-                                                        <pattern id={'img_pattern_'+locationId} patternUnits="userSpaceOnUse" width="600" height="1000">
-                                                            <image href = {location.card_data.image_url} x="0" y="200" width="300" height="600" />
-                                                        </pattern>
-                                                    </defs>
-                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
-                                                        <path key={i} d={location.path}
-                                                            onPointerUp={() => {
-                                                                if (isPanMoving === false) {
-                                                                    locationModalLogic(locationId);
-                                                                    setLocationDetails(location.card_data);
-                                                                }
-                                                            }}
-                                                            fill={`url(#img_pattern_${locationId})`} />
-                                                    </g>
-                                                </svg>
-                                            );
-                                        } else {
-                                            return (
-                                                <svg key={i} ref={svg_ref} strokeWidth='.50'>
-                                                    <g key={i} xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
-                                                        <path key={i} d={location.path}
-                                                            onPointerUp={() => {
-                                                                if (isPanMoving === false) {
-                                                                    locationModalLogic(locationId);
-                                                                    setLocationDetails(location.card_data);
-                                                                }
-                                                            }}
-                                                            fill={location.card_data.name === 'Necunoscut' ? 'green': 'white'} />
-                                                    </g>
-                                                </svg>
-                                            );
-                                        }
+                                    if (visitedLocations.includes((locationId).toString())) {
+                                        return (
+                                            <SvgDisplay
+                                                svg_ref = { svg_ref }
+                                                imageFill={true}
+                                                isPanMoving={isPanMoving}
+                                                key={i}
+                                                location={location}
+                                                locationId={locationId}
+                                                locationModalLogic={(id) => locationModalLogic(id)}
+                                                setLocationDetails={(location) => setLocationDetails(location)}
+                                            />
+
+                                        );
+                                    } else {
+                                        return (
+                                            <SvgDisplay
+                                                svg_ref = { svg_ref }
+                                                imageFill={false}
+                                                isPanMoving={isPanMoving}
+                                                key={i}
+                                                location={location}
+                                                locationId={locationId}
+                                                locationModalLogic={(id) => locationModalLogic(id)}
+                                                setLocationDetails={(location) => setLocationDetails(location)}
+                                            />
+                                        );
                                     }
                                 })
                                 }
                             </svg>
+
                         </>
                 }
 

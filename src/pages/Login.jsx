@@ -7,6 +7,7 @@ import { UserAuth } from '../context/AuthContext';
 import { firebaseApp } from '../config/firebase-config';
 
 const Login = () => {
+    console.log("Login");
     const { googleSignIn, user } = UserAuth();
     const navigate = useNavigate();
     const db = getDatabase(firebaseApp);

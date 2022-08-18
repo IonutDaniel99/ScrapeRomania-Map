@@ -1,7 +1,6 @@
 import React from 'react';
 import Maps from '../components/Maps/Maps';
 import NavBar from '../components/NavBar/NavBar';
-import {MouseParallaxChild, MouseParallaxContainer} from 'react-parallax-mouse';
 
 function Main() {
 
@@ -15,23 +14,8 @@ function Main() {
 
     return (
         <>
-            <MouseParallaxContainer
-                className="parallax w-screen h-screen "
-                containerStyles={{
-                    position: 'absolute',
-                    width: '100%',
-                    height: '100%'
-                }}
-                resetOnLeave
-            >
-                <MouseParallaxChild
-                    factorX={0.05}
-                    factorY={0.05}
-                >
-                    <img width={'100%'} height={'100%'} draggable="false" className={'scale-105'} src="https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
-                </MouseParallaxChild>
-            </MouseParallaxContainer>
             <div className='h-screen w-screen flex justify-center items-center flex-col bg-white overflow-hidden'>
+                <img width={'100%'} height={'100%'} draggable="false" className={'scale-105 absolute'} src="https://images.pexels.com/photos/326333/pexels-photo-326333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" />
                 <Maps />
                 <NavBar />
             </div>

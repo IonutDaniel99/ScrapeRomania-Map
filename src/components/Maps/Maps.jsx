@@ -7,6 +7,7 @@ import ReactLoading from 'react-loading';
 import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
 import SvgDisplay from './SvgDisplay';
+import {Slider} from '@mui/material';
 
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
@@ -22,6 +23,7 @@ const Maps = () => {
     const locationsNumberRef = useRef(null);
     const [displayPanZoomDisplayNumbers, setDisplayPanZoomDisplayNumbers] = useState(false);
     const [isPanMoving, setIsPanMoving] = useState(false);
+
 
     useEffect(() => {
         const a = fetchLocationToVisit();
@@ -117,15 +119,14 @@ const Maps = () => {
             {
                 isLoading &&
                 <div className={'absolute top-0 left-0 w-full h-full z-50 flex justify-center items-center'}>
-
                     <ReactLoading type={'bubbles'} color={'black'} height={300} width={150} />
                 </div>
             }
             <div className='relative' ref={gPanZoomRef}>
+
                 {
                     !isLoading &&
                         <>
-
                             <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'}>
                                 {
                                     Object.values(locationsList).map((location, i) => {
@@ -183,11 +184,39 @@ const Maps = () => {
                                 })
                                 }
                             </svg>
-
                         </>
                 }
-
             </div>
+            <div className={'absolute z-50 right-0 h-96'}>
+                <Slider
+                    aria-label="Custom marks"
+                    defaultValue={100}
+                    step={100}
+                    valueLabelDisplay="auto"
+                    min={100}
+                    max={600}
+                    orientation="vertical"
+                    marks={[
+                        {
+                            value: 100,
+                            label: '100',
+                        },
+                        {
+                            value: 200,
+                            label: '200',
+                        },
+                        {
+                            value: 300,
+                            label: '300',
+                        },
+                        {
+                            value: 600,
+                            label: '600',
+                        },
+                    ]}
+                />
+            </div>
+
             {
                 <Transition
                     show={locationDetailsIsOpen}

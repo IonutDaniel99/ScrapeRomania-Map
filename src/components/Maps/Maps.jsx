@@ -24,6 +24,7 @@ const Maps = () => {
     const [displayPanZoomDisplayNumbers, setDisplayPanZoomDisplayNumbers] = useState(false);
     const [isPanMoving, setIsPanMoving] = useState(false);
 
+    const [isMouseOnPopup, setIsMouseOnPopup] = useState(false);
 
     useEffect(() => {
         const a = fetchLocationToVisit();
@@ -66,6 +67,10 @@ const Maps = () => {
         setLocationDetailsIsOpen(false);
     };
 
+    useEffect(()=>{
+        console.log(isMouseOnPopup);
+    },[isMouseOnPopup]);
+
     const gPanZoomRef = useRef(null);
     useEffect(() => {
 
@@ -73,13 +78,16 @@ const Maps = () => {
         const instance = panzoom(gPanZoomRef.current, {
             transformOrigin: { x: 0.5, y: 0.5 },
             maxZoom: 6,
-            minZoom: 1,
+            minZoom: 1.25,
             smoothScroll: true,
             zoomSpeed: 0.5,
+            initialY: 450,
+            initialX: 450,
+            initialZoom: 1.25,
             bounds: {
                 left: 700,
                 right: 500,
-                top: 200,
+                top: 400,
                 bottom: 200
             },
             boundsPadding: 0.6,
@@ -90,12 +98,15 @@ const Maps = () => {
             onDoubleClick: function () {
                 console.log('double');
                 return false; // tells the library to not preventDefault, and not stop propagation
+            },
+            beforeMouseDown: function(e) {
+                var shouldIgnore = !e.altKey;
+                return shouldIgnore;
             }
         });
-
-
         instance.on('pan', () => {
             setIsPanMoving(true);
+
         });
         instance.on('panend', () => {
             setIsPanMoving(false);
@@ -127,7 +138,7 @@ const Maps = () => {
                 {
                     !isLoading &&
                         <>
-                            <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'}>
+                            <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'} onMouse>
                                 {
                                     Object.values(locationsList).map((location, i) => {
                                         if (svg_ref.current != null) {
@@ -140,7 +151,6 @@ const Maps = () => {
                                                         transform: `translate(${location.number_coords[0]}px,${location.number_coords[1]}px)`,
                                                         visibility: displayPanZoomDisplayNumbers ? 'visible' : 'hidden',
                                                     }}
-
                                                 >
                                                     {location.number}
                                                 </div>
@@ -187,36 +197,6 @@ const Maps = () => {
                         </>
                 }
             </div>
-            <div className={'absolute z-50 right-0 h-96'}>
-                <Slider
-                    aria-label="Custom marks"
-                    defaultValue={100}
-                    step={100}
-                    valueLabelDisplay="auto"
-                    min={100}
-                    max={600}
-                    orientation="vertical"
-                    marks={[
-                        {
-                            value: 100,
-                            label: '100',
-                        },
-                        {
-                            value: 200,
-                            label: '200',
-                        },
-                        {
-                            value: 300,
-                            label: '300',
-                        },
-                        {
-                            value: 600,
-                            label: '600',
-                        },
-                    ]}
-                />
-            </div>
-
             {
                 <Transition
                     show={locationDetailsIsOpen}
@@ -227,13 +207,19 @@ const Maps = () => {
                     leaveFrom="opacity-100"
                     leaveTo="opacity-0"
                 >
-                    <LocationDetailsModal
-                        key={locationId}
-                        locationId={locationId}
-                        location_details={locationDetails}
-                        visited_locations={visitedLocations}
-                        onModalLocationsChanged={onModalLocationsChanged}
-                        onHandleChildCloseModal={onHandleChildCloseModal} />
+                    <span 
+                        onMouseEnter={() => {setIsMouseOnPopup(true);}}
+                        onMouseLeave={() => {setIsMouseOnPopup(false);}}
+                    >
+                        <LocationDetailsModal
+                            key={locationId}
+                            locationId={locationId}
+                            location_details={locationDetails}
+                            visited_locations={visitedLocations}
+                            onModalLocationsChanged={onModalLocationsChanged}
+                            onHandleChildCloseModal={onHandleChildCloseModal} />
+                    </span>
+
                 </Transition>
             }
         </>

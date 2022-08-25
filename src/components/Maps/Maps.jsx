@@ -1,13 +1,12 @@
-import React, { useEffect, useReducer, useRef, useState } from 'react';
+import React, {useEffect, useReducer, useRef, useState} from 'react';
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal';
-import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils';
-import { Transition } from '@tailwindui/react';
+import {getLocatiosToVisit, getUserVisitedLocations} from '../../utils/firebaseUtils';
+import {Transition} from '@tailwindui/react';
 import ReactLoading from 'react-loading';
 
 import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
 import SvgDisplay from './SvgDisplay';
-import {Slider} from '@mui/material';
 
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
@@ -78,16 +77,15 @@ const Maps = () => {
         const instance = panzoom(gPanZoomRef.current, {
             transformOrigin: { x: 0.5, y: 0.5 },
             maxZoom: 6,
-            minZoom: 1.25,
+            minZoom: 1,
             smoothScroll: true,
             zoomSpeed: 0.5,
-            initialY: 450,
-            initialX: 450,
-            initialZoom: 1.25,
+            initialX: 0,
+            initialY: 0,
             bounds: {
-                left: 700,
-                right: 500,
-                top: 400,
+                left: 800, //700 - 500 - 400 - 200
+                right: 400,
+                top: 600,
                 bottom: 200
             },
             boundsPadding: 0.6,
@@ -100,8 +98,7 @@ const Maps = () => {
                 return false; // tells the library to not preventDefault, and not stop propagation
             },
             beforeMouseDown: function(e) {
-                var shouldIgnore = !e.altKey;
-                return shouldIgnore;
+                return !e.altKey;
             }
         });
         instance.on('pan', () => {
@@ -118,8 +115,9 @@ const Maps = () => {
             else {
                 setDisplayPanZoomDisplayNumbers(false);
             }
-            console.log(e.getTransform().scale);
         });
+
+        return () => {};
 
     }, []);
 
@@ -138,7 +136,7 @@ const Maps = () => {
                 {
                     !isLoading &&
                         <>
-                            <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'} onMouse>
+                            <div id="locations_numbers" ref={locationsNumberRef} className={'z-50'}>
                                 {
                                     Object.values(locationsList).map((location, i) => {
                                         if (svg_ref.current != null) {

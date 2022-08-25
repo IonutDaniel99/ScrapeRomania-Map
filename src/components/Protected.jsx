@@ -4,7 +4,7 @@ import { UserAuth } from '../context/AuthContext';
 
 const Protected = ({ children }) => {
     const { user } = UserAuth();
-    if (user) { //TODO: DO NOT FORGET TO REVERSE BOOL
+    if (!user) {
         return <Navigate to='/' />;
     }
 

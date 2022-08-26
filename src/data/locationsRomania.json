@@ -9,7 +9,7 @@
     "card_data": {
       "name": "Orasul Timisoara",
       "location": "Timisoara",
-      "image_url": "https://loremflickr.com/604/1000",
+      "image_url": "/images/locations_images/timisoara_01.jpg",
       "coords": {
         "lat": "45.748872",
         "long": "21.208679"

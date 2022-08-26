@@ -15,7 +15,7 @@ const SvgDisplay = ({svg_ref, imageFill, locationId, location, isPanMoving, loca
             <svg ref = {svg_ref} strokeWidth='.50'>
                 <defs>
                     <pattern id={'img_pattern_' + locationId} patternUnits="userSpaceOnUse" width="600" height="1000">
-                        <image href={location.card_data.image_url} x="0" y="200" width="300" height="600"/>
+                        <image href={location.card_data.image_url} x="0" y="0" width="400" height="400" />
                     </pattern>
                     <filter id="white-glow" x="-5000%" y="-5000%" width="10000%" height="10000%">
                         <feFlood result="flood" floodColor="#facc15" floodOpacity=".8"></feFlood>

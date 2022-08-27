@@ -66,10 +66,6 @@ const Maps = () => {
         setLocationDetailsIsOpen(false);
     };
 
-    useEffect(()=>{
-        console.log(isMouseOnPopup);
-    },[isMouseOnPopup]);
-
     const gPanZoomRef = useRef(null);
     useEffect(() => {
 
@@ -90,11 +86,9 @@ const Maps = () => {
             },
             boundsPadding: 0.6,
             onTouch: function () {
-                console.log('doubleee');
                 return false; // tells the library to not preventDefault.
             },
             onDoubleClick: function () {
-                console.log('double');
                 return false; // tells the library to not preventDefault, and not stop propagation
             },
             beforeMouseDown: function(e) {
@@ -161,34 +155,19 @@ const Maps = () => {
                             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={1200} height={800}>
                                 {Object.values(locationsList).map((location, i) => {
                                     const locationId = i + 1;
-                                    if (visitedLocations.includes((locationId).toString())) {
-                                        return (
-                                            <SvgDisplay
-                                                svg_ref = { svg_ref }
-                                                imageFill={true}
-                                                isPanMoving={isPanMoving}
-                                                key={i}
-                                                location={location}
-                                                locationId={locationId}
-                                                locationModalLogic={(id) => locationModalLogic(id)}
-                                                setLocationDetails={(location) => setLocationDetails(location)}
-                                            />
-
-                                        );
-                                    } else {
-                                        return (
-                                            <SvgDisplay
-                                                svg_ref = { svg_ref }
-                                                imageFill={false}
-                                                isPanMoving={isPanMoving}
-                                                key={i}
-                                                location={location}
-                                                locationId={locationId}
-                                                locationModalLogic={(id) => locationModalLogic(id)}
-                                                setLocationDetails={(location) => setLocationDetails(location)}
-                                            />
-                                        );
-                                    }
+                                    const imageFill = visitedLocations.includes((locationId).toString());
+                                    return (
+                                        <SvgDisplay
+                                            svg_ref = { svg_ref }
+                                            imageFill={imageFill}
+                                            isPanMoving={isPanMoving}
+                                            key={i}
+                                            location={location}
+                                            locationId={locationId}
+                                            locationModalLogic={(id) => locationModalLogic(id)}
+                                            setLocationDetails={(location) => setLocationDetails(location)}
+                                        />
+                                    );
                                 })
                                 }
                             </svg>
@@ -205,18 +184,13 @@ const Maps = () => {
                     leaveFrom="opacity-100"
                     leaveTo="opacity-0"
                 >
-                    <span 
-                        onMouseEnter={() => {setIsMouseOnPopup(true);}}
-                        onMouseLeave={() => {setIsMouseOnPopup(false);}}
-                    >
-                        <LocationDetailsModal
-                            key={locationId}
-                            locationId={locationId}
-                            location_details={locationDetails}
-                            visited_locations={visitedLocations}
-                            onModalLocationsChanged={onModalLocationsChanged}
-                            onHandleChildCloseModal={onHandleChildCloseModal} />
-                    </span>
+                    <LocationDetailsModal
+                        key={locationId}
+                        locationId={locationId}
+                        location_details={locationDetails}
+                        visited_locations={visitedLocations}
+                        onModalLocationsChanged={onModalLocationsChanged}
+                        onHandleChildCloseModal={onHandleChildCloseModal} />
 
                 </Transition>
             }

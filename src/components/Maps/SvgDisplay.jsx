@@ -31,8 +31,7 @@ const SvgDisplay = ({svg_ref, imageFill, locationId, location, isPanMoving, loca
                 <g xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
                     <path d={location.path} 
                         filter={'url(#white-glow)'}
-                        onPointerUp={() => pointerUp()}
-                        fill={`url(#img_pattern_${locationId})`} />
+                        onPointerUp={() => pointerUp()}/>
                 </g>
             </svg>
         );
@@ -42,7 +41,7 @@ const SvgDisplay = ({svg_ref, imageFill, locationId, location, isPanMoving, loca
                 <g xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
                     <path d={location.path}
                         onPointerUp={() => pointerUp()}
-                        fill={location.card_data.name === 'Necunoscut' ? 'green': 'white'} />
+                        fill={location.card_data.image_url !== '' ? 'green': 'white'} />
                 </g>
             </svg>
         );

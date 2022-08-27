@@ -9,7 +9,7 @@
     "card_data": {
       "name": "Orasul Timisoara",
       "location": "Timisoara",
-      "image_url": "/images/locations_images/timisoara_01.jpg",
+      "image_url": "01_timisoara",
       "coords": {
         "lat": "45.748872",
         "long": "21.208679"
@@ -34,7 +34,7 @@
     "card_data": {
       "name": "Orasul Arad",
       "location": "dsfdsf",
-      "image_url": "https://loremflickr.com/604/999",
+      "image_url": "02_arad",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -59,7 +59,7 @@
     "card_data": {
       "name": "Statiunea balneoclimaterica Moneasa",
       "location": "3333",
-      "image_url": "https://loremflickr.com/604/998",
+      "image_url": "03_moneasa",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -84,7 +84,7 @@
     "card_data": {
       "name": "Statiunea Balneoclimaterica Lipova",
       "location": "555444445",
-      "image_url": "https://loremflickr.com/604/997",
+      "image_url": "04_lipova",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -109,7 +109,7 @@
     "card_data": {
       "name": "Staţiunea balneoclimatică Buziaş",
       "location": "4444445",
-      "image_url": "https://loremflickr.com/604/996",
+      "image_url": "05_buzias",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -159,7 +159,7 @@
     "card_data": {
       "name": "Lacul Ochiul Beiului",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "07_beiului",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -184,7 +184,7 @@
     "card_data": {
       "name": "Pestera Lacul Dracului",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "08_dracului",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -259,7 +259,7 @@
     "card_data": {
       "name": "Morile de la Radaria",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "11_morile",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -284,7 +284,7 @@
     "card_data": {
       "name": "Cascada Bigar",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "12_bigar",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -309,7 +309,7 @@
     "card_data": {
       "name": "Cazanele Dunarii",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "13_cazanele",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -334,7 +334,7 @@
     "card_data": {
       "name": "Orasul Deva",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "14_deva",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -984,7 +984,7 @@
     "card_data": {
       "name": "Castelul Bran",
       "location": "Timisoara",
-      "image_url": "http://www.bran-castle.com/assets/castle/06-full.jpg",
+      "image_url": "40_bran",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"

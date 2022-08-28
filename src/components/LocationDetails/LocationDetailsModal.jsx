@@ -36,8 +36,8 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
         writeData(_newLocations);
     };
 
-    const openInNewTab = placeName => {
-        const url = `https://www.google.ro/search?q=${placeName}`;
+    const openInNewTab = (lat,long) => {
+        const url = `https://www.google.ro/maps/@${lat},${long},13z`;
         window.open(url, '_blank', 'noopener,noreferrer');
     };
 
@@ -70,7 +70,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                             <button
                                                 className="bg-green-500 hover:bg-green-700 text-white text-center py-1 px-1 rounded-full h-10 w-10 inline-flex items-center justify-center"
                                                 onClick={() => {
-                                                    openInNewTab(location_details.name);
+                                                    openInNewTab(location_details.coords.lat, location_details.coords.long);
                                                 }}
                                             >
                                                 <TbMapSearch className='text-2xl' />

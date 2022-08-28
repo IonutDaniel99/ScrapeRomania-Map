@@ -41,6 +41,7 @@ const SvgDisplay = ({svg_ref, imageFill, locationId, location, isPanMoving, loca
                 <g xmlns="http://www.w3.org/2000/svg" stroke="#000000" strokeWidth=".60" fill="#FFFFFF" aria-valuetext="test" >
                     <path d={location.path}
                         onPointerUp={() => pointerUp()}
+                        //TODO: this imageFill or this location.card_data.image_url
                         fill={location.card_data.image_url !== '' ? 'green': 'white'} />
                 </g>
             </svg>

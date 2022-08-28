@@ -124,7 +124,6 @@ const Maps = () => {
                 </div>
             }
             <div className='relative' ref={gPanZoomRef}>
-
                 {
                     !isLoading &&
                         <>
@@ -159,7 +158,7 @@ const Maps = () => {
                                             svg_ref = { svg_ref }
                                             imageFill={false} //TODO: Change with imageFill and above uncomment
                                             isPanMoving={isPanMoving}
-                                            key={i}
+                                            key={locationId}
                                             location={location}
                                             locationId={locationId}
                                             locationModalLogic={(id) => locationModalLogic(id)}

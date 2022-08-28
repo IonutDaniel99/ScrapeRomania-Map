@@ -82,21 +82,21 @@
       385
     ],
     "card_data": {
-      "name": "Statiunea Balneoclimaterica Lipova",
-      "location": "555444445",
+      "name": "Lipova Spa Resort",
+      "location": "Crisana",
       "image_url": "04_lipova",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.065953",
+        "long": "21.7054275"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Health"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Lipova is a town in Romania, Arad County, located in the Banat region. It is situated at a distance of 34 km (21 mi) from Arad, the county capital, at the contact zone of the river Mureș with the Zarand Mountains, the Western Plateau, and the Lipova Hills. It administers two villages, Radna (Máriaradna) and Șoimoș (Solymosvár), and its total surface is 134.6 km2 (52.0 sq mi). The first written record of the town dates back to 1315 under the name Lipwa. In 1324 the settlement was mentioned as castellanus de Lypua, a place-name that reflects its reinforced character of that time.",
+      "surface": 1,
+      "popularity": 8.6,
+      "visit_time": 8
     }
   },
   "5": {
@@ -107,21 +107,21 @@
       440
     ],
     "card_data": {
-      "name": "Staţiunea balneoclimatică Buziaş",
-      "location": "4444445",
+      "name": "Buziaş balneo-climatic resort",
+      "location": "Banat",
       "image_url": "05_buzias",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.649172",
+        "long": "21.5987175"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Health"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Buziaș is a town in Timiș County, Romania. Thanks to its healing springs, it was once one of the most famous bathing places in Hungary and then in Romania; it has appeared in several international catalogs and has often been referred to as the \"Pearl of Banat\" or the \"Bad Nauheim of Banat\". Called Ahibis by Romans, Buziaș was first mentioned by Charles I of Hungary in a document from 1321. Until the early 19th century, it was an insignificant village away from the main routes. It owes its reputation to the healing effects of local mineral springs, which were first analyzed in 1811. In 1911 it was officially declared a spa resort of national interest.",
+      "surface": 1,
+      "popularity": 9.2,
+      "visit_time": 8
     }
   },
   "6": {
@@ -157,21 +157,21 @@
       505
     ],
     "card_data": {
-      "name": "Lacul Ochiul Beiului",
-      "location": "Timisoara",
+      "name": "Lake 'Ochiul Beiului'",
+      "location": "Banat",
       "image_url": "07_beiului",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.9362523",
+        "long": "21.7904796"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Lake",
+        "Wildness"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "'Ochiul Beiului' is a karst lake with an area of 284 m² near the Beușnița Falls on the Beu stream, in the Cheile Nerei-Beușnița National Park. Lake Ochiul Beiului is located in an area of impressive wilderness in the Cheile Nerei-Beușnița National Park, on the border of the Anina Mountains and the Locvei Mountains, at an altitude of 310 meters. The shape of the lake is a crater with a depth of 3.6 meters, and the water is so clean that the trout swimming in it can be admired in all their splendor. It is fed by a submerged spring. The maximum depth is 3.6 m.",
+      "surface": 0.2,
+      "popularity": 8.2,
+      "visit_time": 2
     }
   },
   "8": {
@@ -182,21 +182,21 @@
       525
     ],
     "card_data": {
-      "name": "Pestera Lacul Dracului",
-      "location": "Timisoara",
+      "name": "Devil's Lake Cave",
+      "location": "Banat",
       "image_url": "08_dracului",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.8644019",
+        "long": "21.8126227"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Lake",
+        "Mistery"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Devil's Lake is a karst lake located in the Lovia Mountains. With an area of 700 square meters, it is the largest karst lake in the country. The lake has 20 m in diameter and a maximum depth between 9 and 12 m. This beautiful place belongs to the town of Sasca Montană of Caraș-Severin county. The lake is situated at the beginning of Nera Gorges, on the left bank of the river Nera, at an altitude of 499m. The lake, along with the cave at whose entrance is located, is considered a natural monument and is part of the National Park Nera Gorges-Beușnița. What it is now a surface lake was once an underground lake. It appeared when a ceiling piece of the caves of Devil's Lake collapsed.",
+      "surface": 0.7,
+      "popularity": 8,
+      "visit_time": 3
     }
   },
   "9": {
@@ -257,21 +257,21 @@
       515
     ],
     "card_data": {
-      "name": "Morile de la Radaria",
+      "name": "Radaraia Windmills",
       "location": "Timisoara",
       "image_url": "11_morile",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.8701843",
+        "long": "22.0992369"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Windmills",
+        "Village"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Placed like a string of beads along the water course for a length of 3 km, in the village and outside the village, the mills capitalize, in a hydro-energetic and constructive conception that envisages a great experience and \"engineering\" ability, the modest energy potential of the Rudăria river due to an insignificant difference in level. The beauty of nature and the skill of man offer, through the 22 water mills, a unique place in terms of landscape, flora, archaic architecture, legends and stories.",
+      "surface": 3,
+      "popularity": 4.8,
+      "visit_time": 3
     }
   },
   "12": {
@@ -282,21 +282,21 @@
       543
     ],
     "card_data": {
-      "name": "Cascada Bigar",
-      "location": "Timisoara",
+      "name": "Bigar Waterfall(Fallen)",
+      "location": "Banat",
       "image_url": "12_bigar",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.0039725",
+        "long": "21.9521237"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Waterfall",
+        "Natural"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Bigăr is a protected area situated in the administrative territory of Bozovici, in Caraș-Severin County in southwestern Romania. On 7 June 2021, part of the Bigăr waterfall collapsed. The Izvorul Bigăr is located at the south-west limit of the country, in the south of the Anina Mountains, in Caraș-Severin County, on the upper Anina River, in the Cheile Nerei-Beușnița National Park. Izbucul Bigăr with an area of 2km was declared a natural protected area by the Law Number.5 of March 6, 2000. Bigăr was one of the most unusual waterfalls in the world and one of the most beautiful in Romania. According to The World Geography, there are a number of facts that placed her as number one on the list of eight unique waterfalls around the world due to the way the water spreads and falls in tiny shreds of water, and also the fact that it is located exactly on the 45th parallel north, at the halfway point between the Equator and the North Pole.",
+      "surface": 1,
+      "popularity": 10,
+      "visit_time": 2
     }
   },
   "13": {
@@ -307,21 +307,21 @@
       560
     ],
     "card_data": {
-      "name": "Cazanele Dunarii",
-      "location": "Timisoara",
+      "name": "The Danube boilers",
+      "location": "Oltenia",
       "image_url": "13_cazanele",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.6043762",
+        "long": "22.2686186"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube",
+        "Voyage"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "They are part of the Danube Gorge when passing through the Carpathian Mountains. The Small Boilers stretch over a 4 km section and are located between the Ciucarul Mare and Mali Strbac massifs (Serbia). The river road through the rocky walls of the Carpathian Mountains is spectacular, all starting with the Great Boilers, on the direction of water flow. At the base of the limestone rock of Great Boilers (Cazanele Mari) there are two cavities: Gura Ponicovei and Veterani caves. The Danube boilers are part of the Iron Gates Natural Park.",
+      "surface": 9,
+      "popularity": 10,
+      "visit_time": "8+"
     }
   },
   "14": {
@@ -332,21 +332,21 @@
       380
     ],
     "card_data": {
-      "name": "Orasul Deva",
-      "location": "Timisoara",
+      "name": "Deva City",
+      "location": "Transylvania",
       "image_url": "14_deva",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.875646",
+        "long": "22.8782045"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Historical",
+        "Culture"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Deva is a city in Romania, in the historical region of Transylvania, on the left bank of the river Mureș. It is the capital of Hunedoara County. Its name was first recorded in 1269 as castrum Dewa. The origin of the name gave rise to controversy. It is considered that the name comes from the ancient Dacian word dava, meaning \"fortress\" (as in Pelendava, Piroboridava, or Zargidava). Other theories trace the name to a Roman Legion, the Legio II Augusta, transferred to Deva from Castrum Deva, now Chester (Deva Victrix) in Britain. János András Vistai assume the name is of old Turkic origin from the name Gyeücsa. Others assert that the name is probably of Slavic origin where Deva or Devín means \"girl\" or \"maiden\". Additionally, it is possible the name Deva was derived from the reconstructed proto-Indo-European dhewa (\"settlement\").\n",
+      "surface": 34,
+      "popularity": 8.7,
+      "visit_time": 30
     }
   },
   "15": {
@@ -357,21 +357,21 @@
       417
     ],
     "card_data": {
-      "name": "Castelul Corvinilor",
-      "location": "Timisoara",
+      "name": "Corvin Castle",
+      "location": "Transylvania",
       "image_url": "15_corvinilor",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.7493637",
+        "long": "22.8882866"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle",
+        "Gothic"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Best-known for the shivers sends tourists down their spine, Corvin Castle is one of the most important tourist attractions in Transylvania. Also known as Corvins’ Castle, Hunyad Castle or Hunedoara Castle, it is the largest medieval building in Romania still standing. With 42 rooms, two terraces, two bridges (of 55 and 30 meters), 7.000 square meters of built surface and a tower 72 meters high, it has an aura of an unbeatable fortress.",
+      "surface": 7,
+      "popularity": 10,
+      "visit_time": 5
     }
   },
   "16": {
@@ -382,21 +382,21 @@
       435
     ],
     "card_data": {
-      "name": "Manastirea Prislop",
-      "location": "Timisoara",
+      "name": "Prislop Monastery",
+      "location": "Transylvania",
       "image_url": "16_prislop",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.6317607",
+        "long": "22.8503394"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Orthodox",
+        "Historical"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Prislop Monastery is a Romanian monastery located near the village of Silvașu de Sus in Hunedoara County. In 1564 it was built from the ground up by Zamfira, the daughter of Moise Vodă from Wallachia. It is possible that the old place, traces of which were written about in the middle of the 19th century, existed somewhere in the forest, in the vicinity of the current buildings. In the 18th century it was a Greek-Catholic monastery. In the 19th century it was almost deserted and administered by mir priests. Bishop Demetriu Radu was in charge of restoring the monastery in 1901. On October 29, 1948, with the prohibition of the United Romanian Church, the Greek-Catholic priests were arrested, and the place occupied by the Orthodox Church. On November 25, 1948, Metropolitan Nicolae Bălan transferred the monk Arsenie Boca from the Sâmbăta Monastery to Prislop, from where he was in turn arrested two years later. The monastery was rebuilt as an Orthodox monastery after 1975, with a community of nuns.",
+      "surface": 0.7,
+      "popularity": 5.7,
+      "visit_time": 1
     }
   },
   "17": {
@@ -407,21 +407,21 @@
       485
     ],
     "card_data": {
-      "name": "Cheile Sohodului",
-      "location": "Timisoara",
+      "name": "Keys of Sohodol",
+      "location": "Oltenia",
       "image_url": "17_sohodolului",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1361578",
+        "long": "23.1359241"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Canyon",
+        "Caves"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The natural reserve stretches over an area of 350 hectares and represents an area of gorges dug into Cretaceous limestone by the waters of the Jaleș River (Sohodol), with diversified landforms (sinkholes, canyons, laps, aves, caves, rocky escarpments), with flora and fauna specific to the Southerners. The protected natural area attracts thousands of tourists from the country and abroad every year. Nările, Fusteica, Inelul, Popii Cave, Gârla Vacii Cave are some impressive landmarks of this area, the most visited of which is the Popii Cave due to the paintings with black anthropomorphic silhouettes .Alpinism is practiced on the 120 specially arranged routes on the Sohodol keys. During the summer, the temperature is lower by 10 degrees Celsius, thanks to the shadow of the rocks and the water of the Sohodol river. There are more than 300 species of plants specific to these places, including secular chestnuts planted before 1859.",
+      "surface": 12,
+      "popularity": 7.2,
+      "visit_time": 6
     }
   },
   "18": {
@@ -432,21 +432,21 @@
       530
     ],
     "card_data": {
-      "name": "Capul lui Decebal",
-      "location": "Timisoara",
+      "name": "Decebal Head",
+      "location": "Oltenia",
       "image_url": "18_decebal",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.6411682",
+        "long": "22.2911629"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Monument",
+        "King of Dacia"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Chipul regelui dac Decebal este un basorelief înalt de 55 m, aflat pe malul stâncos al Dunării, între localitățile Eșelnița și Dubova, în apropiere de orașul Orșova, România. Basorelieful îl reprezintă pe Decebal, ultimul rege al Daciei, fiind sculptat într-o stâncă de către sculptorul Florin Cotarcea, din orașul Orșova. Sculptorul a lucrat timp de zece ani, perioadă în care a fost ajutat de 11 alpiniști. Este cea mai înaltă sculptură în piatră din Europa și a doua din lume. Chipul lui Decebal este înalt de 55 m și lat de 25 m. Locul realizării sculpturii este în apropiere de orașul Orșova, în zona cataractelor de la Cazanele Mici (golful Mraconia), pe malul stâng al Dunării, acolo unde adâncimea fluviului este cea mai mare, circa 120 de metri.",
+      "surface": 0.1,
+      "popularity": 9.8,
+      "visit_time": 1
     }
   },
   "19": {
@@ -457,21 +457,21 @@
       415
     ],
     "card_data": {
-      "name": "Sarmi Segetuza",
-      "location": "Timisoara",
+      "name": "Sarmizegetusa Regia",
+      "location": "Transylvania",
       "image_url": "19_sarmizegetusa",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.6227285",
+        "long": ",23.3104755"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Military",
+        "Fortress"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Sarmizegetusa Regia, also Sarmisegetusa, was the capital and the most important military, religious and political centre of the Dacians before the wars with the Roman Empire. Erected on top of a 1200 m high mountain, the fortress, comprising six citadels, was the core of a strategic defensive system in the Orăștie Mountains (in present-day Romania). Sarmizegetusa Regia should not be confused with Ulpia Traiana Sarmizegetusa, the Roman capital of Dacia built by Roman Emperor Trajan some 40 km away, which was not the Dacian capital. Sarmizegetusa Ulpia was discovered earlier, was known already in the early 1900s, and was initially mistaken for the Dacian capital, a confusion which led to incorrect conclusions being made regarding the military history and organization of the Dacians.",
+      "surface": 30,
+      "popularity": 6.4,
+      "visit_time": 5
     }
   },
   "20": {
@@ -482,21 +482,21 @@
       445
     ],
     "card_data": {
-      "name": "Pestera Bolii",
-      "location": "Timisoara",
+      "name": "Bolii Cave",
+      "location": "Transylvania",
       "image_url": "20_bolii",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.4538505",
+        "long": "23.318291"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Cave",
+        "Acoustic"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Bolii Cave is a natural opening accessible along its entire length, one of the few caves of its kind in the country. The cave is located in the northern part of the city of Petroșani, 6km from it, on the road that connects the Jiului Valley with Șara Hațegului, in the place where the Retezatu Mountains meet those of Sebeș. The name of the cave probably comes from the Bolia family who had land and forest properties in the area since the 15th century. Since the interwar period, musical concerts have been organized in the biggest hall of the cave. The hall was named the Concert and Dance Hall as a result of the special acoustics it showed. In 2007, on the 1st of May, still in the spirit of tradition, artistic manifestations were held both inside the cave and outside it. Two very rare species of bats were identified.",
+      "surface": 2,
+      "popularity": 4.8,
+      "visit_time": 1
     }
   },
   "21": {

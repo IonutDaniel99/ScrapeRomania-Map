@@ -22,7 +22,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
     };
 
     const updateLocations = (locationId) => {
-        if (locationId <= 0 || locationId > 100) {
+        if (locationId <= 0 || locationId > 125) {
             return;
         }
         const _newLocations = visited_locations;
@@ -110,15 +110,15 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                     </div>
                                     <div className="flex flex-row justify-between pb-8">
                                         <div className="flex flex-col items-center w-20 ">
-                                            <div className="text-sm text-gray-400">Surface:</div>
+                                            <div className="text-sm text-gray-400 w-18 text-center">Surface:</div>
                                             <div className="release">{location_details.surface} km<sup>2</sup></div>
                                         </div>
                                         <div className="flex flex-col  items-center w-20">
-                                            <div className="text-sm text-gray-400">Popularity:</div>
+                                            <div className="text-sm text-gray-400 w-18 text-center">Popularity:</div>
                                             <div className="popularity flex items-center justify-between w-20">{checkForDecimalAfterDor(location_details.popularity)}<span>/</span><span className={'flex items-center'}>10 <StarIcon fontSize={'small'}/></span></div>
                                         </div>
                                         <div className="flex flex-col  items-center w-20">
-                                            <div className="text-sm text-gray-400">Visit time:</div>
+                                            <div className="text-sm text-gray-400 w-18 text-center">Visit time:</div>
                                             <div className="release">~{location_details.visit_time} Hrs</div>
                                         </div>
                                     </div>

@@ -83,6 +83,13 @@ function Main() {
                 </div>
                 <NavBar />
             </div>
+            <div className={'absolute pl-5 bottom-4 right-4 w-96 h-32 bg-white opacity-10 hover:opacity-100'}>
+                <li>Development Mode</li>
+                <li>Version: Beta-0.4.9</li>
+                <li>~40% Completed</li>
+                <li>Bugs, Errors, Ideas at:</li>
+                <li>gamma.bear10@gmail.com</li>
+            </div>
         </>
     );
 }

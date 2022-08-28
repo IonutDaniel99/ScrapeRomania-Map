@@ -7,21 +7,21 @@
       400
     ],
     "card_data": {
-      "name": "Orasul Timisoara",
-      "location": "Timisoara",
+      "name": "Timisoara City",
+      "location": "Banat",
       "image_url": "01_timisoara",
       "coords": {
-        "lat": "45.748872",
-        "long": "21.208679"
+        "lat": "45.760696",
+        "long": "21.226788"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Historical",
+        "Little Vienna"
       ],
-      "description": "Cultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Timișoara is the capital city of Timis County and the main economic, social and cultural centre in western Romania. Located on the Bega River, Timișoara is considered the informal capital city of the historical Banat, which is nowadays broadly considered a subregion of Transylvania. From 1848 to 1860 it was the capital of the Serbian Vojvodina and the Voivodeship of Serbia and Banat of Temeschwar. With 319,279 inhabitants at the 2011 census, Timișoara was then the country's third most populous city, after Bucharest and Cluj-Napoca. Timișoara is a multicultural city, being the home of 21 different ethnicities and 18 religions.",
+      "surface": 130,
+      "popularity": 9.5,
+      "visit_time": 36
     }
   },
   "2": {
@@ -32,21 +32,21 @@
       355
     ],
     "card_data": {
-      "name": "Orasul Arad",
-      "location": "dsfdsf",
+      "name": "Arad City",
+      "location": "Crisana",
       "image_url": "02_arad",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.1866",
+        "long": "21.3123"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Diversity",
+        "Elder City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Arad is the capital city of Arad County, Transylvania. It is the third largest city in Western Romania, behind Timișoara and Oradea, and the 12th largest in Romania, with a population of 159,704. A busy transportation hub on the Mureș River and an important cultural and industrial center, Arad has hosted one of the first music conservatories in Europe, one of the earliest normal schools in Europe, and the first car factory in Hungary and present-day Romania. Today, it is the seat of a Romanian Orthodox archbishop and features a Romanian Orthodox theological seminary and two universities.",
+      "surface": 46,
+      "popularity": 9.0,
+      "visit_time": 30
     }
   },
   "3": {
@@ -57,21 +57,21 @@
       325
     ],
     "card_data": {
-      "name": "Statiunea balneoclimaterica Moneasa",
-      "location": "3333",
+      "name": "Moneasa Spa Resort",
+      "location": "Crisana",
       "image_url": "03_moneasa",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.4603",
+        "long": "22.2533"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Village"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Moneasa is a commune in Arad County, Romania, is situated at the foot of Codru-Moma Mountains. Its administrative surface stretches over 6824 hectares and it is composed of two villages, Moneasa (situated at 102 km from Arad) and Rănușa (Kisróna). According to the 2002 census, the population of the commune counts 1056 inhabitants, out of which 97.7% are Romanians, 1.7% are Hungarians and 0.6% are of other or undeclared nationalities. Traces of inhabitance on this area dating back to the paleolithic and neolithic have been found in the caverns called \"Hoanca\" and \"Izoi\". The first documentary record of Moneasa dates back to 1597, while Rănuşa was first mentioned in 1556.",
+      "surface": 3,
+      "popularity": 7,
+      "visit_time": 8
     }
   },
   "4": {
@@ -94,7 +94,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -119,7 +119,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -144,7 +144,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -169,7 +169,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -194,7 +194,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -219,7 +219,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -244,7 +244,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -269,7 +269,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -294,7 +294,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -319,7 +319,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -344,7 +344,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -359,7 +359,7 @@
     "card_data": {
       "name": "Castelul Corvinilor",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "15_corvinilor",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -369,7 +369,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -384,7 +384,7 @@
     "card_data": {
       "name": "Manastirea Prislop",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "16_prislop",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -394,7 +394,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -409,7 +409,7 @@
     "card_data": {
       "name": "Cheile Sohodului",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "17_sohodolului",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -419,7 +419,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -434,7 +434,7 @@
     "card_data": {
       "name": "Capul lui Decebal",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "18_decebal",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -444,7 +444,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -459,7 +459,7 @@
     "card_data": {
       "name": "Sarmi Segetuza",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "19_sarmizegetusa",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -469,7 +469,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -484,7 +484,7 @@
     "card_data": {
       "name": "Pestera Bolii",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "20_bolii",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -494,7 +494,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -519,7 +519,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -544,7 +544,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -569,7 +569,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -594,7 +594,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -619,7 +619,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -644,7 +644,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -669,7 +669,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -694,7 +694,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -719,7 +719,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -744,7 +744,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -769,7 +769,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -794,7 +794,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -819,7 +819,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -844,7 +844,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -869,7 +869,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -894,7 +894,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -919,7 +919,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -944,7 +944,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -969,7 +969,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -994,7 +994,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1019,7 +1019,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1044,7 +1044,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1069,7 +1069,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1094,7 +1094,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1119,7 +1119,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1144,7 +1144,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1169,7 +1169,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1194,7 +1194,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1219,7 +1219,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1244,7 +1244,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1269,7 +1269,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1294,7 +1294,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1319,7 +1319,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1344,7 +1344,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1369,7 +1369,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1394,7 +1394,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1419,7 +1419,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1444,7 +1444,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1469,7 +1469,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1494,7 +1494,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1519,7 +1519,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1544,7 +1544,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1569,7 +1569,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1594,7 +1594,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1619,7 +1619,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1644,7 +1644,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1669,7 +1669,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1694,7 +1694,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1719,7 +1719,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1744,7 +1744,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1769,7 +1769,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1794,7 +1794,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1819,7 +1819,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1844,7 +1844,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1869,7 +1869,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1894,7 +1894,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1919,7 +1919,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1944,7 +1944,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1969,7 +1969,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -1994,7 +1994,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2019,7 +2019,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2044,7 +2044,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2069,7 +2069,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2094,7 +2094,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2119,7 +2119,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2144,7 +2144,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2169,7 +2169,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2194,7 +2194,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2219,7 +2219,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2244,7 +2244,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2269,7 +2269,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2294,7 +2294,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2319,7 +2319,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2344,7 +2344,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2369,7 +2369,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2394,7 +2394,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2419,7 +2419,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2444,7 +2444,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2469,7 +2469,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2494,7 +2494,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2519,7 +2519,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2544,7 +2544,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2569,7 +2569,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2594,7 +2594,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2619,7 +2619,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2644,7 +2644,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2669,7 +2669,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2694,7 +2694,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2719,7 +2719,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2744,7 +2744,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2769,7 +2769,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2794,7 +2794,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2819,7 +2819,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2844,7 +2844,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2869,7 +2869,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2894,7 +2894,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2919,7 +2919,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2944,7 +2944,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2969,7 +2969,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -2994,7 +2994,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -3019,7 +3019,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -3044,7 +3044,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -3069,7 +3069,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -3094,7 +3094,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }
@@ -3119,7 +3119,7 @@
         "ruin"
       ],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "distance": 909,
+      "surface": 909,
       "popularity": 360046,
       "visit_time": 886
     }

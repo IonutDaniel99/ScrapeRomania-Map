@@ -18,6 +18,31 @@ a {
   box-sizing: border-box;
 }
 
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer utilities {
+  .scrollbar_description::-webkit-scrollbar-thumb {
+    visibility: visible;
+  }
+  .scrollbar_description::-webkit-scrollbar-track {
+    background-color: rgb(100 116 139/.16)!important;
+    border-radius: 0.25rem!important;
+    visibility: visible;
+
+  }
+
+  .scrollbar_description::-webkit-scrollbar-thumb {
+    background-color: rgb(100 116 139/.5)!important;
+    border-radius: 0.25rem!important;
+  }
+
+  .scrollbar_description::-webkit-scrollbar {
+    width: 8px;
+    height: 100%;
+    visibility: visible;
+  }
+
+}

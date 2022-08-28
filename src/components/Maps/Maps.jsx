@@ -23,8 +23,6 @@ const Maps = () => {
     const [displayPanZoomDisplayNumbers, setDisplayPanZoomDisplayNumbers] = useState(false);
     const [isPanMoving, setIsPanMoving] = useState(false);
 
-    const [isMouseOnPopup, setIsMouseOnPopup] = useState(false);
-
     useEffect(() => {
         const a = fetchLocationToVisit();
         const b = fetchUserVisitedLocations();
@@ -155,11 +153,11 @@ const Maps = () => {
                             <svg xmlns="http://www.w3.org/2000/svg" version="1.1" baseProfile="tiny" width={1200} height={800}>
                                 {Object.values(locationsList).map((location, i) => {
                                     const locationId = i + 1;
-                                    const imageFill = visitedLocations.includes((locationId).toString());
+                                    // const imageFill = visitedLocations.includes((locationId).toString());
                                     return (
                                         <SvgDisplay
                                             svg_ref = { svg_ref }
-                                            imageFill={imageFill}
+                                            imageFill={false} //TODO: Change with imageFill and above uncomment
                                             isPanMoving={isPanMoving}
                                             key={i}
                                             location={location}

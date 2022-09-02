@@ -507,21 +507,21 @@
       510
     ],
     "card_data": {
-      "name": "Manastirea Tismana",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Tismana Monastery",
+      "location": "Oltenia",
+      "image_url": "21_tismana",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1057433",
+        "long": "22.7931755"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Monastery",
+        "Elder citadel"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Tismana Monastery is the oldest monastic settlement still in operation in Wallachia. Also built by the zeal of the pious Nicodim, its sister, Vodița Monastery, was destroyed shortly after construction (Vodiţa 2 was built later, where Nicodim returned from Tismana), the only citadel of our Orthodoxy remaining, for over six centuries , Tismana Monastery. Since Vladislav I (Vlaicu Vodă, 1364-1377) begins the monastic order of the monastery, Vlaicu's brother, Radu I Vodă associated with the reign from 1372, being the second in the order, the historian Alexandru Ștefulescu claimed that at the beginning of Vlaicu Vodă's reign between 1364- 1366, wooden churches were first built and altars were made through chrysov.",
+      "surface": 1,
+      "popularity": 7.8,
+      "visit_time": 3
     }
   },
   "22": {
@@ -532,21 +532,21 @@
       515
     ],
     "card_data": {
-      "name": "Orasul Targu Jiu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Targu Jiu City",
+      "location": "Oltenia",
+      "image_url": "22_tgjiu",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.0381641",
+        "long": "23.2475768"
       },
       "tags": [
         "castle",
         "ruin"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The city takes its name from the river Jiu, which runs through it. In antiquity, there was a Dacian village in around the location of today's city surrounded by forests. After the Roman conquests of Oltenia (101-102), military units were stationed around the roads that connected different important routes at the time. During the digging of the Târgu Jiu - Rovinari railroad, mosaics, coins, ceramics and Roman bricks were found in the south-eastern part of the city.[3] This and ancient testimonies support the idea that Târgu Jiu was a commercial town (a vicus) while under the Roman Empire's rule. A very important route that connects the Danube to Transylvania runs through the city, so historians believe that part of the Roman army under Trajan's leadership stayed and then passed in the actual location of the city.",
+      "surface": 102,
+      "popularity": 8.8,
+      "visit_time": 42
     }
   },
   "23": {
@@ -557,21 +557,21 @@
       560
     ],
     "card_data": {
-      "name": "Orasul Caras-Severin",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Drobeta-Turnu Severin",
+      "location": "Oltenia",
+      "image_url": "23_drobeta",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.6266893",
+        "long": "22.6475561"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube City",
+        "Castle City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Drobeta-Turnu Severin, colloquially Severin, is a city in Mehedinți County, Oltenia, Romania, on the northern bank of the Danube, close to the Iron Gates. \"Drobeta\" is the name of the ancient Dacian and Roman towns at the site, and the modern town of Turnu Severin received the additional name of Drobeta during Nicolae Ceauşescu's national-communist dictatorship as part of his myth-making efforts.",
+      "surface": 55,
+      "popularity": 9.3,
+      "visit_time": 48
     }
   },
   "24": {
@@ -582,21 +582,21 @@
       610
     ],
     "card_data": {
-      "name": "Rezervatia de Bujori Salbatici Plenita",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "The Peony Glade in the Plenița Forest",
+      "location": "Oltenia",
+      "image_url": "24_peony",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.2434586",
+        "long": "23.1263446"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Natural Reserve",
+        "Wild"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Famous for the natural reserve of wild peonies, Poiana Bujorului in the Plenița Forest, is located 59 km from Craiova, on the border with Mehedinți county, in a plain area, with altitudes of up to 200 meters, with a temperate climate and with average values.\nThe reserve of wild peonies, unique in the Romanian landscape, is arranged on an area of approximately 50 ha, and during the flowering period it is a real enchantment.\nThe forest is home to a variety of wild peony, called Paeonia Peregrina.\nPlinius made a detailed description of the peony in antiquity, which he said could treat about 20 diseases.\nEvery year, in May, the traditional peony festival is organized in Plenița. A large row of peonies welcomes the locals as well as the guests from Gorj, Olt and Mehedinți counties.",
+      "surface": 1,
+      "popularity": 8,
+      "visit_time": 2
     }
   },
   "25": {
@@ -607,21 +607,21 @@
       635
     ],
     "card_data": {
-      "name": "Rezervatia ornitologica de la Ciupercenii Noi",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Ornithological reserve from Ciupercenii Noi",
+      "location": "Oltenia",
+      "image_url": "25_ornito",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "43.8397235",
+        "long": "22.8839847"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Wild",
+        "Danube Reserve"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Ciuperceni-Desa natural area is located in the floodplain of the Danube Meadow and is an ornithological reserve of approximately 200 hectares that also includes Balta Lată and Balta Neagră. Also here is the Ciurumela Forest where you can find huge acacias whose diameters reach 70-80 cm and heights of up to 35 meters. The habitats of Salix alba and Populus alba are what contributed to the designation of the site as a Natura 2000 site of community importance.",
+      "surface": 2,
+      "popularity": 6.7,
+      "visit_time": 2
     }
   },
   "26": {
@@ -632,21 +632,21 @@
       410
     ],
     "card_data": {
-      "name": "Soseaua Transalpina",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Transalpina Road",
+      "location": "Oltenia-Transylvania",
+      "image_url": "26_transalpina",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.5231607",
+        "long": "23.6358554"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Paved Road",
+        "Mountains"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The road is totally paved. It’s 148 km (92 miles) long, running south-north from Novaci, a town in Gorj County, in Oltenia to Sebeş, a city in Alba County. The road offers breathtaking views together with lots of driving excitement. This asphalted road is not easy, with hundreds of turns.",
+      "surface": 150,
+      "popularity": 9,
+      "visit_time": 4
     }
   },
   "27": {
@@ -657,21 +657,21 @@
       600
     ],
     "card_data": {
-      "name": "Orasul Craiova",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Craiova City",
+      "location": "Oltenia",
+      "image_url": "27_craiova",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.3231404",
+        "long": "23.7364536"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "County Capital",
+        "Political Center"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Craiova is Romania's 6th largest city and capital of Dolj County, and situated near the east bank of the river Jiu in central Oltenia. It is a longstanding political center, and is located at approximately equal distances from the Southern Carpathians (north) and the River Danube (south). Craiova is the chief commercial city west of Bucharest and the most important city of Oltenia. The city prospered as a regional trading centre despite an earthquake in 1790, a plague in 1795, and a Turkish assault in 1802 during which it was burned.",
+      "surface": 81,
+      "popularity": 10,
+      "visit_time": 48
     }
   },
   "28": {
@@ -682,21 +682,21 @@
       515
     ],
     "card_data": {
-      "name": "Salina Ocnele Mari",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Ocnele Mari Salt",
+      "location": "Oltenia",
+      "image_url": "28_ocnele",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.0850907",
+        "long": "24.3094668"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Salt",
+        "Cave"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Ocnele Mari tourist mine is located in the locality of the same name, 8 km from Râmnicu Vâlcea, in a picturesque area (close to Valea Oltului), with a tradition of spa tourism (Caciulata, Olăneşti, Călimăneşti) and religious tourism (the monastery Cozia). One of the horizons where the exploitation ended was opened to the public and transformed into a tourist area in 2009, with visitors' access being ensured by minibus transportation from the surface to the inside of the salt pan. The minibus that transports tourists underground runs every 30 minutes. The minibus has its departure and arrival point in the premises of the Ocnele Mari salt pan, a place specially designed for tourists. Travel time of the minibus from the premises of the salt pan to the tourist point is 10 minutes.",
+      "surface": 0.05,
+      "popularity": 8.7,
+      "visit_time": 3
     }
   },
   "29": {
@@ -707,21 +707,21 @@
       450
     ],
     "card_data": {
-      "name": "Manastirea Cozia",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Cozia Monastery",
+      "location": "Oltenia",
+      "image_url": "29_cozia",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.2716751",
+        "long": "24.3135309"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Monastery",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Cozia Monastery, erected close to Călimănești by Mircea the Elder in 1388 and housing his tomb, is one of the most valuable monuments of national medieval art and architecture in Romania. The name of the monastery is of Cuman origin and it means \"walnut grove\", from Turkic word koz, meaning walnut. The original name of the place was the Romanian equivalent, Nucetul, but already in 1387, a document of Mircea cel Bătrân uses the current name. The fortified cloister dates from the foundation (1388) and is the only in Byzantine style preserved in Romania. Two chapels are incorporated in the side toward the Olt River and their Byzantine cupolas are reflected in the water, creating one of the most iconic cultural - natural landmarks in Romania. Cozia features a museum of exhibiting old art: old manuscripts and prints, embroideries and objects of worship",
+      "surface": 0.20,
+      "popularity": 7.1,
+      "visit_time": 1
     }
   },
   "30": {
@@ -732,21 +732,21 @@
       400
     ],
     "card_data": {
-      "name": "Orasul Sibiu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sibiu City (Hermannstadt)",
+      "location": "Transylvania",
+      "image_url": "30_sibiu",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.7829971",
+        "long": "24.1398382"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Historical",
+        "Castle City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Sibiu  is a town in Transylvania, a historical region of Romania. Located some 275 km (171 mi) north-west of Bucharest, the city straddles the Cibin River, a tributary of the river Olt. Now the capital of the Sibiu County, between 1692 and 1791 and 1849–65 Sibiu was also the capital of the Principality of Transylvania. Sibiu is also known for its Christmas market. Personalities include Conrad Haas and Hermann Oberth, who were pioneers of rocketry. The company Elrond, which created the eGold cryptocurrency (among the biggest in the world), was founded by people from Sibiu. As of 2011, the city has a population of 147,245,while a 2019 estimate puts it at 169,056.The proposed Sibiu metropolitan area has a population of 267,170. The city also administers the village of Păltiniș, a ski resort located 35 kilometres to the southwest. Historically, Sibiu has been one of the most important centres of the Transylvanian Saxons. It is called Härmeschtat in their own local dialect.",
+      "surface": 121,
+      "popularity": 10,
+      "visit_time": "50+"
     }
   },
   "31": {

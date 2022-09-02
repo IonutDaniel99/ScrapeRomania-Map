@@ -101,7 +101,7 @@ const Maps = () => {
             setIsPanMoving(false);
         });
         instance.on('zoom', (e) => {
-            if (e.getTransform().scale > 2.5) {
+            if (e.getTransform().scale > 1.75) {
                 setDisplayPanZoomDisplayNumbers(true);
             }
             else {

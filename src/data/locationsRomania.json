@@ -1186,21 +1186,21 @@
       465
     ],
     "card_data": {
-      "name": "Castelul Peles",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Peles Castle",
+      "location": "Muntenia",
+      "image_url": "48_peles",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.3602412",
+        "long": "25.5387546"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle",
+        "Historical"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Peleș Castle is a Neo-Renaissance castle in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914. Its inauguration was held in 1883. It was constructed for King Carol I. The complex is northwest of the town of Sinaia, which is 48 kilometres (30 mi) from Brașov and 124 kilometres (77 mi) from Bucharest. In the southeastern Carpathian Mountains, the complex is composed of three monuments: Peleș Castle, Pelișor Castle, and the Foișor Hunting Lodge.",
+      "surface": 1,
+      "popularity": 9.1,
+      "visit_time": 4
     }
   },
   "49": {
@@ -1211,9 +1211,9 @@
       445
     ],
     "card_data": {
-      "name": "Castelul Cantacuzino din Busteni",
+      "name": "Cantacuzino Castle",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "49_cantacuzino",
       "coords": {
         "lat": "45.648693",
         "long": "21.606187"
@@ -1222,10 +1222,10 @@
         "castle",
         "ruin"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Cantacuzino Castle is situated in Bușteni, Romania, in the Zamora district, on the street bearing the same name. The building has a great architectural, historical, documentary and artistic value. The building, whose construction was completed in 1911, was conducted by the architect Grigore Cerchez, a prominent figure of the Neo-Romanian style, at the request of Prince Gheorghe Grigore Cantacuzino, who was nicknamed 'Nababul' (“The Nabob”). The castle was placed on the site of an old hunting lodge that the prince's family had used as a halt during their pilgrimages to Brașov. The construction works lasted for five years, and the furnishing lasted another year and a half. At the inauguration in 1911, the castle impressed not only by its style and beauty,but also by its modern facilities in relation to those times, benefitting from electricity, sewerage system and drinking water. Until 1930, the castle served as the summer residence of the family of Prince Grigore Cantacuzino. The castle belonged to the Cantacuzino family until its nationalization in 1948, then became a sanatorium of the Ministry of Internal Affairs. The castle underwent restoration work and today it is open to the public",
+      "surface": 1,
+      "popularity": 8.4,
+      "visit_time": 3
     }
   },
   "50": {
@@ -1236,21 +1236,21 @@
       580
     ],
     "card_data": {
-      "name": "Complexul Arheologic Piscul Crasani",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "The archaeological complex 'Piscul Crăsani'",
+      "location": "Muntenia",
+      "image_url": "50_piscul",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.6007503",
+        "long": "26.8863344"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Treasure",
+        "Ruins"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The archaeological complex 'Piscul Crăsani' is what is left of the old dava (Thraco-Dacian settlement) here. In its center was the Helis (sun) Citadel, which had a strong commercial role, being built in honor of the Dacian king Dromichet. Due to a devastating fire, it consumed the entire place around the 1st century BC. Hr. After it began to be researched, the old fortification came to light, as well as many objects used by the civilization of the respective times (Neolithic), such as ceramic vessels, glass bracelets and various metal things. All this can be admired at the County Museum.",
+      "surface": 1,
+      "popularity": 4.1,
+      "visit_time": 2
     }
   },
   "51": {
@@ -1261,21 +1261,21 @@
       495
     ],
     "card_data": {
-      "name": "Orasul Ploiesti",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Ploiesti City",
+      "location": "Muntenia",
+      "image_url": "51_ploiesti",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.9341149",
+        "long": "26.0098924"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Economic Area",
+        "Industry"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Ploiești, formerly spelled Ploești, is a city and county seat in Prahova County, Romania. Part of the historical region of Muntenia, it is located 56 km (35 mi) north of Bucharest. The area of Ploiești is around 60 km2 (23 sq mi), and it borders the Blejoi commune in the north, Bărcănești and Brazi communes in the south, Târgșoru Vechi commune in the west, and Bucov and Berceni communes in the east. According to the 2011 Romanian census, there were 201,226 people living within the city limits, making it the ninth most populous in the country. The city grew beginning with the 17th century on an estate bought by Michael the Brave from the local landlords, gradually taking the place of the nearby Wallachian fairs of Târgșor, Gherghița and Bucov. Its evolution was accelerated by heavy industrialisation, with the world's first systematic petroleum refinery being opened in 1856-1857. Following massive exploitation of the oil deposits in the area, Ploiești earned the nickname of 'the Capital of Black Gold'. In the present, its economic activity is still based on oil processing, the city having four large refineries and other industries related to this branch.",
+      "surface": 58.2,
+      "popularity": 8.8,
+      "visit_time": 30
     }
   },
   "52": {
@@ -1286,21 +1286,21 @@
       500
     ],
     "card_data": {
-      "name": "Orasul Buzau",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Buzau City",
+      "location": "Muntenia",
+      "image_url": "52_buzau",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1488874",
+        "long": "26.8141936"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Economic Area",
+        "Industry"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The city of Buzău is the county seat of Buzău County, Romania, in the historical region of Muntenia. It lies near the right bank of the Buzău River, between the south-eastern curvature of the Carpathian Mountains and the lowlands of Bărăgan Plain. Buzău is a railway hub in south-eastern Romania, where railways that link Bucharest to Moldavia and Transylvania to the Black Sea coast meet. DN2, a segment of European route E85 crosses the city. Buzău's proximity to trade routes helped it develop its role as a commerce hub in older days, and as an industrial centre during the 20th century. During the Middle Ages, Buzău was a market town and Eastern Orthodox episcopal see in Wallachia. It faced a period of repeated destruction during the 17th and 18th centuries, nowadays symbolized on the city seal by the Phoenix bird. In the 19th century, after the end of that era, the city began to recover. The economy underwent industrialization, Buzău became a railway hub, and public education became available. At this time, the Communal Palace, the city's landmark building, and Crâng Park, the main recreational area, were built. The communist regime after World War II brought forced industrialization and the tripling of the city's population. Some of the factories open at the time are still functioning within the framework of market economy.",
+      "surface": 81.3,
+      "popularity": 8.1,
+      "visit_time": 35
     }
   },
   "53": {
@@ -1311,21 +1311,21 @@
       545
     ],
     "card_data": {
-      "name": "Manastirea Lacu-Sarat",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Lacu Sarat Monastery",
+      "location": "Muntenia",
+      "image_url": "53_salt",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.2137598",
+        "long": "27.9152724"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Monastery",
+        "Natural Park"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The monastery is located in the resort of the same name, located in the immediate vicinity of Brăila municipality, 5 km SW, on the national road DN 21 Brăila - Slobozia. The church benefits from the special natural setting offered by the park of the resort and the increasing interest of pilgrims towards this oasis of peace of mind.",
+      "surface": 1,
+      "popularity": 2,
+      "visit_time": 1
     }
   },
   "54": {
@@ -1336,21 +1336,21 @@
       600
     ],
     "card_data": {
-      "name": "Orasul Constanta",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Constanta City",
+      "location": "Dobrogea",
+      "image_url": "54_constanta",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.1810427",
+        "long": "28.6300063"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Black Sea City",
+        "Port City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Constanța, historically known as Tomis, is the oldest continuously inhabited city in Romania, founded around 600 BC. A port-city, it is located in the Northern Dobruja region of Romania, on the Black Sea coast. It is the capital of Constanța County and the largest city in the historical region of Dobrogea. As of the 2022 census, Constanța has a population of 667,860, making it the fifth most populous city in Romania. The Constanța metropolitan area includes 14 localities within 30 km (19 mi) of the city. It is one of the largest metropolitan areas in Romania. The Port of Constanța has an area of 39.26 km2 (15.16 sq mi) and a length of about 30 km (19 mi).[9] It is the largest port on the Black Sea, and one of the largest ports in Europe. Constanța is only 185 miles (298 km) from the Bosphorus strait and in the 19th century many travellers to Constantinople (now Istanbul) arrived there by steamer from Constanța.",
+      "surface": 124,
+      "popularity": 10,
+      "visit_time": "80+"
     }
   },
   "55": {
@@ -1361,21 +1361,21 @@
       655
     ],
     "card_data": {
-      "name": "Orasul Mangalia",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Mangalia City",
+      "location": "Dobrogea",
+      "image_url": "55_mangalia",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "43.8130072",
+        "long": "28.5667599"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Port City",
+        "Black Sea City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Mangalia, ancient Callatis, is a city and a port on the coast of the Black Sea in the south-east of Constanța County, Northern Dobruja, Romania. The municipality of Mangalia also administers several summertime seaside resorts: Cap Aurora, Jupiter, Neptun, Olimp, Saturn, Venus. The Greek town Callatis existed until the mid-7th century under this name. Life in the town resumed from the 10th century. In the 13th century Callatis came to be known as Pangalia. The Vlachs called it Tomisovara and the Greeks called it Panglicara. From the 16th century the town had acquired its present name, Mangalia.",
+      "surface": 62,
+      "popularity": 8.2,
+      "visit_time": 15
     }
   },
   "56": {

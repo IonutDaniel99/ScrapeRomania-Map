@@ -1136,21 +1136,21 @@
       527
     ],
     "card_data": {
-      "name": "Zimbria Neagra",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Neagra Bison Reservation",
+      "location": "Muntenia",
+      "image_url": "46_zimbru",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.8684777",
+        "long": "25.7275744"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Natural Reserve",
+        "Natural Park"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Less than 80 kilometers from Bucharest and 30 kilometers from Târgoviște there is a space, under the management of the Bucșani Forest Ring, from Dâmbovița county, where bison, massive and placid animals, live in an area of 162 hectares of forest.",
+      "surface": 1.62,
+      "popularity": 3.8,
+      "visit_time": 2
     }
   },
   "47": {
@@ -1161,21 +1161,21 @@
       487
     ],
     "card_data": {
-      "name": "Castelul Iulia Hasdeu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Iulia Hasdeu Castle",
+      "location": "Muntenia",
+      "image_url": "47_iulia",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1356716",
+        "long": "25.7251426"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Iulia Hașdeu Castle is a folly built in the form of small castle by historian and politician Bogdan Petriceicu Hașdeu in the city of Câmpina, Romania. Work on it began in 1893, after Hasdeu's daughter, Iulia Hasdeu, died at the age of 19, an event that dramatically shook Hasdeu's life. He claimed that his late daughter provided the plans for building the castle during sessions of spiritism. The building was completed in 1896. The Castle, which needed a lot of repair even when Hașdeu was alive, was affected by the First World War and in 1924 the People's Atheneum of Câmpina 'B.P.Hasdeu' tried to take it for restoration. The castle was affected again by the Second World War and stayed in a damaged state till 1955, when its name was written in the Listing of Historical Monuments. Since 1994 the Iulia Hașdeu Castle has housed the 'B.P. Hașdeu' Memorial Museum which displays furniture and personal belongings of the Hașdeu family including photos, original documents, manuscripts, Hasdeu's reviews and pictures made by Nicolae Grigorescu and Sava Henția.",
+      "surface": 1,
+      "popularity": 4.3,
+      "visit_time": 2
     }
   },
   "48": {

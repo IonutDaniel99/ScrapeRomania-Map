@@ -645,6 +645,7 @@
       ],
       "description": "The road is totally paved. It’s 148 km (92 miles) long, running south-north from Novaci, a town in Gorj County, in Oltenia to Sebeş, a city in Alba County. The road offers breathtaking views together with lots of driving excitement. This asphalted road is not easy, with hundreds of turns.",
       "surface": 150,
+      "isRoad": 1,
       "popularity": 9,
       "visit_time": 4
     }
@@ -757,21 +758,21 @@
       375
     ],
     "card_data": {
-      "name": "Statiunea Balneoclimaterica Ocna Sibiu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Ocna Sibiu Spa Resort",
+      "location": "Transylvania",
+      "image_url": "31_ocna",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8720781",
+        "long": "24.0628877"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Salt"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Dubbed as a metaphor, 'the sea of Sibiu', the resort is visited annually by thousands of tourists who come to treat themselves with the concentrated salty waters and sapropelic mud or to enjoy the natural setting or the leisure possibilities it offers. The most concentrated chloride-sodium waters, highly mineralized muds and the sedative topoclimate are natural factors particularly favorable for the regeneration of mental and physical forces.",
+      "surface": 35,
+      "popularity": 8.2,
+      "visit_time": 8
     }
   },
   "32": {
@@ -782,21 +783,21 @@
       620
     ],
     "card_data": {
-      "name": "Satule Neolitic Draganesti Olt",
+      "name": "Neolithic village Draganesti Olt",
       "location": "Timisoara",
-      "image_url": "",
+      "image_url": "32_neolitic",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.1551526",
+        "long": "24.5391226"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Village",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "in the center of Drăgăneşti Olt. Those who built it respected exactly the architecture of the time. The huts were built close to each other, the streets are no more than 2 meters wide, and the buildings are low because the people of those times did not exceed 1.60 meters. A tomb specific to the Gumelniţa culture, with an oval pit, was also built next to the six brothels. Even though it is a unique settlement in Europe, two years after its inauguration, only 4,000 visitors crossed its threshold.",
+      "surface": 2,
+      "popularity": 5.7,
+      "visit_time": 3
     }
   },
   "33": {
@@ -807,21 +808,21 @@
       620
     ],
     "card_data": {
-      "name": "Orasul Giurgiu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Giurgiu City",
+      "location": "Muntenia",
+      "image_url": "33_giurgiu",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "43.8976442",
+        "long": "25.9625172"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube City",
+        "Port City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Giurgiu is a city in southern Romania. The seat of Giurgiu County, it lies in the historical region of Muntenia. It is situated amongst mud-flats and marshes on the left bank of the Danube facing the Bulgarian city of Ruse on the opposite bank. Three small islands face the city, and a larger one shelters its port, Smarda. The rich grain-growing land to the north is traversed by a railway to Bucharest, the first line opened in Romania, which was built in 1869 and afterwards extended to Smarda. Giurgiu exports timber, grain, salt and petroleum, and imports coal, iron, and textiles. The Giurgiu-Ruse Friendship Bridge, in the shared Bulgarian-Romanian section of the Danube, crosses the river in the outskirts of the city.",
+      "surface": 46,
+      "popularity": 10,
+      "visit_time": 50
     }
   },
   "34": {
@@ -832,21 +833,21 @@
       525
     ],
     "card_data": {
-      "name": "Manastirea Curtea de Arges",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Arges Monastery",
+      "location": "Muntenia",
+      "image_url": "34_curteadearges",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.156785",
+        "long": "24.6753724"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Monastery",
+        "Legends"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Cathedral of Curtea de Argeș (early 16th century) is a Romanian Orthodox cathedral in Curtea de Argeș, Romania. It is located on the grounds of the Curtea de Argeș Monastery, and is dedicated to the Dormition of the Mother of God. The building is the seat of the Archdiocese of Argeș and Muscel. The cathedral is faced with pale gray limestone, which was easily chiselled then hardened on exposure. The interior is of brick, plastered and decorated with frescoes. Nearby on the grounds stands the large Neo-Romanian style Royal Palace built in the late 19th century.",
+      "surface": 1,
+      "popularity": 10,
+      "visit_time": 4
     }
   },
   "35": {
@@ -857,21 +858,22 @@
       445
     ],
     "card_data": {
-      "name": "Soseaua Transfagarasean",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Transfăgărășan Road",
+      "location": "Muntenia-Transylvania",
+      "image_url": "35_transfagarasani",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.453372",
+        "long": "24.6250337"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain Road",
+        "Paved Road"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Transfăgărășan (trans + Făgăraș) or DN7C is a paved mountain road crossing the southern section of the Carpathian Mountains of Romania. It has national-road ranking and is the second-highest paved road in the country after the Transalpina. It starts near the village of Bascov, near Pitești, and stretches 90 kilometres (56 mi) to the crossroad between the DN1 and Sibiu, between the highest peaks in the country, Moldoveanu and Negoiu. The road, built in the early 1970s as a strategic military route, connects the historic regions of Transylvania and Wallachia.",
+      "surface": 151,
+      "isRoad": 1,
+      "popularity": 10,
+      "visit_time": 4
     }
   },
   "36": {
@@ -882,21 +884,22 @@
       440
     ],
     "card_data": {
-      "name": "Varful Moldoveanu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Moldoveanu Peak",
+      "location": "Muntenia",
+      "image_url": "36_moldovanu",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.5870948",
+        "long": "24.5961869"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain",
+        "Highest Peak"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Moldoveanu Peak (Romanian: Vârful Moldoveanu, at 2,544 metres (8,346 ft), is the highest mountain peak in Romania. It is located in Argeș County, in the Făgăraș Mountains of the Southern Carpathians.The most popular routes to reach Moldoveanu are over the Viștea Mare (2,527 metres (8,291 ft)), by paths coming from Podragu, Sâmbăta, or by the Viștea Valley.The closest settlement on the north side is Victoria and on the south side, Câmpulung. An easy way to climb Moldoveanu is from the hut 'Stâna lui Burnei'. From Slatina, Arges there is a forest road without asphalt of about 37 km length. As of June 2022, driving on it with normal cars is possible, but challenging and time-consuming. From Stâna lui Burnei, two paths lead to the summit, which are well-suited for a round trip.",
+      "surface": 2.4,
+      "elevation": 2544,
+      "popularity": 10,
+      "visit_time": 16
     }
   },
   "37": {
@@ -907,21 +910,21 @@
       395
     ],
     "card_data": {
-      "name": "Orasul Fagaras",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Fagaras City",
+      "location": "Transylvania",
+      "image_url": "37_fagaras",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8248518",
+        "long": "24.9406434"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle City",
+        "Elder citadel"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Făgăraș is a city in central Romania, located in Brașov County. It lies on the Olt River and has a population of 28,330 as of 2011.It is situated in the historical region of Transylvania, and is the main city of a subregion, Țara Făgărașului. The city is located at the foothills of the Făgăraș Mountains, on their northern side. It is traversed by the DN1 road, 66 kilometres (41 mi) west of Brașov and 76 kilometres (47 mi) east of Sibiu. On the east side of the city, between an abandoned field and a gas station, lies the geographical center of Romania. The Olt River flows east to west on the north side of the city; its left tributary, the Berivoi River, discharges into the Olt on the west side of the city, after receiving the waters of the Racovița River. The Berivoi and the Racovița were used to bring water to a since-closed major chemical plant located on the outskirts of the city.",
+      "surface": 36,
+      "popularity": 7.1,
+      "visit_time": 5
     }
   },
   "38": {
@@ -932,21 +935,21 @@
       410
     ],
     "card_data": {
-      "name": "Orasul Brasov",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Brasov City",
+      "location": "Transylvania",
+      "image_url": "38_brasov",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.6524781",
+        "long": "25.5964628"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle City",
+        "Elder City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Brașov is a city in Transylvania, Romania and the administrative centre of Brașov County. According to the latest Romanian census (2011), Brașov has a population of 253,200 making it the 7th most populous city in Romania. The metropolitan area is home to 382,896 residents. Brașov is located in the central part of the country, about 166 km (103 mi) north of Bucharest and 380 km (236 mi) from the Black Sea. It is surrounded by the Southern Carpathians and is part of the historical region of Transylvania. Historically, the city was the center of the Burzenland, once dominated by the Transylvanian Saxons, and a significant commercial hub on the trade roads between Austria and Turkey. It is also where the national anthem of Romania was first sung.",
+      "surface": 267,
+      "popularity": 10,
+      "visit_time": "100+"
     }
   },
   "39": {
@@ -957,21 +960,22 @@
       450
     ],
     "card_data": {
-      "name": "Sfinxul din Bucegi",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bucegi Sphinx",
+      "location": "Muntenia",
+      "image_url": "39_bucegi",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.4083125",
+        "long": "25.4703125"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Rock Formation",
+        "Natural Park"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Sphinx is a natural rock formation in the Bucegi Natural Park which is in the Bucegi Mountains of Romania. It is located at an altitude of 2,216 metres (7,270 ft) within the Babele complex of rock formations. The first photo of the Great Bucegi Sphinx was probably taken in about the year 1900. This photograph was taken from a front position, not from a lateral one, as it usually appears in modern pictures. It only acquired its nickname, referring to the Great Sphinx of Giza, in the year 1936. The image of the sphinx appears when the rock, having an 8 m height and a 12 m width, is observed from a certain angle. The megalith has its clearest outline on 21 November, at the time the sun goes down.",
+      "surface": 1,
+      "elevation": 2216,
+      "popularity": 7.7,
+      "visit_time": 4
     }
   },
   "40": {
@@ -982,21 +986,21 @@
       485
     ],
     "card_data": {
-      "name": "Castelul Bran",
-      "location": "Timisoara",
+      "name": "Bran Castle",
+      "location": "Transylvania",
       "image_url": "40_bran",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.5142103",
+        "long": "25.3659776"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle",
+        "Dracula"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov. It is a national monument and landmark in Transylvania. The fortress is on the Transylvanian side of the historical border with Wallachia, on road DN73. Commonly known outside Transylvania as Dracula's Castle, it is marketed as the home of the title character in Bram Stoker's Dracula. There is no evidence that Stoker knew anything about this castle, which has only tangential associations with Vlad the Impaler, voivode of Wallachia, the putative inspiration for Dracula. Stoker's description of Dracula's crumbling fictional castle also bears no resemblance to Bran Castle. The castle is now a museum dedicated to displaying art and furniture collected by Queen Marie.[2] Tourists can see the interior on their own or by a guided tour. At the bottom of the hill is a small open-air museum exhibiting traditional Romanian peasant structures (cottages, barns, water-driven machinery, etc.) from the Bran region.",
+      "surface": 1,
+      "popularity": 9.3,
+      "visit_time": 2
     }
   },
   "41": {
@@ -1007,21 +1011,21 @@
       525
     ],
     "card_data": {
-      "name": "Orasul Targoviste",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Targoviste City",
+      "location": "Muntenia",
+      "image_url": "41_targoviste",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.9218847",
+        "long": "25.3759912"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle City",
+        "Old Capital"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Târgoviște is a city and county seat in Dâmbovița County, Romania. It is situated 80 kilometres (50 miles) north-west of Bucharest, on the right bank of the Ialomița River. Târgoviște was one of the most important cities in the history of Wallachia, as it was its capital between the early 15th and 16th centuries. At the 2011 census, the city had a population of 79,610 people, making it the 26th largest in the country. The name Târgoviște is a Slavic name which the city acquired in the Middle Ages. It is derived from the old Slavonic word for 'marketplace', referring to the place rather than the market itself. The name is found in placenames not only in South Slavic areas, but also in West Slavic such as Slovak Trhovište or Polish Targowica. Additionally, places with the same name are found in Romania, in the regions of Oltenia, Banat, and Moldavia.",
+      "surface": 50,
+      "popularity": 6.9,
+      "visit_time": 3
     }
   },
   "42": {
@@ -1032,21 +1036,21 @@
       560
     ],
     "card_data": {
-      "name": "Palatul Mogosoaia",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Mogoșoaia Palace",
+      "location": "Muntenia",
+      "image_url": "42_mogosoaia",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.5278524",
+        "long": "25.9924625"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Historical",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Mogoșoaia Palace is situated about 10 kilometres (6.2 mi) from Bucharest, Romania. It was built between 1698-1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style. The palace bears the name of the widow of the Romanian boyar Mogoș, who owned the land it was built on.",
+      "surface": 1,
+      "popularity": 7.7,
+      "visit_time": 2
     }
   },
   "43": {
@@ -1057,21 +1061,21 @@
       615
     ],
     "card_data": {
-      "name": "Reservatia Naturala Comana",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Comana Natural Reserve",
+      "location": "Muntenia",
+      "image_url": "43_comana",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.1536977",
+        "long": "26.0961035"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Natural Reserve",
+        "Natural Park"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Comana Natural Park was declared a protected area by Government Decision no. 2151 of November 30, 2004, published in the Official Gazette of Romania, no. 38 of January 12, 2005 (regarding the establishment of the protected natural area regime for new areas). It covers an area of 24963 ha[6] and represents a special conservation area with a protection regime for several species of spontaneous flora (Paeonia peregrina Mill-sp., Ruscus aculeatus) and wild fauna (birds, fish, mammals , reptiles and amphibians) from the Burnaz Plain.",
+      "surface": 249,
+      "popularity": 7.4,
+      "visit_time": 2
     }
   },
   "44": {
@@ -1082,21 +1086,21 @@
       600
     ],
     "card_data": {
-      "name": "Capitala Romaniei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "The capital of Romania",
+      "location": "Muntenia",
+      "image_url": "44_bucharest",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.4378258",
+        "long": "26.0946376"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Capital",
+        "Little Paris"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Bucharest was first mentioned in documents in 1459. It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art. Its architecture is a mix of historical (mostly Eclectic, but also Neoclassical and Art Nouveau), interbellum (Bauhaus, Art Deco and Romanian Revival architecture), socialist era and modern. In the period between the two World Wars, the city's elegant architecture and the sophistication of its elite earned Bucharest the nickname of 'Paris of the East'. Although buildings and districts in the historic city centre were heavily damaged or destroyed by war, earthquakes, and even Nicolae Ceaușescu's program of systematization, many survived and have been renovated. In recent years, the city has been experiencing an economic and cultural boom. It is one of the fastest-growing high-tech cities in Europe, according to the Financial Times, CBRE, TechCrunch, and others. UiPath, a global startup founded in Bucharest, has reached over $35 billion in valuation. Since 2019, Bucharest hosts the largest high tech summit in Southeast Europe (Romania Blockchain Summit).",
+      "surface": 240,
+      "popularity": 10,
+      "visit_time": "100+"
     }
   },
   "45": {
@@ -1107,21 +1111,21 @@
       550
     ],
     "card_data": {
-      "name": "Palatul Snagov",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Snagov Palace",
+      "location": "Muntenia",
+      "image_url": "45_snagov",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.7257185",
+        "long": "26.171888"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Palace",
+        "Culture"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Snagov Palace is a former royal palace on the shore of Lake Snagov, about 40 km north-east of Bucharest, in Ilfov County, Romania. The palace is situated in the commune of Snagov and near the Snagov monastery. Snagov Palace was built in the early 1930s by Henrieta Delavrancea-Gibory for prince Nicholas of Romania, brother of king Carol II. It was built on the grounds of the royal hunting lodge Scroviște, which dated from the 19th century. The new palace was constructed in the Romanian Brâncovenesc style and completed in 1932. The palace has a formal garden with fountains, which was landscaped by the Austrian landscape architect Rebhun. In the garden there is a former guesthouse in Romanian Arts and Crafts-style, built in the beginning of the 20th century.",
+      "surface": 1,
+      "popularity": 5.8,
+      "visit_time": 2
     }
   },
   "46": {

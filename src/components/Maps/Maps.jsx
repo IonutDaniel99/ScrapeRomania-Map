@@ -8,6 +8,7 @@ import coords from '../../data/locationsRomania.json';
 import panzoom from 'panzoom';
 import SvgDisplay from './SvgDisplay';
 
+
 const Maps = () => {
     const [, forceUpdate] = useReducer(x => x + 1, 0);
     const [locationsList, setLocationsList] = useState(coords);
@@ -24,6 +25,7 @@ const Maps = () => {
     const [isPanMoving, setIsPanMoving] = useState(false);
 
     useEffect(() => {
+
         const a = fetchLocationToVisit();
         const b = fetchUserVisitedLocations();
         Promise.all([a, b]).then(values => {

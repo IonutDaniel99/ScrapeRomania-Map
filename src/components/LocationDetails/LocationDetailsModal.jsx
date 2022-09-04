@@ -110,8 +110,28 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                     </div>
                                     <div className="flex flex-row justify-between pb-8">
                                         <div className="flex flex-col items-center w-20 ">
-                                            <div className="text-sm text-gray-400 w-18 text-center">Surface:</div>
-                                            <div className="release">{location_details.surface} km<sup>2</sup></div>
+                                            {location_details?.elevation ?
+                                                <>
+                                                    <div className="text-sm text-gray-400 w-18 text-center">Elevation:</div>
+                                                    <div className="release">{location_details.elevation} m</div>
+                                                </> 
+                                                : 
+                                                <>
+                                                    {!location_details?.isRoad ?
+                                                        <>
+                                                            <div className="text-sm text-gray-400 w-18 text-center">Surface:</div>
+                                                            <div className="release">{location_details.surface} km<sup>2</sup></div>
+                                                        </>
+                                                        :
+                                                        <>
+                                                            <div className="text-sm text-gray-400 w-18 text-center">Distance:</div>
+                                                            <div className="release">{location_details.surface} km</div>
+                                                        </>
+                                                    }
+                                                    
+                                                </>
+                                            }
+
                                         </div>
                                         <div className="flex flex-col  items-center w-20">
                                             <div className="text-sm text-gray-400 w-18 text-center">Popularity:</div>

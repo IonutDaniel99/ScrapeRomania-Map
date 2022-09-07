@@ -1386,21 +1386,21 @@
       638
     ],
     "card_data": {
-      "name": "Statiunea balneoclimaterica Techirgiol",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Recovery Sanatorium Techirghiol",
+      "location": "Dobrogea",
+      "image_url": "56_techirghiol",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.0494688",
+        "long": "28.6053089"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal",
+        "Health"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The sapropelic mud from the Techirghiol Lake is the jewel of the resort. In 1924, at the Universal Exposition from Paris, the Techirghiol mud received the golden medal. Alphons Saligny was the first to study the therapeutic use of the mud; after this the Romanian Institute of Balneology approved it and during the 1930s the studies realized by Alphons Saligny and the Institute were the base for solid scientific proof regarding the therapeutic actions of the sapropelic mud of Techirghiol and the methodology of those treatments. The sapropelic mud of Techirghiol is used warm for different kind of procedures: Wraps, Cataplasm, Water mixed, for baths in bathtubs, Massage",
+      "surface": 6,
+      "popularity": 7.4,
+      "visit_time": 8
     }
   },
   "57": {
@@ -1411,21 +1411,21 @@
       540
     ],
     "card_data": {
-      "name": "Cheile Dobrogei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Dobrogea Gorges",
+      "location": "Dobrogea",
+      "image_url": "57_cheile",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.495000",
+        "long": "28.452222"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain Road",
+        "Natural Reserve"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "It was declared a Special Avifaunistic Protection Area in 2007 and covers an area of 10,929 hectares. This area includes the nature reserves Gura Dobrogei, La Adam Cave and Gura Dobrogei Cave. The protected area includes meadows, steppes, crops, pastures, deciduous forests and is included in the steppe geographical bioregion of the Casimca Plateau. Protected bird species are found here, such as the blue gull, the field striper, the short-legged plover, the quail, the Danube falcon, the cockerel, the black jay, the greenish woodpecker, or the shorebird. The gorges of Dobrogea are different from the gorges of the Carpathian Mountains. The valley is wide and the limestone walls are far from the water. They reach 30-40 meters, and the limestones are reefs. Along the entire length of the keys you can see the skeletons of the coral colonies deposited in circular forms.",
+      "surface": 102,
+      "popularity": 6.9,
+      "visit_time": 10
     }
   },
   "58": {
@@ -1436,21 +1436,21 @@
       490
     ],
     "card_data": {
-      "name": "Delta Dunarii",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Danube Delta",
+      "location": "Dobrogea",
+      "image_url": "58_danubee",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1898717",
+        "long": "29.2629207"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube Reserve",
+        "Diversity"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Danube Delta is the second largest river delta in Europe, after the Volga Delta, and is the best preserved on the continent. The greater part of the Danube Delta lies in Romania (Tulcea County), with a small part in Ukraine (Odessa Oblast). Its approximate surface area is 4,152 square kilometres (1,603 square miles), of which 3,446 km2 (1,331 sq mi) is in Romania. With the lagoons of Razim-Sinoe (1,015 km2 or 392 sq mi with 865 km2 or 334 sq mi water surface), located south of the main delta, the total area of the Danube Delta is 5,165 km2 (1,994 sq mi). The Razim-Sinoe lagoon complex is geologically and ecologically related to the delta proper; the combined territory is listed as a World Heritage Site.",
+      "surface": 3124.4,
+      "popularity": 10,
+      "visit_time": "45+"
     }
   },
   "59": {
@@ -1461,21 +1461,21 @@
       490
     ],
     "card_data": {
-      "name": "Orasul Tulcea",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Tulcea City",
+      "location": "Dobrogea",
+      "image_url": "59_tulcea",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.1792497",
+        "long": "28.7906652"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube City",
+        "Elder City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Tulcea was founded in the 7th century B.C. under the name of Aegyssus, mentioned in the documents of Procopius and Diodorus of Sicily (3rd century BC). In his Ex Ponto, Ovid recorded a local tradition that ascribed its name to a mythical founder, Aegisos the Caspian. After the fighting from 12-15 AD the Romans conquered the town. They rebuilt it after their plans, their technique and architectural vision, reorganizing it. The fortified town was mentioned as late as the 10th century, in documents such as Notitia Episcopatuum or De Thematibus. Under Byzantine rule beginning with the 5th century AD the town was abandoned by the first half of the 7th century due to the Barbarian invasions. The former settlement's territory fell under the rule of the Bulgarian Empire (681-c.1000; 1185-14th century). Inhabitation was restored in the second half of the 10th century, as the Byzantines built a fortress on the spot after reconquering the region. The fortress was soon destroyed in 1064 by an attack of the Uzes, however some inhabitation continued. A settlement, larger than the one in the 11th century, is archaeologically attested beginning with the 14th century. The Ottoman rule was imposed around 1420, and would last for the following four centuries.",
+      "surface": 177,
+      "popularity": 7.3,
+      "visit_time": 20
     }
   },
   "60": {
@@ -1486,21 +1486,21 @@
       475
     ],
     "card_data": {
-      "name": "Orasul Braila",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Braila City",
+      "location": "Muntenia",
+      "image_url": "60_braila",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.2407463",
+        "long": "27.8765933"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube City",
+        "Port City"
       ],
-      "description": "Cultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competitionCultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Before 14th century, a small village existed in the place of today's Brăila, probably inhabited by fishermen and small merchants. The village fell to the Mongols during the 1241 Mongol invasion of Europe and it was under direct control of the rulers of Argeș in mid-14th century. A settlement called Drinago was found in several 14th century Catalan and Castillian portolan charts (Angelino de Dalorto, 1325/1330 and Angelino Dulcert, 1339), as well as in the Book of Knowledge of All Kingdoms. This may have been an erroneous transcription of Brillago, a name which was later used in 15th century traveller's journals. In Greek documents of roughly that time, the city is referred to as Proilabum or Proilava, a Greek language adaptation of its Slavic name, Brailov. In German language sources, it is mentioned as Uebereyl. The origin and meaning of the name is unknown, but it is thought to be an anthroponym. The first certain document mentioning Brăila is a privilege act, given by Vladislav I of Wallachia to German merchants of Brașov, who were exempt of customs duties when they followed the road from Brașov to the Danube via Braylan.",
+      "surface": 78,
+      "popularity": 10,
+      "visit_time": 30
     }
   },
   "61": {
@@ -1511,21 +1511,21 @@
       450
     ],
     "card_data": {
-      "name": "Vulcanii Noroiosii",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Mud Volcanoes",
+      "location": "Muntenia",
+      "image_url": "61_noroios",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.3594064",
+        "long": "26.7134713"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Volcanoes",
+        "Natural Reserve"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Berca Mud Volcanoes is a geological and botanical reservation located in Scorțoasa commune close to Berca in Buzău County in Romania. Its most spectacular feature is the mud volcanoes, small volcano-shaped structures typically a few metres high caused by the eruption of mud and natural gases. As the gases erupt from 3000 metres deep towards the surface, through the underground layers of clay and water, they push up underground salty water and mud, so that they overflow through the mouths of the volcanoes, while the gas emerges as bubbles. The mud dries off at the surface, creating a relatively solid conical structure resembling a real volcano. The mud expelled by them is cold, as it comes from inside the Earth's continental crust layers, and not from the mantle.",
+      "surface": 0.10,
+      "popularity": 6.3,
+      "visit_time": 3
     }
   },
   "62": {

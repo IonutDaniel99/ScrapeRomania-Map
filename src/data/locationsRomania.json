@@ -1536,21 +1536,21 @@
       425
     ],
     "card_data": {
-      "name": "Orasul Galati",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Galati City",
+      "location": "Moldova",
+      "image_url": "62_galati",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.4376586",
+        "long": "28.0474949"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Danube City",
+        "Historical"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Galați is the capital city of Galați County, in the historical region of Western Moldavia, in eastern Romania. Galați is a port town on the Danube River. It has been the only port for the most part of Moldavia's existence. In 2011, the Romanian census recorded 249,432 residents, making it the 8th most populous city in Romania. Galați is an economic centre based around the port of Galați, the naval shipyard, and the largest steel mill in Romania, Galați steel works.",
+      "surface": 246.4,
+      "popularity": 10,
+      "visit_time": 55
     }
   },
   "63": {
@@ -1561,21 +1561,21 @@
       415
     ],
     "card_data": {
-      "name": "Mausoleul din Marasesti",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Mausoleum of Mărășești",
+      "location": "Moldova",
+      "image_url": "63_marasesti",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8723869",
+        "long": "27.2078876"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Museum",
+        "Memorial Site"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Mausoleum of Mărășești is a memorial site in Romania containing remains of 5,073 Romanian soldiers and officers killed in the First World War and dedicated to the commemoration of the Battle of Mărășești and Romanian Army members who were killed during World War I. The memorial took architects George Cristinel and Constantin Pomponiu 15 years to build and was unveiled on 18 September 1938 by King Carol II. The frieze in bas-relief surrounding the base of the dome was sculpted by Cornel Medrea and Ion Jalea.",
+      "surface": 2,
+      "popularity": 7.1,
+      "visit_time": 4
     }
   },
   "64": {
@@ -1586,21 +1586,21 @@
       425
     ],
     "card_data": {
-      "name": "Focurile Vii",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "The Eternal Flame",
+      "location": "Moldova",
+      "image_url": "64_focurile",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.5358788",
+        "long": "26.5487243"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Volcanoes",
+        "Fire Mud"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "At Andreiasu de Jos, in Vrancea county, there is the largest field of live fires, both in terms of the surface on which these are spread (12 hectares) and the gas flow from the underground of the Vrancea mountains (50 tons per year ).In 1973, a geological reserve was even established at Andreiasu de Jos, and the 'Living Fire' was declared a protected area of national interest (mixed nature reserve). The fires at Andreiasu are fueled by methane gas from the soil, but also by gases such as carbon dioxide, nitrogen and helium. They are about 50 cm high, but the locals say that during earthquakes (because the region is seismic) they even exceed 2 meters high. That those from Buzău county are more spectacular on the inside, when the colors of the flames create a magical atmosphere.",
+      "surface": 0.12,
+      "popularity": 5.3,
+      "visit_time": 3
     }
   },
   "65": {
@@ -1611,21 +1611,21 @@
       365
     ],
     "card_data": {
-      "name": "Orasul Barlad",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Barlad City",
+      "location": "Moldova",
+      "image_url": "65_barlad",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.2309065",
+        "long": "27.6684023"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Ruins",
+        "Ruler Birthplace"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Bârlad is a city in Vaslui County, Romania. It lies on the banks of the river Bârlad, which waters the high plains of Western Moldavia. At Bârlad the railway from Iași diverges, one branch skirting the river Siret, the other skirting the Prut; both reunite at Galați. Along with a maze of narrow and winding streets, Bârlad features several notable modern buildings, including the hospital administered by the Saint Spiridion Foundation of Iași. In the vicinity of the city are the ruins of a Roman camp. The city is the birthplace of Romanian Domnitor (Ruler) and diplomat Alexandru Ioan Cuza.",
+      "surface": 15,
+      "popularity": 8.7,
+      "visit_time": 10
     }
   },
   "66": {
@@ -1636,21 +1636,21 @@
       390
     ],
     "card_data": {
-      "name": "Cascada Putnei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Putnei Waterfall",
+      "location": "Moldova",
+      "image_url": "66_cascada",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.9292251",
+        "long": "26.5987467"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Waterfall",
+        "Lake"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Putnei waterfall was declared a Natural Monument in 1973; then the first arrangements for visiting were made. It is about 80 meters long, and the water collects in a lake with a depth of about 12 meters. Currently, the Putna Waterfall is included in the Putna Vrancea Natural Park, as a sustainable management area. The importance of the Putna Waterfall lies in the landscape and hydromorphological character due not only to the current waterfall, but also to the abandoned waterfall, which remained suspended on the left bank, above Putna, approx. 250 m downstream from the current waterfall, as a result of tectonic processes, when a portion of the bed of the old bed collapsed, and the old course was diverted onto the present bed. As a result of excessive anthropization, most of the rocky plant species, including the cornflower, were destroyed over time.",
+      "surface": 0.08,
+      "popularity": 2.6,
+      "visit_time": 1
     }
   },
   "67": {
@@ -1686,21 +1686,21 @@
       395
     ],
     "card_data": {
-      "name": "Orasul Sfantu Gheorghe",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sfantul(Saint) Gheorghe City",
+      "location": "Transylvania",
+      "image_url": "68_gheorghe",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8510224",
+        "long": "25.7873425"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Elder City",
+        "Economic Area"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Sfântu Gheorghe is one of the oldest cities in Transylvania, the settlement first having been documented in 1332. The city takes its name from Saint George, the patron of the local church. Historically it was also known in German as Sankt Georgen. The 'sepsi' prefix refers to the area which the ancestors of the local Székely population had inhabited before settling to the area of the town. The previous area of their settlement was around the town of 'Sebes' (now: Sebeș) which later became populated mainly by Transylvanian Saxons.",
+      "surface": 11.29,
+      "popularity": 5.8,
+      "visit_time": 5
     }
   },
   "69": {
@@ -1711,21 +1711,21 @@
       370
     ],
     "card_data": {
-      "name": "Vulcanul Racos",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Racos Volcano",
+      "location": "Transylvania",
+      "image_url": "69_racos",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.0319484",
+        "long": "25.418651"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Volcanoes",
+        "Rock Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Racoș volcano is located in the vicinity of Racoș commune, in the Perșani mountains. You can get there by car, but also by train. The drive is good, and the scenery up there delightful, with hills covered with raw green grass and trees standing like border guards. You can reach by car up to a distance of 500-700 meters from the crater of the volcano...And from there you take a few more steps on foot.",
+      "surface": 0.10,
+      "popularity": 3.6,
+      "visit_time": 1
     }
   },
   "70": {
@@ -1737,20 +1737,20 @@
     ],
     "card_data": {
       "name": "Slanic Moldova",
-      "location": "Timisoara",
-      "image_url": "",
+      "location": "Moldova",
+      "image_url": "70_slanic",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.2172844",
+        "long": "26.4656137"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Mountain Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The composition and structure of the soil consists of old tertiary soils. In particular, two formations widespread in the Eastern Carpathians alternate from the mouth of the river to beyond the springs in the resort, these being the Kliwa or Tisești sandstone and the disodilic shale with fish skeletons, both belonging to the Oligocene period, and towards the mountainous part above the springs , making up especially the Şandor massif, another older formation stands out: the Uz or Tarcău sandstone, whose age belongs to the Eocene period. All these formations have special properties, especially the Tisești sandstone. It consists of strong layers of fine siliceous sandstone, being very hard. It is supposed to have been formed from the cementation of the sands of a continuously receding sea beach in early Tertiary times.",
+      "surface": 144,
+      "popularity": 7.3,
+      "visit_time": 10
     }
   },
   "71": {

@@ -34,7 +34,7 @@
         ],
         "semi": [
             2,
-            "always"
+            "never"
         ]
     }
 }

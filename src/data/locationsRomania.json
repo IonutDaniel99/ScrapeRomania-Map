@@ -1761,21 +1761,22 @@
       355
     ],
     "card_data": {
-      "name": "Salian Drumul Sarii",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Targu Ocna Salt Mine",
+      "location": "Moldova",
+      "image_url": "71_ocna",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.2876394",
+        "long": "26.6034286"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Salt",
+        "Cave"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Târgu Ocna mine is a large salt mine located in eastern Romania in Bacău County, close to Târgu Ocna. Târgu Ocna represents one of the largest salt reserves in Romania having estimated reserves of 229 million tonnes of NaCl.",
+      "surface": 240,
+      "isCave": 1, 
+      "popularity": 7.6,
+      "visit_time": 4
     }
   },
   "72": {
@@ -1786,21 +1787,21 @@
       300
     ],
     "card_data": {
-      "name": "Orasul Iasi",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Iasi City",
+      "location": "Moldova",
+      "image_url": "72_iasi",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.1560519",
+        "long": "27.4468873"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Historical",
+        "Artistic City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Known as the Cultural Capital of Romania, Iași is a symbol of Romanian history. Historian Nicolae Iorga stated that 'there should be no Romanian who does not know of it'. Still referred to as 'The Moldavian Capital', Iași is the main economic and business centre of Romania's Moldavian region. In December 2018, Iași was officially declared the Historical Capital of Romania.",
+      "surface": 93.9,
+      "popularity": 10,
+      "visit_time": 60
     }
   },
   "73": {

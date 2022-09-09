@@ -3,12 +3,12 @@ import { FaCheck } from 'react-icons/fa';
 import { RiCloseFill } from 'react-icons/ri';
 import { TbMapSearch } from 'react-icons/tb';
 import { writeData } from './utils';
-import {camelCase, startCase} from 'lodash';
+import { camelCase, startCase } from 'lodash';
 import StarIcon from '@mui/icons-material/Star';
 
 const LocationDetailsModal = ({ locationId, location_details, visited_locations, onModalLocationsChanged, onHandleChildCloseModal }) => {
     const [check, setCheck] = useState(true);
-    
+
     useEffect(() => {
         isChecked();
     }, []);
@@ -36,7 +36,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
         writeData(_newLocations);
     };
 
-    const openInNewTab = (lat,long) => {
+    const openInNewTab = (lat, long) => {
         const url = `https://www.google.ro/maps/@${lat},${long},13z`;
         window.open(url, '_blank', 'noopener,noreferrer');
     };
@@ -45,13 +45,52 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
         return number.toString().slice(1) === '' ? number + '.0' : number;
     };
 
+    const checkForType = (location_details) => {
+        const isRoad = location_details?.isRoad;
+        const isCave = location_details?.isCave;
+        const isElevation = location_details?.elevation;
+
+
+        if (isCave !== undefined) {
+            return (
+                <>
+                    <div className="text-sm text-gray-400 w-18 text-center">Depth:</div>
+                    <div className="release">{location_details.surface} m</div>
+                </>
+            );
+        }
+        if (isRoad !== undefined) {
+            return (
+                <>
+                    <div className="text-sm text-gray-400 w-18 text-center">Distance:</div>
+                    <div className="release">{location_details.surface} km</div>
+                </>
+            );
+        }
+        if (isElevation !== undefined) {
+            return (
+                <>
+                    <div className="text-sm text-gray-400 w-18 text-center">Elevation:</div>
+                    <div className="release">{location_details.elevation} m</div>
+                </>
+            );
+        }
+
+        return (
+            <>
+                <div className="text-sm text-gray-400 w-18 text-center">Surface:</div>
+                <div className="release">{location_details.surface} km<sup>2</sup></div>
+            </>
+        );
+    };
+
     return (
         <>
             <div className="
                     absolute w-full min-h-[28rem] max-w-sm shadow-lg rounded-lg overflow-hidden z-50
                     sm:top-20 sm:left-10 sm:w-96 my-4
                 ">
-                <img className="absolute inset-0 transform w-[400px] h-[600px] object-cover -translate-y-4 grayscale-0" src={`/images/locations_images/${location_details.image_url}.jpg`} alt={location_details.name}/>
+                <img className="absolute inset-0 transform w-[400px] h-[600px] object-cover -translate-y-4 grayscale-0" src={`/images/locations_images/${location_details.image_url}.jpg`} alt={location_details.name} />
                 <div className='flex max-w-sm w-full shadow-md rounded-lg overflow-hidden mx-auto'>
                     <div className="overflow-hidden relative transform shadow-lg text-white w-full">
                         <div className="absolute inset-0 top-64 z-10 bg-gradient-to-t from-black via-black to-transparent"></div>
@@ -90,7 +129,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                                 }
                                             </button>
                                         </div>
-                                        
+
                                     </div>
                                     <div className="flex flex-col">
                                         <div className="mb-0 text-xs text-gray-400 w-3/4 leading-5 flex gap-2">
@@ -110,32 +149,12 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                                     </div>
                                     <div className="flex flex-row justify-between pb-8">
                                         <div className="flex flex-col items-center w-20 ">
-                                            {location_details?.elevation ?
-                                                <>
-                                                    <div className="text-sm text-gray-400 w-18 text-center">Elevation:</div>
-                                                    <div className="release">{location_details.elevation} m</div>
-                                                </> 
-                                                : 
-                                                <>
-                                                    {!location_details?.isRoad ?
-                                                        <>
-                                                            <div className="text-sm text-gray-400 w-18 text-center">Surface:</div>
-                                                            <div className="release">{location_details.surface} km<sup>2</sup></div>
-                                                        </>
-                                                        :
-                                                        <>
-                                                            <div className="text-sm text-gray-400 w-18 text-center">Distance:</div>
-                                                            <div className="release">{location_details.surface} km</div>
-                                                        </>
-                                                    }
-                                                    
-                                                </>
-                                            }
+                                            {checkForType(location_details)}
 
                                         </div>
                                         <div className="flex flex-col  items-center w-20">
                                             <div className="text-sm text-gray-400 w-18 text-center">Popularity:</div>
-                                            <div className="popularity flex items-center justify-between w-20">{checkForDecimalAfterDor(location_details.popularity)}<span>/</span><span className={'flex items-center'}>10 <StarIcon fontSize={'small'}/></span></div>
+                                            <div className="popularity flex items-center justify-between w-20">{checkForDecimalAfterDor(location_details.popularity)}<span>/</span><span className={'flex items-center'}>10 <StarIcon fontSize={'small'} /></span></div>
                                         </div>
                                         <div className="flex flex-col  items-center w-20">
                                             <div className="text-sm text-gray-400 w-18 text-center">Visit time:</div>

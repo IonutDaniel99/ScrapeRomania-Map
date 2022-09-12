@@ -1812,21 +1812,21 @@
       285
     ],
     "card_data": {
-      "name": "Castelul Sturdza de la Miclauseni",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sturdza Palace",
+      "location": "Moldova",
+      "image_url": "73_sturdza",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.0966896",
+        "long": "26.9234925"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Palace",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Around the year 1410, the ruler Alexandru cel Bun (1400-1432) gave the Vornic Miclăuș (1380-1440), a member of the Royal Council, a large estate, located near Lunca Siretului. The estate became known as Miclăușeni, after the death of the nobleman. On April 25, 1591, the descendants of Vornic Miclăuș sold the estate to the treasurer Simion Stroici (1550-1623). This village was fortified for him in 1598. At the beginning of the 17th century, the treasurer Simion Stroici built a mansion here, the ruins of which could still be seen at the beginning of the 20th century. Through a will dated June 5, 1622, the treasurer Simion Stroici bequeathed the village of Miclăușeni to 'Lupu Prăjăscului and my niece Safta, and to my son, in Gligorie, with horses and horses and all the income, because I took them to them so that they will be children of my soul'. At the end of the 17th century (in 1697), the descendants of Lupu Prăjescu, having no descendants, left the domain to the brothers Ioan and Sandu Sturdza, with whom they were related.",
+      "surface": 4,
+      "popularity": 6.3,
+      "visit_time": 5
     }
   },
   "74": {
@@ -1837,21 +1837,21 @@
       285
     ],
     "card_data": {
-      "name": "Orasul Bacau",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bacau City",
+      "location": "Moldova",
+      "image_url": "74_bacau",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5640425",
+        "long": "26.9088596"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain City",
+        "Historical"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The town's name, which features in Old Church Slavonic documents as Bako, Bakova or Bakovia, comes most probably from a personal name. Men bearing the name Bakó or Bako are documented in medieval Transylvania and in 15th-century Bulgaria, but according to Victor Spinei the name itself is of Turkic - most probably of Cuman or Pecheneg - origin. Nicolae Iorga believes that the city's name is of Hungarian origin (as Adjud and Sascut). Another theory suggests that the town's name has a Slavic origin, pointing to the Proto-Slavic word byk, meaning 'ox' or 'bull', the region being very suitable for raising cattle; the term, rendered into Romanian alphabet as bâc, was probably the origin of Bâcău. In German it is known as Bakau, in Hungarian as Bákó and in Turkish as Baka.",
+      "surface": 43.19,
+      "popularity": 8.5,
+      "visit_time": 25
     }
   },
   "75": {
@@ -1862,21 +1862,21 @@
       325
     ],
     "card_data": {
-      "name": "Lacul Sfanta Ana",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Lake Saint Ann",
+      "location": "Transylvania",
+      "image_url": "75_ana",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.1263035",
+        "long": "25.8869651"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Volcanic Crater",
+        "Volcanic Lake"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Lake Sfânta Ana is the only crater lake in Romania located in the volcanic crater of the volcano named Ciomatu Mare of the Eastern Carpathians, near Tușnad in the Natural Reserve of Mohoș, Harghita County, Romania. Palynology studies concluded that the history of Lake Saint Anne began about 9,800-8,800 years ago, at the stage of peat bog and shallow lake. It has an oval form and an area of 220,000 m². According to measurements made in 2005, the maximum depth of the lake is 6.4 m and the sediment thickness is about 4 m. The lake is supplied exclusively from precipitation, therefore the degree of mineralization of the water is very low. The water purity approaches of that of distilled water, with only 0.0029 ml mineral. In winter, the lake is covered with a layer of ice of up to 1 m. The lake is part of the Mohos Nature Reserve. Near the lake there is a Roman Catholic chapel dedicated to Saint Anne. Swimming in the lake in general is prohibited since April 2018. It is available only for sporting events under special permits.",
+      "surface": 0.2,
+      "popularity": 9.1,
+      "visit_time": 6
     }
   },
   "76": {
@@ -1887,21 +1887,21 @@
       355
     ],
     "card_data": {
-      "name": "Cetatea Rupea",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Rupea Fortress",
+      "location": "Transylvania",
+      "image_url": "76_rupea",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.0371773",
+        "long": "25.2122356"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Fortress",
+        "Medieval"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Rupea Fortress stands on one of the oldest archaeological sites in Romania, the first signs of human settlements dating from the Paleolithic and Early Neolithic (5500 BC-3500 BC). Archaeological investigations have revealed objects from this era, testimony of settlements in the region: stone tools, pottery, funeral urns, etc. In Dacian times, on these places was raised the dava known as Rumidava or Ramidava (after various historical sources); conquered by the Romans, Rumidava became the Roman castra Rupes (in Latin, rupes means 'rock' or 'stone'). The Roman castra Rupes was part of the Roman fortification belt defending the commercial area and routes linking the Târnava Valley with the Olt Valley, Râșnov and Hoghiz.",
+      "surface": 1.5,
+      "popularity": 7.6,
+      "visit_time": 3
     }
   },
   "77": {
@@ -1912,21 +1912,21 @@
       345
     ],
     "card_data": {
-      "name": "Orasul Sighisoara",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sighisoara City",
+      "location": "Transylvania",
+      "image_url": "77_sighisoara",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.2230059",
+        "long": "24.7937072"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Elder City",
+        "Military Site"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Sighișoara is a city on the Târnava Mare River in Mureș County, Romania. Located in the historic region of Transylvania, Sighișoara has a population of 28,102 according to the 2011 census. It is a popular tourist destination for its well-preserved walled old town, which is listed by UNESCO as a World Heritage Site. The city administers seven villages: Angofa, Aurel Vlaicu, Hetiur, Rora, Șoromiclea, Venchi, and Viilor. Sighișoara was part of the Hungarian Kingdom until 1918.",
+      "surface": 10,
+      "popularity": 9,
+      "visit_time": 25
     }
   },
   "78": {
@@ -1937,21 +1937,21 @@
       350
     ],
     "card_data": {
-      "name": "Orasul Medias",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Medias City",
+      "location": "Transylvania",
+      "image_url": "78_medias",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.1642825",
+        "long": "24.3542861"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Elder City",
+        "Thermal City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Mediaș is the second largest city in Sibiu County, Transylvania, Romania. Mediaș is located in the middle basin of Târnava Mare River, at 39 km (24 mi) from Sighișoara and 41 km (25 mi) from Blaj. The health resort Bazna, officially recognized for the first time in 1302, is 18 km (11 mi) from Mediaș. The health resort offers mineral water springs, rich in salts, mineral mud and a special type of salt, called 'Bazna salt'. The distance between Mediaș and the county's residence Sibiu is 55 km (34 mi).",
+      "surface": 62.62,
+      "popularity": 8.1,
+      "visit_time": 10
     }
   },
   "79": {
@@ -1962,21 +1962,21 @@
       355
     ],
     "card_data": {
-      "name": "Orasul Alba Iulia",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Alba Iulia City",
+      "location": "Transylvania",
+      "image_url": "79_alba",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.0616246",
+        "long": "23.5580027"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "River City",
+        "Elder City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Alba Iulia is a city that serves as the seat of Alba County in the west-central part of Romania. Located on the Mureș River in the historical region of Transylvania, it has a population of 63,536 (as of 2011). During the ancient times, the site was the location of the Roman camp Apulum. Since the High Middle Ages, the city has been the seat of Transylvania's Roman Catholic diocese. Between 1542 and 1690 it was the capital of the principality of Transylvania. At one point it also was a center of the Eastern Orthodox Metropolitan of Transylvania with suffragan to Vad diocese. On 1 December 1918, the Union of Transylvania with Romania was declared in Alba Iulia, and the Romania's King Ferdinand I and Queen Marie were crowned in the Alba Iulia Orthodox Cathedral, in 1922. Alba Iulia is historically important for Romanians, Hungarians, and Transylvanian Saxons. In December 2018, Alba Iulia was officially declared Capital of the Great Union of Romania.",
+      "surface": 103,
+      "popularity": 10,
+      "visit_time": 35
     }
   },
   "80": {
@@ -1987,21 +1987,21 @@
       375
     ],
     "card_data": {
-      "name": "Cetatea Calnice",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Fortress Câlnic",
+      "location": "Transylvania",
+      "image_url": "80_calnic",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8890997",
+        "long": "23.6603435"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Fortress",
+        "Noble House"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Mongol invasion of 1241 prompted a surge in military construction in Transylvania, with wood and earthen defenses abandoned in favor of stone, assembled in haste and without much initial attention to artistic detail. At Câlnic, the fortress began as a residence for a Graf (count), one of the last such to be built in Transylvania. Around 1270, the nobleman Chyl of Kelling, whose family gave the village its German name, built a keep for his residence. The strong parallelepiped structure, with a ground floor and three floors for living space, came to be known as the Siegfried tower. Frequent Ottoman attacks led the keep to be fortified with a defensive level and surrounded by a massive wall. The oval precinct around the keep was fitted with a guard tower to the south and a gate tower to the north. The structure was surrounded by a water-filled moat, with access only by drawbridge. The noble owners never went along very well with the local notables, and in 1430, the final Graf sold the fortress to the villagers and moved out.",
+      "surface": 0.60,
+      "popularity": 5.8,
+      "visit_time": 3
     }
   },
   "81": {

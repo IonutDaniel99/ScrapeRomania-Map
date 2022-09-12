@@ -48,7 +48,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
     const checkForType = (location_details) => {
         const isRoad = location_details?.isRoad;
         const isCave = location_details?.isCave;
-        const isElevation = location_details?.elevation;
+        const isMountain = location_details?.isMountain;
 
 
         if (isCave !== undefined) {
@@ -67,7 +67,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
                 </>
             );
         }
-        if (isElevation !== undefined) {
+        if (isMountain !== undefined) {
             return (
                 <>
                     <div className="text-sm text-gray-400 w-18 text-center">Elevation:</div>

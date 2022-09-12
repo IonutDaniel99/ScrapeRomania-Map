@@ -897,7 +897,7 @@
       ],
       "description": "Moldoveanu Peak (Romanian: Vârful Moldoveanu, at 2,544 metres (8,346 ft), is the highest mountain peak in Romania. It is located in Argeș County, in the Făgăraș Mountains of the Southern Carpathians.The most popular routes to reach Moldoveanu are over the Viștea Mare (2,527 metres (8,291 ft)), by paths coming from Podragu, Sâmbăta, or by the Viștea Valley.The closest settlement on the north side is Victoria and on the south side, Câmpulung. An easy way to climb Moldoveanu is from the hut 'Stâna lui Burnei'. From Slatina, Arges there is a forest road without asphalt of about 37 km length. As of June 2022, driving on it with normal cars is possible, but challenging and time-consuming. From Stâna lui Burnei, two paths lead to the summit, which are well-suited for a round trip.",
       "surface": 2.4,
-      "elevation": 2544,
+      "isMountain": 2544,
       "popularity": 10,
       "visit_time": 16
     }
@@ -973,7 +973,7 @@
       ],
       "description": "The Sphinx is a natural rock formation in the Bucegi Natural Park which is in the Bucegi Mountains of Romania. It is located at an altitude of 2,216 metres (7,270 ft) within the Babele complex of rock formations. The first photo of the Great Bucegi Sphinx was probably taken in about the year 1900. This photograph was taken from a front position, not from a lateral one, as it usually appears in modern pictures. It only acquired its nickname, referring to the Great Sphinx of Giza, in the year 1936. The image of the sphinx appears when the rock, having an 8 m height and a 12 m width, is observed from a certain angle. The megalith has its clearest outline on 21 November, at the time the sun goes down.",
       "surface": 1,
-      "elevation": 2216,
+      "isMountain": 2216,
       "popularity": 7.7,
       "visit_time": 4
     }
@@ -2012,21 +2012,21 @@
       352
     ],
     "card_data": {
-      "name": "Cetatea Alba Carolina",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Alba Carolina Citadel",
+      "location": "Transylvania",
+      "image_url": "81_carolina",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.0686127",
+        "long": "23.5716639"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Museum",
+        "Fortress"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Alba Carolina Citadel (Romanian: Cetatea Alba Carolina, Hungarian: Gyulafehérvári vár) is a star-shaped fortress located in Alba Iulia. Its construction commenced on November 4, 1715 during the Habsburg rule in Transylvania, and was completed in 1738. 20,000 serfs were involved in its construction, which is estimated to have cost around 3 million florins. The citadel was built on the site of two other fortifications: the legionary fortress of Legio XIII Gemina (known as Apulum), as well as the medieval Belgrad citadel. The shape of the citadel, an iconic element of Vauban architecture, influenced the design of Alba Iulia's city logo when the city adopted city branding in 2014. The city received 47.5 million lei in 2009 for the restoration and conservation of the citadel.] The citadel is named after Charles VI, known as Carol VI in Romanian, who was the Holy Roman Emperor at the time of the citadel's construction.",
+      "surface": 1,
+      "popularity": 9,
+      "visit_time": 6
     }
   },
   "82": {
@@ -2037,21 +2037,21 @@
       340
     ],
     "card_data": {
-      "name": "Castelul Savarsin",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Săvârșin Castle",
+      "location": "Crisana",
+      "image_url": "82_savarsin",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.015625",
+        "long": "22.235619"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Castle",
+        "Country House"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Formerly known as Forray Castle, Săvârșin was owned by various Hungarian noble families for three centuries during the territory owned by the Kingdom of Hungary until the Union of Transylvania with Romania. In mid-18th century, at the center of the estate on which the current Royal Castle lies, there was a building raised in western baroque style (dating from 1680), that belonged to the Edelspacher de Gyorok noble family. After having been set on fire in November 1784 by the peasants in the uprise led by Horia, Closca and Crisan, and needed being restored from the foundations, the castle had various owners, till 1858 when it became the possession of Leopold Count Nádasdy de Nádasd et Fogarasföld, the one who re-built it in its present form in 1860. In 1941, following an exchange of properties, the Castle became the property of the Mocioni-Starcea family, who prepared the Castle for so-called 'crown weekends'. In 1943, the Castle became the property of King Michael I, who was the king of Romania at that time and bought the Castle from the Crown property as a gift for his mother Queen Helen.",
+      "surface": 0.06,
+      "popularity": 4.8,
+      "visit_time": 3
     }
   },
   "83": {
@@ -2063,20 +2063,20 @@
     ],
     "card_data": {
       "name": "Baile Felix",
-      "location": "Timisoara",
-      "image_url": "",
+      "location": "Crisana",
+      "image_url": "83_felix",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.9903884",
+        "long": "21.9778705"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Village"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Thermal springs were valued in the eighteenth century by the monk Félix Helcher of the Monastery of Klosterbruck (de) in Moravia, administrator of the Váradszentmárton  monastery. Between 1711-1721 the first treatment facilities were organized under the name of Félixfürdő (in Romanian: Baia lui Felix). Félix Helcher died in 1737. In 1885 a new spring, with a temperature of 49 °C, was found. The thermal springs were discovered around 1000, or around 1200, or according to other experts, only in 1700. The only fact agreed by all experts is the appearance of the first buildings in this resort: between the years 1711-1721. In 1920, the commune became part of Romania, in 1940, it was given back to Hungary. After World War II, it became part of Romania again. In 1948 Sanmartin monastery area was nationalized by the communist authorities. Several recreational bases, including the one belonged to Securitate, were built on the nationalized land. The Premonstatens Order claims it latter. On April 2, 2014, the HCCJ (Higher Court of Cassation and Justice) ordered the transfer of the filed case from Oradea Court to the Giurgiu District Court, where it is now. Other requests of the Premonstratens Order on retrocession the Băile Felix lands are in progress at HCCJ.",
+      "surface": 1,
+      "popularity": 10,
+      "visit_time": 8
     }
   },
   "84": {
@@ -2087,21 +2087,21 @@
       275
     ],
     "card_data": {
-      "name": "Pestera Farcu",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Farcu Crystal Cave",
+      "location": "Crisana",
+      "image_url": "84_farcu",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.8176325",
+        "long": "22.4239134"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Caves",
+        "Crystals"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The cave was discovered during mining operations for the extraction of bauxite. The advance of the working front in the gallery in the Farcu mine led to the opening of a geode-type cave, a cavity with no connection to the outside. The lack of a communication path with the outside created the ideal conditions for the formation of calcite crystals. Access to the cave is through a mining gallery where an exhibition dedicated to mining is set up. Here are exhibited objects that were used in the daily work of the miners, as well as different samples of bauxite. After a visit to the mining museum, tourists will be able to look into the depths of an underground avenue, designed in such a way as to offer a spectacular perspective to the bottom of the earth. The tourist route continues towards the actual cave, which, although small, is richly decorated with crystals of various shapes.",
+      "surface": 1,
+      "popularity": 1,
+      "visit_time": 2
     }
   },
   "85": {
@@ -2112,21 +2112,22 @@
       285
     ],
     "card_data": {
-      "name": "Pestera Ursilor",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bear's Cave",
+      "location": "Crisana",
+      "image_url": "85_ursilor",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5537948",
+        "long": "22.5695098"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Caves",
+        "Museum"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Bears' Cave (Romanian: Peștera Urșilor) is located in the western Apuseni Mountains, on the outskirts of Chișcău village, Bihor County, northwestern Romania. It was discovered in 1975 by Speodava, an amateur spelaeologist group. Bears' Cave received its name after the 140 cave bear skeletons which were discovered on the site in 1983. The cave bear, also known as Ursus spelaeus, is a species of bear which became extinct during the Last Glacial Maximum, about 27,500 years ago. The cave has three galleries and four halls: The Candles Hall, Emil Racovita Hall, The Spaghetti Hall and The Bones Hall.",
+      "surface": 482,
+      "isCave": 1,
+      "popularity": 10,
+      "visit_time": 3
     }
   },
   "86": {
@@ -2137,21 +2138,22 @@
       300
     ],
     "card_data": {
-      "name": "cetatea Ponor",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Cetățile Ponorului",
+      "location": "Crisana",
+      "image_url": "86_ponor",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5635149",
+        "long": "22.7102875"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Caves",
+        "Mountain Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Also called the Everest of Romanian speleology, the karst complex from Cetățile Ponorului was mentioned for the first time in 1886 by Nagy Sandor. In 1929 R. Jeannel and Emil Racoviță investigate the entrance area. The first 300 m of the active gallery were explored by the team of the Cluj Caving Institute in 1949. Since 1951, the team of climbers of AS Armata Brașov led by Emilian Cristea has also been co-opted. A team of French speleologists also entered the competition. In several expeditions the active gallery is explored. In 1957, the final sip is reached. In two other entries from 1972, the climbing team from A.S. Armata-Brașov, manages to climb the final wall over 100 m high, without finding a continuation. The speleologists from Ștei are the ones who removed many question marks from the Citadel map. Explorations continue.",
+      "surface": 950,
+      "isMountain": 1,
+      "popularity": 6.3,
+      "visit_time": 4
     }
   },
   "87": {
@@ -2162,21 +2164,21 @@
       300
     ],
     "card_data": {
-      "name": "Parcul Natural Apuseni",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Apuseni Natural Park",
+      "location": "Crisana-Transylvania",
+      "image_url": "87_apuseni",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.6084985",
+        "long": "22.7642009"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Natural Park",
+        "Diversity"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Apuseni Natural Park with an area of 75.784 ha was declared natural protected area by the Law Number 5 of March 6, 2000 (published in the Monitorul Oficial of Romania, Number 152 of April 12, 2000) and represents a mountainous area (mountain peaks, cirques, caves, valleys, karst areas, forests and pastures), with flora and fauna specific Western Carpathians. Natural reserves included in the park: Izbucul de la Cotețul Dobreștilor (0.20 ha), Izbucul Mătișești (2 ha), Izbucul Tăuzului (1 ha), Coiba Mare Cave (0.50 ha), Avenul din Hoanca Urzicarului (1 ha), Scărișoara Cave (1 ha) and Ghețarul de la Vârtop (1 ha) in Alba county; Pietrele Galbenei(6.30 ha), Cetatea Rădesei Cave (20 ha), Poiana Florilor (1 ha), Platoul Carstic Padiș (39 ha), Valea Galbenei (70.50 ha), Valea Sighiștelului (412.60 ha), Vârful Biserica Moțului (3 ha), Platoul carstic Lumea Pierdută (39 ha), Cetățile Ponorului (14.90 ha), Ghețarul Focul Viu Cave (0.10 ha), Ciur Izbuc Cave (0.10 ha), Micula’s Cave (0.10 ha), Urşilor Cave (1 ha), Smeii de la Onceasa Cave (0.50 ha) and Cerbului Cave-Avenul cu Vacă (45 ha) in Bihor County; Molhașul Mare de la Izbuc (8 ha) in Cluj county.",
+      "surface": 750,
+      "popularity": 10,
+      "visit_time": "50+"
     }
   },
   "88": {

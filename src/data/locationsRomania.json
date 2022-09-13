@@ -896,8 +896,8 @@
         "Highest Peak"
       ],
       "description": "Moldoveanu Peak (Romanian: Vârful Moldoveanu, at 2,544 metres (8,346 ft), is the highest mountain peak in Romania. It is located in Argeș County, in the Făgăraș Mountains of the Southern Carpathians.The most popular routes to reach Moldoveanu are over the Viștea Mare (2,527 metres (8,291 ft)), by paths coming from Podragu, Sâmbăta, or by the Viștea Valley.The closest settlement on the north side is Victoria and on the south side, Câmpulung. An easy way to climb Moldoveanu is from the hut 'Stâna lui Burnei'. From Slatina, Arges there is a forest road without asphalt of about 37 km length. As of June 2022, driving on it with normal cars is possible, but challenging and time-consuming. From Stâna lui Burnei, two paths lead to the summit, which are well-suited for a round trip.",
-      "surface": 2.4,
-      "isMountain": 2544,
+      "surface": 2544,
+      "isMountain": 1,
       "popularity": 10,
       "visit_time": 16
     }
@@ -972,8 +972,8 @@
         "Natural Park"
       ],
       "description": "The Sphinx is a natural rock formation in the Bucegi Natural Park which is in the Bucegi Mountains of Romania. It is located at an altitude of 2,216 metres (7,270 ft) within the Babele complex of rock formations. The first photo of the Great Bucegi Sphinx was probably taken in about the year 1900. This photograph was taken from a front position, not from a lateral one, as it usually appears in modern pictures. It only acquired its nickname, referring to the Great Sphinx of Giza, in the year 1936. The image of the sphinx appears when the rock, having an 8 m height and a 12 m width, is observed from a certain angle. The megalith has its clearest outline on 21 November, at the time the sun goes down.",
-      "surface": 1,
-      "isMountain": 2216,
+      "surface": 2216,
+      "isMountain": 1,
       "popularity": 7.7,
       "visit_time": 4
     }
@@ -2189,21 +2189,21 @@
       265
     ],
     "card_data": {
-      "name": "Valea Draganului",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Draganului Valley",
+      "location": "Crisana",
+      "image_url": "88_draganului",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.8970448",
+        "long": "22.826103"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Dam",
+        "Mountain"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Valea Drăganului is a village in Poieni commune in Cluj county, more precisely 65 km from Cluj-Napoca and 84 km from Oradea. The village is located on the border of the Vlădeasa mountains, the Meseș mountains and the Huedin depression. The valley is crossed by the Drăgan river, and the landscapes are incredibly beautiful. The village of Valea Draganului is probably the most famous of the commune's villages.",
+      "surface": 4.16,
+      "popularity": 3.7,
+      "visit_time": 10
     }
   },
   "89": {
@@ -2214,21 +2214,21 @@
       285
     ],
     "card_data": {
-      "name": "Cascada Valul Miresei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bride's Veil Waterfall",
+      "location": "Transylvania",
+      "image_url": "89_voalul",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.7110631",
+        "long": "22.8293417"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Waterfall",
+        "Mountain Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "An old legend recalls that the name of the waterfall comes from the fact that a long time ago a bride fell from the steep rocks in the area where the waterfall is, and her veil remained hanging on the rocks. There, the bride and groom stopped and began to cry, thus forming the waterfall. In reality, the name could be attributed to the waterfall's veil-like shape",
+      "surface": 0.01,
+      "popularity": 5.4,
+      "visit_time": 1
     }
   },
   "90": {
@@ -2239,21 +2239,22 @@
       307
     ],
     "card_data": {
-      "name": "Pestera Scarisoara",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Scărișoara Cave",
+      "location": "Transylvania",
+      "image_url": "90_scarisoara",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.489909",
+        "long": "22.8110056"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Glacier Cave",
+        "Mountain Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "First mentioned in 1863 by the Austrian geographer Arnold Schmidl, who made some observations and the first map of the cave, it was later explored by the Romanian scientist and speleologist Emil Racoviță between 1921 and 1923, who mentioned it and its origin in his 1927 work Speologia (Speleology). The ice cave was formed 3,500 years ago, during the glaciations, when these mountains were covered by snow and ice. The exact date when the cave was first discovered by humans is unknown.",
+      "surface": 105,
+      "isCave": 1,
+      "popularity": 8,
+      "visit_time": 3
     }
   },
   "91": {
@@ -2264,21 +2265,21 @@
       325
     ],
     "card_data": {
-      "name": "Cascada de la Vidra",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Otter Waterfall",
+      "location": "Transylvania",
+      "image_url": "91_vidra",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.3613567",
+        "long": "22.8774828"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Waterfall",
+        "Mountain Formation"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "It is a splendid waterfall over 18 meters high located across the road from Snail Hill. It is a landscape reserve, located on a rocky limestone threshold. Behind it is a mixed coniferous-deciduous forest. The waters in the area are rich in limestone and give rise to splendid limestone formations, of Paleozoic age, which increase the spectacularity of the place. Also near the waterfall there are three gigantic boulders - sculpted by time - which enhance the beauty of the place and give the landscape a particularly picturesque aspect. As a geographer would describe it: the water fall is made from a height of approx. 18 m, with a 25 m front of unfolding of the water line on the rocky cliff on which it flows. Travertine-type calcareous formations deposited over time increase the area's spectacularity. The protected area has a surface of 2.5 ha.",
+      "surface": 0.25,
+      "popularity": 4.3,
+      "visit_time": 2
     }
   },
   "92": {
@@ -2289,21 +2290,21 @@
       270
     ],
     "card_data": {
-      "name": "Orasul Cluj Napoca",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Cluj-Napoca City",
+      "location": "Transylvania",
+      "image_url": "92_cluj",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.7833856",
+        "long": "23.6165124"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Rich City",
+        "Historical Province"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Cluj-Napoca is the fourth-most populous city in Romania. It is the seat of Cluj County in the northwestern part of the country. Geographically, it is roughly equidistant from Bucharest (445 kilometres (277 miles)), Budapest (461 km (286 mi)) and Belgrade (483 km (300 mi)). Located in the Someșul Mic river valley, the city is considered the unofficial capital of the historical province of Transylvania. From 1790 to 1848 and from 1861 to 1867, it was the official capital of the Grand Principality of Transylvania.",
+      "surface": 179.5,
+      "popularity": 11,
+      "visit_time": "50+"
     }
   },
   "93": {
@@ -2315,20 +2316,21 @@
     ],
     "card_data": {
       "name": "Salina Turda",
-      "location": "Timisoara",
-      "image_url": "",
+      "location": "Transylvania",
+      "image_url": "93_turda",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5877459",
+        "long": "23.7872654"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Salt Mine",
+        "Antiquity Site"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Salt was first extracted here during the antiquity. The mine continuously produced table salt from the Middle Ages, the mine being first mentioned in 1075, to the early-20th century (1932). The first document that speaks explicitly about the existence of a salt mine in Turda dates from 1 May 1271, being issued by the Hungarian chancellery. Documents preserved from the 13th and 14th centuries that refer to the Turda salt mines mention that salines were arranged in the Băile Sărate microdepression and on the southeastern slope of the Valea Sărată. Operating rooms were placed at the sites of current salt lakes from the areas mentioned above. In the 17th century the first salt mining works began on the north-western slope of Valea Valea Sărată, as evidenced by shafts in the dome of the Terezia room. Shortly after, the Sfântul Anton mine was opened, where mining activity continued until the first half of the 20th century.",
+      "surface": 121,
+      "isCave": 1,
+      "popularity": 8.8,
+      "visit_time": 5
     }
   },
   "94": {
@@ -2339,21 +2341,21 @@
       325
     ],
     "card_data": {
-      "name": "Cheile Turzi",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Turda Gorge",
+      "location": "Transylvania",
+      "image_url": "94_turzi",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5633699",
+        "long": "23.6806591"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Canyon",
+        "Natural Reserve"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The canyon, formed through the erosion of the Jurassic limestone of the mountain, is 2 900 m long and the walls have heights reaching 300 m. The total surface of the canyon is of 324 ha. Cheile Turzii contain one of the richest and most scenic karst landscapes in Romania. More than 1000 plant and animal species (some of them rare or endangered, like the wild garlic or some species of eagle) live here.",
+      "surface": 3.24,
+      "popularity": 7.6,
+      "visit_time": 4
     }
   },
   "95": {
@@ -2364,21 +2366,21 @@
       285
     ],
     "card_data": {
-      "name": "Orasul Targu Mures",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Târgu Mureș City",
+      "location": "Transylvania",
+      "image_url": "95_targumures",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.543103,",
+        "long": "24.5525979"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Market City",
+        "River City"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Târgu Mureș is the seat of Mureș County in the historical region of Transylvania, Romania. It is the 16th largest Romanian city, with 134,290 inhabitants as of the 2011 census. It lies on the Mureș River, the second longest river in Romania (after the Danube). The current Romanian name of the city, Târgu Mureș, is the equivalent of the Hungarian Marosvásárhely, both meaning 'market on the Mureș (Maros) [River]'. Târg means 'market' in Romanian and vásárhely means 'marketplace' in Hungarian. Local Hungarians often shorten Marosvásárhely to Vásárhely in speech.",
+      "surface": 49.3,
+      "popularity": 9.1,
+      "visit_time": 30
     }
   },
   "96": {
@@ -2389,21 +2391,22 @@
       310
     ],
     "card_data": {
-      "name": "Salina Praid",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Salt Mine Praid",
+      "location": "Transylvania",
+      "image_url": "96_praid",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5508333",
+        "long": "25.1205556"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Salt Mine",
+        "Cave"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The underground visiting place is on 'Level 50' which is on 120 m deep from the surface. The private transport of the people is with buses on a 1250 m long tunnel to the entrance gate of the visiting base. Arriving to the visiting level you can enjoy all of the benefits of a small village: illumination, Wi-Fi, television, playground for the children, creative and amusement places, ecumenical chapel, Coffee Shop, 3D Cinema and a naturist drugstore. All these are in mission to make your abstention full of mirth in a pleasant and extraordinary space. The average annually underground temperature is 16 degrees Celsius.",
+      "surface": 120,
+      "isCave": 1,
+      "popularity": 6.1,
+      "visit_time": 6
     }
   },
   "97": {
@@ -2414,21 +2417,21 @@
       265
     ],
     "card_data": {
-      "name": "Statiunea balneoclimaterica Sovata",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sovata spa resort",
+      "location": "Transylvania",
+      "image_url": "97_sovata",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.5997288",
+        "long": "25.0741346"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Thermal Spa",
+        "Historical Province"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Sovata is part of the Székely Land region of the historical Transylvania province. The first data about Sovata are from 1578. By 1583 it was already a village. For 42 years, from 1876 until 1918, the village belonged to the Maros-Torda County of the Austrian-Hungarian Empire. Due to its salty lakes and warm water it became an increasingly popular health resort during the end of the 19th and the 20th century. It gained the status of town in 1952.",
+      "surface": 2,
+      "popularity": 7.3,
+      "visit_time": 8
     }
   },
   "98": {
@@ -2439,21 +2442,22 @@
       285
     ],
     "card_data": {
-      "name": "Masivul Ceahlau",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Ceahlău Massif",
+      "location": "Moldova",
+      "image_url": "98_ceahlau",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.9499994",
+        "long": "25.95"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain Formation",
+        "Famous Mountain"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Ceahlău Massif is one of the most famous mountains of Romania. It is part of the Bistrița Mountains range of the Eastern Carpathians division, in Neamț County, in the Moldavia region. The two most important peaks are Toaca (1904 m altitude) and Ocolașul Mare (1907 m altitude). It is bounded to the east by the river Bistrița and Lake Bicaz, to the south by the river Bicaz. From the south, the main access point is the village of Izvorul Muntelui, located 12 km north from the town of Bicaz. To the north, Mount Ceahlău is also accessible from Durău.",
+      "surface": 1907,
+      "isMountain": 1,
+      "popularity": 10,
+      "visit_time": 10
     }
   },
   "99": {
@@ -2464,21 +2468,22 @@
       245
     ],
     "card_data": {
-      "name": "Cheile Bicazului",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bicaz Gorge",
+      "location": "Moldova",
+      "image_url": "99_bicaz",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.8239864",
+        "long": "25.7759105"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Mountain Formation",
+        "Central Park"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "The Bicaz Gorge is a gorge in Romania, located in the north-east part of the country, in Neamț and Harghita counties. It is situated in the central part of the Hășmaș Mountains, and it is part of the Cheile Bicazului-Hășmaș National Park. The gorge was excised by the waters of the river Bicaz and it serves as a passageway between the Romanian provinces of Moldova and Transylvania. It is a noted location to see the wallcreeper, an uncommon cliff-dwelling bird. National road DN12C [ro] passes through the gorge. The road along the 8 kilometres (5 mi) of ravines, often in serpentines with rock on one side and a sheer drop on the other, is one of the most spectacular drives in the country. Also within the gorge is Lacul Roșu (the Red Lake), with its traditional cabins, hotels, and its famous lake (situated at 980 m (3,220 ft) altitude) caused by a landslide in the 19th century. Cheile Bicazului is one of the main rock climbing sites in Romania.",
+      "surface": 980,
+      "isMountain": 1,
+      "popularity": 10,
+      "visit_time": 2
     }
   },
   "100": {
@@ -2490,20 +2495,20 @@
     ],
     "card_data": {
       "name": "Vatra Dornei",
-      "location": "Timisoara",
-      "image_url": "",
+      "location": "Bucovina",
+      "image_url": "100_dorna",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.3490121",
+        "long": "25.3572392"
       },
       "tags": [
-        "castle",
-        "ruin"
+        "Settlement",
+        "Historical Region"
       ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "description": "Vatra Dornei is a city in Suceava County, north-eastern Romania. It is situated in the historical region of Bukovina. Vatra Dornei is the fifth largest urban settlement in the county, with a population of 14,429 inhabitants, according to the 2011 census. It was declared a municipality in 2000, being the newest and smallest municipality in the county. The city administers three villages: Argestru, Roșu, and Todireni. Vatra Dornei is a well known spa and ski resort in the Carpathian Mountains and also is home to the historic Vatra Dornei Casino.",
+      "surface": 144,
+      "popularity": 7.4,
+      "visit_time": 10
     }
   },
   "101": {

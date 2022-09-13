@@ -71,7 +71,7 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
             return (
                 <>
                     <div className="text-sm text-gray-400 w-18 text-center">Elevation:</div>
-                    <div className="release">{location_details.elevation} m</div>
+                    <div className="release">{location_details.surface} m</div>
                 </>
             );
         }

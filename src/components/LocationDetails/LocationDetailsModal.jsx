@@ -117,7 +117,7 @@ const LocationDetailsModal = ({
                   <div className="relative flex">
                     <div className="flex flex-col w-4/6 space-y-2">
                       <h3 className="text-2xl min-h-[96px] font-bold text-white flex items-center transition duration-300 ease-in-out ">
-                        {location_details.name}
+                        {startCase(camelCase(location_details.name))}
                       </h3>
                     </div>
                     <div className="flex justify-end w-2/6 gap-2 items-center top-1 relative">
@@ -149,10 +149,7 @@ const LocationDetailsModal = ({
                   </div>
                   <div className="flex flex-col">
                     <div className="mb-0 text-xs text-gray-400 w-3/4 leading-5 flex gap-2">
-                      <p
-                        onClick={onHandleChildCloseModal}
-                        className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis"
-                      >
+                      <p className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis">
                         {startCase(camelCase(location_details.tags[0]))}
                       </p>
                       <p className="text-center bg-gray-700 bg-opacity-60 sm:bg-opacity-70 text-white font-bold px-3 rounded-full min-w-min max-w-[90px] whitespace-nowrap overflow-hidden text-ellipsis">

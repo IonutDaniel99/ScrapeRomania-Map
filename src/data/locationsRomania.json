@@ -278,7 +278,7 @@
         "long": "22.8882866"
       },
       "tags": ["Castle", "Gothic"],
-      "description": "Best-known for the shivers sends tourists down their spine, Corvin Castle is one of the most important tourist attractions in Transylvania. Also known as Corvins’ Castle, Hunyad Castle or Hunedoara Castle, it is the largest medieval building in Romania still standing. With 42 rooms, two terraces, two bridges (of 55 and 30 meters), 7.000 square meters of built surface and a tower 72 meters high, it has an aura of an unbeatable fortress.",
+      "description": "Best-known for the shivers sends tourists down their spine, Corvin Castle is one of the most important tourist attractions in Transylvania. Also known as Corvins` Castle, Hunyad Castle or Hunedoara Castle, it is the largest medieval building in Romania still standing. With 42 rooms, two terraces, two bridges (of 55 and 30 meters), 7.000 square meters of built surface and a tower 72 meters high, it has an aura of an unbeatable fortress.",
       "surface": 7,
       "popularity": 10,
       "visit_time": 5
@@ -487,7 +487,7 @@
         "long": "23.6358554"
       },
       "tags": ["Paved Road", "Mountains"],
-      "description": "The road is totally paved. It’s 148 km (92 miles) long, running south-north from Novaci, a town in Gorj County, in Oltenia to Sebeş, a city in Alba County. The road offers breathtaking views together with lots of driving excitement. This asphalted road is not easy, with hundreds of turns.",
+      "description": "The road is totally paved. It`s 148 km (92 miles) long, running south-north from Novaci, a town in Gorj County, in Oltenia to Sebeş, a city in Alba County. The road offers breathtaking views together with lots of driving excitement. This asphalted road is not easy, with hundreds of turns.",
       "surface": 150,
       "isRoad": 1,
       "popularity": 9,
@@ -1653,7 +1653,7 @@
         "long": "22.7642009"
       },
       "tags": ["Natural Park", "Diversity"],
-      "description": "The Apuseni Natural Park with an area of 75.784 ha was declared natural protected area by the Law Number 5 of March 6, 2000 (published in the Monitorul Oficial of Romania, Number 152 of April 12, 2000) and represents a mountainous area (mountain peaks, cirques, caves, valleys, karst areas, forests and pastures), with flora and fauna specific Western Carpathians. Natural reserves included in the park: Izbucul de la Cotețul Dobreștilor (0.20 ha), Izbucul Mătișești (2 ha), Izbucul Tăuzului (1 ha), Coiba Mare Cave (0.50 ha), Avenul din Hoanca Urzicarului (1 ha), Scărișoara Cave (1 ha) and Ghețarul de la Vârtop (1 ha) in Alba county; Pietrele Galbenei(6.30 ha), Cetatea Rădesei Cave (20 ha), Poiana Florilor (1 ha), Platoul Carstic Padiș (39 ha), Valea Galbenei (70.50 ha), Valea Sighiștelului (412.60 ha), Vârful Biserica Moțului (3 ha), Platoul carstic Lumea Pierdută (39 ha), Cetățile Ponorului (14.90 ha), Ghețarul Focul Viu Cave (0.10 ha), Ciur Izbuc Cave (0.10 ha), Micula’s Cave (0.10 ha), Urşilor Cave (1 ha), Smeii de la Onceasa Cave (0.50 ha) and Cerbului Cave-Avenul cu Vacă (45 ha) in Bihor County; Molhașul Mare de la Izbuc (8 ha) in Cluj county.",
+      "description": "The Apuseni Natural Park with an area of 75.784 ha was declared natural protected area by the Law Number 5 of March 6, 2000 (published in the Monitorul Oficial of Romania, Number 152 of April 12, 2000) and represents a mountainous area (mountain peaks, cirques, caves, valleys, karst areas, forests and pastures), with flora and fauna specific Western Carpathians. Natural reserves included in the park: Izbucul de la Cotețul Dobreștilor (0.20 ha), Izbucul Mătișești (2 ha), Izbucul Tăuzului (1 ha), Coiba Mare Cave (0.50 ha), Avenul din Hoanca Urzicarului (1 ha), Scărișoara Cave (1 ha) and Ghețarul de la Vârtop (1 ha) in Alba county; Pietrele Galbenei(6.30 ha), Cetatea Rădesei Cave (20 ha), Poiana Florilor (1 ha), Platoul Carstic Padiș (39 ha), Valea Galbenei (70.50 ha), Valea Sighiștelului (412.60 ha), Vârful Biserica Moțului (3 ha), Platoul carstic Lumea Pierdută (39 ha), Cetățile Ponorului (14.90 ha), Ghețarul Focul Viu Cave (0.10 ha), Ciur Izbuc Cave (0.10 ha), Micula`s Cave (0.10 ha), Urşilor Cave (1 ha), Smeii de la Onceasa Cave (0.50 ha) and Cerbului Cave-Avenul cu Vacă (45 ha) in Bihor County; Molhașul Mare de la Izbuc (8 ha) in Cluj county.",
       "surface": 750,
       "popularity": 10,
       "visit_time": "50+"
@@ -1926,7 +1926,7 @@
       "tags": ["Market City", "Historical"],
       "description": "Originally a market town, hence its name, it had an important role in Moldavian culture. It was first mentioned in a late-14th century document. The name neamț is a generic name of Slavic origin for the German people in the Romanian language. This has led to speculation of a German foundation of Târgu Neamț, according to which Saxon colonists crossed the Carpathians from the Bistrița area and built a commercial township. Some Romanian historians, including Bogdan Petriceicu Hasdeu consider that Târgu Neamț was probably a German settlement from the 13th century, when the Teutonic Order made incursions from Transylvania against the Cumanic peoples that were living in Moldavia. Nowadays, historians disagree with this possibility mostly because of the long-lasting influences of the communist-nationalistic historiography which refused to accept the town was anything else than a Romanian-founded settlement.",
       "surface": 47.31,
-      "popularity": 7.8,
+      "popularity": 5.8,
       "visit_time": 10
     }
   },
@@ -1935,18 +1935,18 @@
     "path": "M 910.47 200.63 L 911.16 200.16 L 912.2 198.29 L 910.64 196.3 L 908.91 194.77 L 905.44 191.03 L 894.724 185.114 L 886.562 190.006 L 877.756 188.73 L 867.752 189.55 L 856.968 192.368 L 848.546 194.708 L 840.17 198.56 L 819.562 203.586 L 811.39 214.81 L 814.396 229.38 L 810.824 245.782 L 816.918 261.348 L 820.862 261.348 L 825.17 255.19 L 830.37 249.88 L 846.15 244.69 L 873.71 237.74 L 893.82 232.2 L 911.68 226.68 L 929.54 220.33 L 927.28 218.92 L 925.38 217.04 L 926.94 212.47 L 924.16 211.29 L 924.51 209.3 L 925.03 205.9 L 921.91 203.2 L 919.83 204.14 L 914.11 203.2 L 910.47 200.63 Z",
     "number_coords": [855, 200],
     "card_data": {
-      "name": "Palatul Cuza de la Ruginoasa",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Cuza Palace from Ruginoasa",
+      "location": "Moldavia",
+      "image_url": "102_cuza",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.2437363",
+        "long": "26.8457031"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Palace", "Museum"],
+      "description": "The palace of ruler Alexandru Ioan Cuza from Ruginoasa is a neo-Gothic palace built in 1804, which originally belonged to the Sturdza family. Currently it is a memorial museum dedicated to the Lord of the Union. The ensemble of the Palace of Alexandru Ioan Cuza from Ruginoasa was included in the List of historical monuments in Iași county in 2015 and consisting of 5 objectives: The palace of Alexandru Ioan Cuza - dating from 1862, Church of the 'Assumption of the Virgin Mary' - dating from 1813, The park - dating from 1813, The enclosure wall - dating from 1813, The towers - dating from 1813, The tomb prepared for ruler Alexandru Ioan Cuza - dating from the end of the 19th century",
+      "surface": 8,
+      "popularity": 6.7,
+      "visit_time": 4
     }
   },
   "103": {
@@ -1954,18 +1954,18 @@
     "path": "m819.22 201.42l18.07-4.36 8.88-3.78 20.2-5.43 11.1-1.03 8.84 1.09 6.58-3.92-2.42-1.4-.35-2.45-1.91-1.05-.34-1.28-1.04-1.52-.52-2.33 4.5.11-.52-3.03-2.77 0-1.73-1.86-1.74-2.68-.69-2.91.35-2.45-3.99-1.86-17.68 7.68-22.19 5.02-29.3 12.95 4.16 6.83 4.51 9.66z",
     "number_coords": [845, 165],
     "card_data": {
-      "name": "Manastirea Vorona",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Vorona Monastery",
+      "location": "Moldavia",
+      "image_url": "103_vorona",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.5799106",
+        "long": "26.6656403"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Monastery", "Historical Monument"],
+      "description": "Vorona Monastery is an Orthodox Monastery in Romania, situated on the territory of Vorona commune (Botoșani County). It is set amidst a forest 2 km away from Vorona village. It is listed as a historic monument by Romania's Ministry of Culture and National Identity",
+      "surface": 2,
+      "popularity": 4.7,
+      "visit_time": 3
     }
   },
   "104": {
@@ -1973,18 +1973,18 @@
     "path": "m809.85 183.76l14.22-6.54 14.39-6.53 12.13-2.68 10.93-2.09 18.03-7.92.52-3.14-.18-2.44-3.29-1.39-4.86 0 2.43-1.86 2.25-1.28-.69-1.86-5.03-1.04 1.91-1.63-.17-2.09-3.12 0-.52-2.2-4.34-.46 2.26-2.67-2.43 0-1.73-3.01-3.12-1.74-2.43-2.32.87-2.08-2.09-3.82-3.12 1.27-3.12-.35-2.25-2.89 4.85.35-1.21-1.51-5.03 0 .35-2.54-2.95-1.96-2.6 1.73 0-1.96-2.25-.47-3.82-4.04-2.25.81-3.64-3.12-3.64 1.39-6.24 0-4.16-2.43-2.6 1.96-1.39-1.84-4.51.23-2.42 1.96-3.64 0-1.39 2.31-2.25.12-2.43 1.27-2.43-.35-3.81 0-4.34 1.27-2.25 1.5-2.25 0-2.43.81-3.3-.23-3.98 1.04-.52 3.01-2.95 2.2-2.6 2.66-1.73 3.59-1.22 2.2-6.24 2.78-2.95 7.19-4.33.92 9.36 10.8 2.95 4.65 5.55 6.52 10.05 5.24 9.88 5.13 16.3 5.48 9.01 4.09z",
     "number_coords": [805, 130],
     "card_data": {
-      "name": "Orasul Botosani",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Botosani City",
+      "location": "Moldavia",
+      "image_url": "104_botosani",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.7375721",
+        "long": "26.6594085"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Elder City", "Diversity"],
+      "description": "Botoșani is first mentioned in 1439, in which one chronicle says that 'the Mongols came and pillaged all the way to Botușani'. The town is then mentioned only during the conflicts between Moldavia and Poland: several battles were fought near the town, in 1500, 1505 and 1509. During the reign of Petru Rareș, the town was set ablaze by the Poles. It was during his reign then that we know that the town had a hill fort. In the 15th century, it was still not a fully-fledged town, but archeological evidence shows that it was a pre-urban settlement. During the second part of the 14th century, some Transylvanian colonists (most likely German or Hungarian) settled in Botoșani. Additionally, a large community of Armenian traders settled in the 14th or 15th centuries.",
+      "surface": 41,
+      "popularity": 7.7,
+      "visit_time": 25
     }
   },
   "105": {
@@ -1992,18 +1992,18 @@
     "path": "M 757.782 159.476 L 751.904 164.148 L 742.442 171.014 L 731.84 185.74 L 734.44 200.01 L 747.79 199.146 L 758.19 197.9 L 770.33 198.41 L 779.52 199.43 L 783.68 199.43 L 792.17 200.01 L 816.44 201.53 L 815.4 197.55 L 812.45 191.7 L 808.64 185.39 L 799.11 181.28 L 783.07 175.72 L 773.62 170.52 L 763.356 165.45 L 757.782 159.476 Z",
     "number_coords": [755, 170],
     "card_data": {
-      "name": "Orasul Suceava",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Suceava City",
+      "location": "Bucovina",
+      "image_url": "105_suceava",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.6638515",
+        "long": "26.261605"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Historical Region", "Historical"],
+      "description": "Suceava is the largest urban settlement and the seat of Suceava County, situated in the historical region of Bukovina, north-eastern Romania,and at the crossroads of Central and Eastern Europe. During the late Middle Ages, namely between 1388 and 1564, the middle-sized town was the capital of the Principality of Moldavia. From 1775 to 1918, Suceava was controlled by the Habsburg monarchy, initially part of its Kingdom of Galicia and Lodomeria, then gradually becoming the third most populous urban settlement of the Duchy of Bukovina, a constituent land of the Austrian Empire and subsequently a crown land within the Austrian part of Austria-Hungary. During this time, Suceava was an important, strategically-located commercial border town with the then Romanian Old Kingdom. Throughout the Austrian-ruled period of Bukovina, Suceava was also regarded as a 'miniature Austria' by native intellectual Rudolf Gassauer given its significant ethnic diversity (which, up until the early 20th century, included an overwhelming majority of ethnic Germans, more specifically Bukovina Germans, as well). In the wake of World War I, after 1918, along with the rest of Bukovina, Suceava became part of the then newly enlarged Kingdom of Romania. After the end of World War II, the city slowly underwent a process of communist urbanization which increased its population about tenfold throughout the decades prior to the 1989 Romanian Revolution. It became a municipality in 1968. Suceava is also crossed by the namesake river to the northwest, in the neighbourhood of Ițcani .",
+      "surface": 52.1,
+      "popularity": 9.2,
+      "visit_time": 40
     }
   },
   "106": {
@@ -2011,18 +2011,19 @@
     "path": "M 745.23 142.05 L 743.12 141.71 L 739.97 143 L 734.96 141.4 L 721.47 143.87 L 716.69 143.14 L 713.55 145.04 L 709.69 144.08 L 705.19 144.61 L 704.32 146 L 702.76 150.27 L 700.85 155.35 L 702.33 159.83 L 702.76 163.9 L 709.3 170.25 L 713.08 170.78 L 720.96 168.85 L 729.63 166.7 L 739.08 168.39 L 741.59 168.74 L 757.02 157.04 L 754.51 152.97 L 746.36 144.14 L 745.23 142.05 L 745.23 142.05 Z",
     "number_coords": [720, 140],
     "card_data": {
-      "name": "Salina Cacica",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "The Cacica Mine",
+      "location": "Bucovina",
+      "image_url": "106_cacica",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.6351228",
+        "long": "25.8979902"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Salt Mine", "Museum"],
+      "description": "The Cacica mine is a large salt mine located in northern Romania in Suceava County, close to Cacica. Cacica represents one of the largest salt reserves in Romania having estimated reserves of 238 million tonnes of NaCl",
+      "surface": 75,
+      "isCave": 1,
+      "popularity": 5.4,
+      "visit_time": 2
     }
   },
   "107": {
@@ -2030,18 +2031,18 @@
     "path": "M 732.36 200.48 L 729.41 185.86 L 739.854 170.996 L 729.862 168.564 L 721.892 170.872 L 713.244 173.092 L 707.33 171.284 L 701.294 173.698 L 692.748 177.282 L 686.746 180.29 L 679.49 184.58 L 675.67 191.59 L 677.06 198.37 L 691.45 198.37 L 709.13 198.84 L 721.44 202.12 L 732.36 200.48 Z",
     "number_coords": [705, 170],
     "card_data": {
-      "name": "Orasul Gura Humorului",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Gura Humorului City",
+      "location": "Bucovina",
+      "image_url": "107_gura",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.5206147",
+        "long": "25.8104678"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Settlement", "Resort"],
+      "description": "Gura Humorului is a town in Suceava County, north-eastern Romania. It is situated in the historical region of Bukovina. Gura Humorului is the seventh largest urban settlement in the county, with a population of 12,729 inhabitants, according to the 2011 census. It was declared a town in 1904 and it became a resort in 2005. The town administers the former village of Voroneț (which became a neighborhood), site of Voroneț Monastery.",
+      "surface": 60.9,
+      "popularity": 7.1,
+      "visit_time": 30
     }
   },
   "108": {
@@ -2049,18 +2050,18 @@
     "path": "M 703.392 144.59 L 698.43 147.95 L 691.84 147.2 L 679.36 146.38 L 675.55 148.18 L 667.57 148.36 L 658.38 149.4 L 664.1 156.03 L 666.53 166.04 L 673.12 172.79 L 675.55 177.46 L 678.772 182.63 L 682.356 179.936 L 688.21 177.588 L 692.71 175.13 L 695.83 173.26 L 701.538 171.488 L 705.914 169.88 L 700.86 164.06 L 700.51 159.87 L 698.95 155.21 L 703.392 144.59 Z",
     "number_coords": [675, 145],
     "card_data": {
-      "name": "Manastirea Sucevita",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Sucevita Monastery",
+      "location": "Bucovina",
+      "image_url": "108_sucevita",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.7781195",
+        "long": "25.7112774"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Orthodox", "Historical Monument"],
+      "description": "Sucevița Monastery is an Eastern Orthodox convent situated in the Northeastern part of Romania. It is situated near the Suceviţa River, in the village Sucevița, 18 km away from the city of Rădăuţi, Suceava County. It is located in the southern part of the historical region of Bukovina (northwestern Moldavia). It was built in 1585 by Ieremia Movilă, Gheorghe Movilă and Simion Movilă. The architecture of the church contains both Byzantine and Gothic elements, and some elements typical to other painted churches of northern Moldavia. Both interior and exterior walls are covered by mural paintings, which are of great artistic value and depict biblical episodes from the Old and New Testament. The paintings date from around 1601, which makes Sucevița one of the last monasteries to be decorated in the famous Moldavian style of exterior paintings. The interior court of the monastic ensemble is almost square (100 by 104 meters) and is surrounded by high (6 m), wide (3 m) walls. There are several other defensive structures within the ensemble, including four towers (one on each corner). Sucevița was a princely residence as well as a fortified monastery. The thick walls today shelter a museum that presents an outstanding collection of historical and art objects. The tomb covers of Ieremia and Simion Movilă - rich portraits embroidered in silver thread - together with ecclesiastical silverware, books and illuminated manuscripts, offer eloquent testimony to Sucevița's importance first as a manuscript workshop, then as a printing center. In 2010, the monastery has been inscribed by UNESCO on its list of World Heritage Sites, as one of the Painted churches of Moldavia.",
+      "surface": 1.8,
+      "popularity": 7.8,
+      "visit_time": 4
     }
   },
   "109": {
@@ -2087,18 +2088,19 @@
     "path": "M 605.15 174.57 L 601.85 173.76 L 600.64 174.75 L 599.25 174.51 L 593.53 174.51 L 589.63 175.21 L 587.81 175.1 L 587.81 177.37 L 588.16 179.82 L 587.9 182.16 L 587.64 184.2 L 584.34 186.95 L 581.39 189.58 L 579.23 189.98 L 575.5 189.46 L 569.87 189.17 L 561.37 188.93 L 550.62 188.99 L 539.078 188.208 L 541.26 193.26 L 541.26 198.52 L 543.34 203.09 L 547.5 209.42 L 550.45 213.99 L 556 219.86 L 565.71 221.03 L 569.17 221.27 L 579.05 213.52 L 589.46 209.53 L 599.51 204.85 L 613.03 203.21 L 621.96 202.03 L 620.18 199.49 L 615.46 197.47 L 614.12 189.28 L 615.18 186.36 L 613.72 184.43 L 607.7 183.3 L 605.55 179.98 L 605.15 174.57 L 605.15 174.57 Z",
     "number_coords": [555, 190],
     "card_data": {
-      "name": "Parcul National Muntii Rodnei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Rodna Mountains",
+      "location": "Transylvania",
+      "image_url": "110_rodnei",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.5340728",
+        "long": "24.556025"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Natural Park", "Famous Mountain"],
+      "description": "The Rodna Mountains have one of the longest continuous ridges in Romania, with over 50 km (31 mi) from west to east and a width of over 25 km (16 mi). The massif covers an area of about 1,300 km2 (500 sq mi).[1] The highest points are Pietrosul Rodnei at 2,303 m, Ineu Peak at 2,279 m (7,477 ft), Ineuț Peak at 2,202 m (7,224 ft), Gârgalău Peak at 2,159 m (7,083 ft), and Omu Peak at 2,010 m (6,590 ft). The mountains are most suited for hiking in summer and skiing in winter, and are especially famous for having snow late into the summer months (skiing is possible well into June, sometimes even July). While the ridge itself poses no difficulties, the challenge is the massive length of it, and the absence of drinkable water (except for a few puddles that are usually dry). A complete hike along the main Rodnei ridge takes between 3 and 5 days, depending on the weather and the endurance of the hiker.",
+      "surface": 2303,
+      "isMountain": 1,
+      "popularity": 9.1,
+      "visit_time": 15
     }
   },
   "111": {
@@ -2106,18 +2108,19 @@
     "path": "M 492.98 150.89 L 487.95 154.84 L 486.05 160.07 L 490.03 166.36 L 497.31 170.802 L 510.32 177.222 L 517.578 179.33 L 528.452 181.896 L 539.496 185.184 L 550.032 186.252 L 561.064 186.252 L 569.724 186.814 L 579.898 187.408 L 585.176 183.168 L 586.092 177.08 L 585.696 173.944 L 584.34 170.78 L 582.44 168.34 L 579.14 163.68 L 575.85 162.86 L 570.82 160.77 L 564.93 160.42 L 563.19 158.91 L 559.72 157.63 L 559.72 154.84 L 559.03 151.58 L 554.87 148.91 L 554 146.47 L 549.84 144.96 L 546.38 144.5 L 544.64 145.31 L 538.92 146.01 L 534.76 145.66 L 529.73 144.15 L 528 144.5 L 525.57 145.89 L 523.15 148.21 L 522.45 149.72 L 519.16 150.54 L 515.86 150.54 L 513.44 151.47 L 509.8 152.16 L 505.64 152.16 L 502 152.98 L 500.26 151.81 L 496.97 150.89 L 492.98 150.89 Z",
     "number_coords": [530, 150],
     "card_data": {
-      "name": "Valea Vaserului - Mocanita",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Vișeu de Sus forestry railway",
+      "location": "Maramures",
+      "image_url": "111_mocanita",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.7281461",
+        "long": "24.4848236"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Mountain Train", "Diversity"],
+      "description": "The Vișeu de Sus forest railway (also known as Mocănița de pe Valea Vaserului) is a narrow-gauge railway in Maramureș County, which runs from Vișeu de Sus, on the Vaserului Valley, to the Carpathians, at the Coman station, close to border with Ukraine. The railway is exploited both for forestry and tourism.",
+      "surface": 46.4,
+      "isRoad": 1,
+      "popularity": 8.1,
+      "visit_time": 8
     }
   },
   "112": {
@@ -2125,18 +2128,18 @@
     "path": "M 492.814 201.572 L 500.84 188.72 L 513.32 181.12 L 496.85 173.54 L 486.97 167.6 L 482.63 160.73 L 486.1 153.75 L 489.92 151.08 L 487.66 148.75 L 483.15 146.43 L 479.86 146.32 L 476.05 144.81 L 471.19 144.81 L 467.55 146.2 L 461.83 147.48 L 457.5 148.52 L 454.03 146.66 L 452.12 143.65 L 449.87 147.01 L 447.44 154.56 L 452.12 167.37 L 455.376 175.534 L 460.056 188.33 L 475.938 197.592 L 492.814 201.572 Z",
     "number_coords": [475, 170],
     "card_data": {
-      "name": "Manastirea Barsana",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bârsana Monastery",
+      "location": "Maramures",
+      "image_url": "112_barsana",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.7917868",
+        "long": "24.0935366"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Orthodox", "Monastery"],
+      "description": "The first documentary attestations that refer to the Bârsana Monastery date from 1390; in a document dated July 21, 1390, referring to the properties of the Dragoș ducal family, a road is mentioned that forks, leading on one arm to the village of Bârsana, and on the other to the monastery. Valea Mănăstirii and Dealul Popii are also mentioned in this document. In a deed of ownership, dated November 6, 1405, a 'field of the monastery' is mentioned. Other mentions of the monastery are found in property deeds of the Dragoș ducal family, between the years 1408-1480, the last deed referring to Bartolomeu Dragfi, voivode of Transylvania.",
+      "surface": 1,
+      "popularity": 7.3,
+      "visit_time": 8
     }
   },
   "113": {
@@ -2144,18 +2147,18 @@
     "path": "M 567.636 223.488 L 554.914 222.078 L 547.222 213.682 L 539.026 199.564 L 539.354 193.28 L 536.912 187.412 L 527.53 184.51 L 515.75 181.94 L 502.92 190.35 L 487.84 213.3 L 477.26 233.51 L 487.32 241.28 L 499.688 245.03 L 531.542 247.74 L 555.778 243.638 L 565.624 234.136 L 567.636 223.488 Z",
     "number_coords": [515, 205],
     "card_data": {
-      "name": "Orasul Bistrita Nasaud",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bistrita Nasaud City",
+      "location": "Transylvania",
+      "image_url": "113_nasaud",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.1330177",
+        "long": "24.4941151"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["River City", "Historical Province"],
+      "description": "The earliest sign of settlement in the area of Bistrița is in Neolithic remains. The Turkic Pechenegs settled the area in 12th century following attacks of the Cumans. Transylvanian Saxons settled the area in 1206 and called the region Nösnerland. A large part of settlers were fugitives, convicts and poor people looking for lands and opportunities. The destruction of Markt Nosa ('Market Nösen') under the Mongols of central Europe is described in a document from 1241. Situated on several trade routes, Bistrița became a flourishing medieval trading post.",
+      "surface": 145.47,
+      "popularity": 7.7,
+      "visit_time": 22
     }
   },
   "114": {
@@ -2163,18 +2166,18 @@
     "path": "M 484.246 291.778 L 480.956 266.816 L 474.738 264.276 L 465.91 260.824 L 448.468 259.948 L 435.31 256.26 L 394.39 245.87 L 387.11 253.66 L 384.034 258.244 L 381.854 263.196 L 437.458 281.606 L 472.93 286.358 L 484.246 291.778 Z",
     "number_coords": [450, 260],
     "card_data": {
-      "name": "Castelul Banffy de la Bondita",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Bánffy Castle",
+      "location": "Transylvania",
+      "image_url": "114_banffy",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.910314",
+        "long": "23.8110047"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Castle", "Historical"],
+      "description": "In 1387, the Bonțida estate came into the possession of the Hungarian Bánffy of Losonc family, when Sigismund of Luxemburg donated it to Dénes, son of Tamás Losonci. The present castle was preceded by a manor house, whose history dates back to the 15th-16th centuries. After 1640, the estate was inherited by Dénes Bánffy (II) (1638-1674), county governor of Doboka and Kolozs counties, brother-in-law and counselor of Prince Michael I Apafi, who fortified the initial building between 1668 and 1674 by surrounding it with curtain walls that formed a rectangular enclosure, reinforced at the corners with massive circular towers. The castle could be accessed through a seven-storey high gatehouse located on the fortification's eastern side. The works were continued after his death by his successor, György Bánffy (III).",
+      "surface": 2,
+      "popularity": 6.8,
+      "visit_time": 5
     }
   },
   "115": {
@@ -2182,18 +2185,18 @@
     "path": "M 481.77 264.824 L 496.612 246.768 L 485.41 242.58 L 474.83 234.69 L 449 229.51 L 425.25 225.04 L 403.41 230.69 L 395.26 244.34 L 447.88 257.61 L 466.34 258.97 L 481.77 264.824 Z",
     "number_coords": [450, 230],
     "card_data": {
-      "name": "Castelul Cornis",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Kornis Castle",
+      "location": "Transylvania",
+      "image_url": "115_kornis",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.1185279",
+        "long": "23.9214705"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Castle", "Ruins"],
+      "description": "The main building was built by Kristóf Keresztúri between 1573 and 1593 in the Renaissance style. Over time, the castle was filled with secondary buildings in a quadrilaterally shaped enclosure. After the domain became the property of the Kornis family around 1673, Kornis Gaspar (1641-1683) raised the second floor of the main building on the south side. In 1680, his son, Zsigmond Kornis, renovated the castle. He also repaired the castle after it was damaged during the Curuti uprising in the early 18th century and in 1720 added two new octagonal bastions on the northern side and restored the tower at the castle entrance on the west side. The tower still exists today. During this period the castle rooms were redecorated with frescoed ceilings. The wooden frame works of the top floor and staircase were added, decorated with popular motifs and decorations of Dej volcanic tuff stone were created. During the Second World War part of the castle was destroyed and its collections were burned by the communists or stolen after nationalization. Before the destruction of the castle, the library contained 9,000 volumes, consisting of collections of rare books. It was destroyed together with the extensive natural history collection. The pavilions are now used as a silo, hostel and cultural school destinations. After 1944, only part of the masonry was rebuilt in 1975-76 and Kornis chapel was taken over by the Romanian Orthodox Church. But there was no serious restoration of the castle and the domain, leaving the castle in ruins today. The castle is known for the statues of two unicorns which guarded the entry until recently, when they were removed after a failed burglary attempt.",
+      "surface": 0.8,
+      "popularity": 6.3,
+      "visit_time": 2
     }
   },
   "116": {
@@ -2201,18 +2204,18 @@
     "path": "M 475.534 231.916 L 485.222 213.086 L 491.96 203.52 L 474.63 199.78 L 457.99 189.72 L 452.79 176.64 L 442.04 174.54 L 431.63 172.21 L 409.79 166.38 L 406.32 173.14 L 398 185.04 L 394.54 203.99 L 396.96 214.31 L 402.86 228.4 L 425.39 221.7 L 475.534 231.916 Z",
     "number_coords": [425, 185],
     "card_data": {
-      "name": "Orasul Baia Mare",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Baia Mare City",
+      "location": "Maramures",
+      "image_url": "116_baiamare",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.6688891",
+        "long": "23.5708665"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Industry", "Mountain City"],
+      "description": "Baia Mare is a municipality along the Săsar River, in northwestern Romania; it is the capital of Maramureș County. The city lies in the region of Maramureș, a subregion of Transylvania. It is situated about 600 kilometres (373 miles) from Bucharest, 70 km (43 mi) from the border with Hungary, and 50 km (31 mi) from the border with Ukraine. Located south of Igniș and Gutâi Mountains, Baia Mare had a population of 123,738 at the 2011 census, and a metropolitan area home to 230,932 residents. The city administers four villages: Blidari (Kőbánya), Firiza (Felsőfernezely), Valea Borcutului (Borpatak) and Valea Neagră (Feketepatak). Baia Mare has been named the Romanian Youth Capital from 2 May 2018 to 1 May 2019",
+      "surface": 233,
+      "popularity": 9.6,
+      "visit_time": 42
     }
   },
   "117": {
@@ -2220,18 +2223,18 @@
     "path": "M 448.08 146.062 L 450.96 142.14 L 448.36 142.14 L 446.28 140.93 L 443.86 140.93 L 442.3 140.75 L 438.48 141.04 L 436.32 141.56 L 432.68 142.2 L 430.16 141.56 L 428.34 140.23 L 426.61 139.88 L 422.01 139.24 L 419.93 139.77 L 417.25 139.19 L 414.91 137.5 L 414.04 140.06 L 411.79 143.01 L 411.7 144.23 L 411.87 153.47 L 411.7 159.05 L 410.672 164.028 L 431.46 169.64 L 442.21 172.162 L 452.124 174.54 L 445.41 154.118 L 448.08 146.062 Z",
     "number_coords": [420, 140],
     "card_data": {
-      "name": "Cimitirul Vesel din Sapanta",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Merry Cemetery",
+      "location": "Maramures",
+      "image_url": "117_cimitir",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.9713096",
+        "long": "23.6949478"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Cemetery", "Diversity"],
+      "description": "The Merry Cemetery is a cemetery in the village of Săpânța, Maramureş county, Romania. It is famous for its brightly coloured tombstones with naïve paintings describing, in an original and poetic manner, the people who are buried there in addition to scenes from their lives. The Merry Cemetery became an open-air museum and a national tourist attraction. The unusual feature of this cemetery is that it diverges from the prevalent belief, culturally shared within European societies – a belief that views death as something indelibly solemn. Connections with the local Dacian culture have been made, a culture whose philosophical tenets presumably vouched for the immortality of the soul and the belief that death was a moment filled with joy and anticipation for a better life.",
+      "surface": 5.6,
+      "popularity": 8.3,
+      "visit_time": 4
     }
   },
   "118": {
@@ -2239,18 +2242,18 @@
     "path": "M 275.61 173.14 L 280.46 183.41 L 286.36 199.31 L 307.16 218.3 L 339.75 223.7 L 379.97 225.34 L 400.362 229.876 L 392.642 209.13 L 391.59 201.628 L 395.4 184.23 L 402.408 174.244 L 406.76 167.262 L 408.24 162.39 L 409.37 155.918 L 409.144 147.084 L 409.032 142.926 L 400.08 141.27 L 394.88 139.19 L 391.42 138.03 L 387.6 135.24 L 383.79 133.16 L 383.79 130.15 L 378.93 128.76 L 374.43 127.83 L 370.27 125.28 L 363.5 129.22 L 360.3 138.61 L 351.76 141.1 L 339.52 138.05 L 341.71 144.31 L 334.15 146.04 L 327.94 152.02 L 318.59 153.96 L 319.98 159.82 L 313.75 160.89 L 308.37 166.78 L 291.99 168.68 L 282.93 163.92 L 278.93 165.15 L 275.61 173.14 Z",
     "number_coords": [345, 160],
     "card_data": {
-      "name": "Orasul Satu Mare",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Satu Mare City",
+      "location": "Maramures",
+      "image_url": "118_satumare",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.8031158",
+        "long": "22.8836417"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Elder City", "River City"],
+      "description": "Satu Mare is situated in Satu Mare County, in northwest Romania, on the river Someș, 13 km (8.1 mi) from the border with Hungary and 27 km (17 mi) from the border with Ukraine. The city is located at an altitude of 126 m (413 ft) on the Lower Someș alluvial plain, spreading out from the Administrative Palace at 25 October Square. The boundaries of the municipality contain an area of 150.3 square kilometres (58.0 sq mi). From a geomorphologic point of view, the city is located on the Someș Meadow on both sides of the river, which narrows in the vicinity of the city and widens upstream and downstream from it; flooded during heavy rainfall, the field has various geographical configurations at the edge of the city (sand banks, valleys, micro-depressions)",
+      "surface": 150.3,
+      "popularity": 9.2,
+      "visit_time": 36
     }
   },
   "119": {
@@ -2258,18 +2261,18 @@
     "path": "m273.46 172.33l-4.25 0-5.03-1.98-1.56-.82-.69 2.1-.87 1.16-3.98 1.64-1.56 1.51-1.56 2.45-3.3.59-1.73 4.08-2.25 4.67 8.49 7.84 5.72 5.26 7.98 12.89 20.8 5.52 15.08-.82-19.94-18.52-5.54-13.92-5.81-13.65z",
     "number_coords": [260, 175],
     "card_data": {
-      "name": "Orasul Carei",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Carei City",
+      "location": "Maramures",
+      "image_url": "119_carei",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.6773465",
+        "long": "22.4628783"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Historical", "Market City"],
+      "description": "The first mention of the city under the name of 'Karul' dates from 1320, and as 'Károly' in 1325, however, the city is known to have existed since 1264, as it was the domain of the Kaplony clan and the center of the Károlyi family's personal domain that settled in the region shortly after the arrival of the Hungarians. The name of the city comes from the word 'karul' (in modern Hungarian 'karvaly'). The etymology of the word can be traced back to the ancient Turkish language, the word meaning sparrow. Another theory is that the city was named after the Károlyi family.",
+      "surface": 102,
+      "popularity": 6.6,
+      "visit_time": 5
     }
   },
   "120": {
@@ -2277,18 +2280,18 @@
     "path": "M 224.38 218.28 L 229.41 220.87 L 234.18 221.69 L 239.29 222.51 L 254.89 225.45 L 267.03 227.56 L 286.542 220.608 L 267.03 215.438 L 259.784 201.848 L 252.99 196.37 L 245.36 189.35 L 243.19 191.75 L 237.91 191.11 L 233.74 194.97 L 228.89 197.07 L 226.64 199.3 L 223.86 202.69 L 222.65 205.39 L 225.77 209.49 L 225.94 214 L 224.38 218.28 Z",
     "number_coords": [235, 195],
     "card_data": {
-      "name": "Statiunea balneoclimaterica Tasnad",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Tasnad spa resort",
+      "location": "Transylvania",
+      "image_url": "120_tasnad",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.474065",
+        "long": "22.5620642"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Thermal Spa", "Thermal City"],
+      "description": "The thermal waters present in Tăşnad are part of the set of existing hydrothermal resources in western Romania, the formation of which was decisively contributed by tectonic elements, namely, the presence of the fault system that fragments the earth's crust and that allow the downward and upward circulation of waters underground to great depths, and on the other hand, the existence of a geothermal anomaly, manifested in the context of the positioning closer to the terrestrial surface of the asthenosphere, i.e. of that 'layer' inside the Earth, characterized by temperatures that can reach several thousand degrees.",
+      "surface": 10,
+      "popularity": 5.4,
+      "visit_time": 8
     }
   },
   "121": {
@@ -2296,18 +2299,18 @@
     "path": "M 264.578 229.188 L 228.008 222.53 L 222.752 219.668 L 218.14 218.34 L 214.15 219.46 L 212.94 222.39 L 209.47 227.21 L 207.39 230.15 L 206.87 232.5 L 202.54 237.68 L 204.62 238.86 L 204.1 242.39 L 198.9 244.51 L 196.65 249.58 L 196.65 252.89 L 193.52 252.89 L 186.24 256.19 L 183.82 258.79 L 177.58 261.86 L 181.514 267.642 L 197.204 268.972 L 209.582 269.35 L 222.638 270.618 L 226.098 270.514 L 232.88 260.91 L 239.12 252.008 L 244.614 244.21 L 253.68 238.896 L 264.578 229.188 Z",
     "number_coords": [215, 225],
     "card_data": {
-      "name": "Orasul Oradea",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Oradea City",
+      "location": "Crisana",
+      "image_url": "121_oradea",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.0745948",
+        "long": "21.9374442"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["River City", "Diversity"],
+      "description": "Oradea is a city in northwest Romania, split by the Crișul Repede River. It`s known for baroque and art nouveau architecture, remnants of the Austro-Hungarian empire. Secessionist buildings line central Strada Republicii. Nearby, the neoclassical State Theater dominates King Ferdinand Square. The 18th-century Bishop`s Palace, with its frescoed rooms, is now home to the Museum of the Crisana Region",
+      "surface": 116,
+      "popularity": 9.1,
+      "visit_time": 50
     }
   },
   "122": {
@@ -2315,18 +2318,19 @@
     "path": "M 228.644 270.698 L 238.74 271.666 L 254.034 276.738 L 255.774 282.626 L 275.11 289.866 L 283.074 292.96 L 291.088 285.812 L 299.24 280.52 L 303.4 275.42 L 277.05 266.19 L 256.94 259.1 L 242.064 251.914 L 239.408 255.976 L 234.93 261.23 L 232.454 265.76 L 228.644 270.698 Z",
     "number_coords": [265, 265],
     "card_data": {
-      "name": "Pestera Vadul Crisului",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Vadul Crisului Cave",
+      "location": "Crisana",
+      "image_url": "122_vadul",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "46.9580169",
+        "long": "22.498389"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Caves", "Mountain Formation"],
+      "description": "It was discovered by Czaran Gyula and his two collaborators, Karl Handt and Veress Istvan, on November 10, 1903. The discovery was made by blasting the slope, there was a suspicion that above the Vadu. Crisului waterfall, which can be seen from the railway alignment, there is a cave. Count Odon Zichy, on whose property the cave was located, ordered its arrangement with wooden bridges and stairs, so that in 1905 it was opened for visiting, being considered at that time the most beautiful cave in Europe. A river flows through the cave, which, 40 meters from the entrance, forms a waterfall of about 6 meters. Stalactites and stalagmites of various shapes and sizes can be seen along the entire length of the cave, some of them bearing imaginative names such as: The Tomb of Mohamed, the White Eagle, Eve, the Prophet`s Beard or Snow White and the Seven Dwarfs.",
+      "surface": 1027,
+      "isCave": 1,
+      "popularity": 3.1,
+      "visit_time": 6
     }
   },
   "123": {
@@ -2334,18 +2338,18 @@
     "path": "M 304.59 220.24 L 289.33 221.3 L 267.84 229.05 L 255.7 240.94 L 246.464 245.664 L 243.186 249.342 L 258.48 256.98 L 279.28 264.54 L 305.28 274.12 L 311.09 267.91 L 305.8 249.31 L 302.16 232.93 L 304.59 220.24 Z",
     "number_coords": [275, 230],
     "card_data": {
-      "name": "Statiunea balneoclimaterica Boghis",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "boghis balneoclimatic resort",
+      "location": "Crisana-Transylvania",
+      "image_url": "123_boghis",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.1637319",
+        "long": "22.7222941"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Thermal Spa", "Thermal City"],
+      "description": "The Baile Boghis thermal water resort located on the County Road DJ 191D in Boghis commune, Salaj county, is supplied by 3 boreholes with cold (drinkable) water and 3 boreholes with sulphurous, sodium, bicarbonate, iodide, chlorinated and thermal mineral waters with a temperature of +42 degrees Celsius. Boghis accommodation. The closest cities to Baile Boghis are Cluj-Napoca located at 135 km, Zalau - 45 km and Simleu-Silvaniei at 15 km.",
+      "surface": 1.6,
+      "popularity": 5.4,
+      "visit_time": 8
     }
   },
   "124": {
@@ -2353,18 +2357,18 @@
     "path": "M 339.076 226.439 L 307.496 220.394 L 304.466 233.156 L 308.4 249.19 L 312.774 264.898 L 324.168 262.146 L 343.476 269.79 L 352.52 242.153 L 356.705 226.891 L 339.076 226.439 Z",
     "number_coords": [320, 225],
     "card_data": {
-      "name": "Cetatea Porolissum",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Porolissum Citadel",
+      "location": "Transylvania",
+      "image_url": "124_poro",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.1955343",
+        "long": "23.1280659"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Elder citadel", "Military Site"],
+      "description": "In 106, at the beginning of his second war against the Dacians, Emperor Trajan established a military stronghold at the site to defend the main passageway through the Carpathian mountains. The fort, initially built of wood on stone foundations, was garrisoned with 5000 auxiliary troops transferred from Spain, Gaul and Britain. Even though the name Porolissum appears to be Dacian in origin, archaeologists have so far uncovered no evidence of a Dacian settlement preceding the Roman fort. In the following decades, the fort was enlarged and rebuilt in stone (possibly under the reign of Marcus Aurelius), and a canaba, a civilian settlement developed around the military center. When Hadrian created the new province Dacia Porolissensis (named for the now sizable city) in 124, Porolissum became the administrative center of the province. Under emperor Septimius Severus, the city was granted municipium status, allowing its leaders and merchants to act independently. Although the Romans withdrew from Dacia ca. 271 under Aurelian, Porolissum may have been gradually abandoned in the course of the 260's. ",
+      "surface": 0.07,
+      "popularity": 3.8,
+      "visit_time": 3
     }
   },
   "125": {
@@ -2372,18 +2376,18 @@
     "path": "M 389.96 230.449 L 379.736 227.795 L 359.72 227.06 L 354.52 245.18 L 345.952 270.076 L 379.784 262.732 L 384.996 252.73 L 393.518 243.756 L 400.154 231.728 L 389.96 230.449 Z",
     "number_coords": [370, 220],
     "card_data": {
-      "name": "Gradina Botanica de la Jibou",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Jibou Botanical Garden",
+      "location": "Transylvania",
+      "image_url": "125_jibou",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.261807",
+        "long": "23.254023"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Bothanical Garden", "Diversity"],
+      "description": "The Jibou Botanical Garden, now named after its founder, Vasile Fati (1932-2007), is a botanical garden located in Jibou, Romania. The Botanical Garden is situated in the north-east side of Jibou, on the second bank of Someș River. The Botanical Garden has a surface of 25 acres (10 ha) and has been arranged inside the architectural ensemble at the Wesselényi residence beginning with the year 1968. The works for the organization of the Botanical Garden from Jibou started between the years 1959-1968, when Vasile Fati (1932-2007), a biology teacher, with the students and with the other teachers manages to prove that the parks around Wesselényi Castle, where the high school was functioning is appropriate for a botanical garden. Between the years 1968-1970 the first greenhouse of 110 square meters was built. Between the years 1978-1982, the two greenhouses were built, the aquarium and the volar. The Botanical Garden “Vasile Fati” in incorporated in the Botanical Gardens' Association from Romania (B.G.A.R) with the other botanical gardens",
+      "surface": 0.1,
+      "popularity": 8.1,
+      "visit_time": 5
     }
   }
 }

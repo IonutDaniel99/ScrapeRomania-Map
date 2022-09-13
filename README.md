@@ -21,6 +21,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 ![Scrape Romania Interactive Map](https://github.com/IonutDaniel99/ScrapeRomania-Map/blob/master/public/github/example.png)
@@ -28,25 +29,27 @@
 The main goal of the project is to recreate a 125 Romania places to visit. Every clickable svg open a popup with informations about that location. In order to keep tracking of the visited locations, every user can connect with Google account and **_Mark / Unmark_** locations.  
 <br>
 The image above it's a `example in development` of how the project looks like.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
 The entire applications was made with `React 17`. Some of used **_libraries_ / _utility frameworks_** are:
-* [Lodash](https://www.lodash.com)
-* [Tailwind](https://www.tailwindcss.com)
-* [Panzoom](https://github.com/anvaka/panzoom)
-* [React-icons](https://react-icons.github.io/react-icons/)
-* [React-Loading](https://www.npmjs.com/package/react-loading)
-* [React-Router](https://reactrouter.com/)
-* [React-Mouse-Parallax](https://www.npmjs.com/package/react-parallax-mouse)
+
+- [Lodash](https://www.lodash.com)
+- [Tailwind](https://www.tailwindcss.com)
+- [Panzoom](https://github.com/anvaka/panzoom)
+- [React-icons](https://react-icons.github.io/react-icons/)
+- [React-Loading](https://www.npmjs.com/package/react-loading)
+- [React-Router](https://reactrouter.com/)
+- [React-Mouse-Parallax](https://www.npmjs.com/package/react-parallax-mouse)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
+
 ### Installation
 
 1. Create an account on [Firebase](https://firebase.com)
@@ -63,46 +66,55 @@ The entire applications was made with `React 17`. Some of used **_libraries_ / _
 6. Create a copy of `.env.example` and change it to `.env.local`
 7. Go on Firebase Project Settings and copy config values.
 8. Configure the `.env.local` accordingly to example in the file or below.
-    ```
-    REACT_APP_PUBLIC_FIREBASE_API_KEY = ""
-    REACT_APP_PUBLIC_FIREBASE_AUTH_DOMAIN = ""
-    REACT_APP_PUBLIC_FIREBASE_PROJECT_ID = ""
-    REACT_APP_PUBLIC_FIREBASE_STORAGE_BUCKET = ""
-    REACT_APP_PUBLIC_FIREBASE_MESSAGE_SENDER_ID =  ""
-    REACT_APP_PUBLIC_FIREBASE_APP_ID = ""
+   ```
+   REACT_APP_PUBLIC_FIREBASE_API_KEY = ""
+   REACT_APP_PUBLIC_FIREBASE_AUTH_DOMAIN = ""
+   REACT_APP_PUBLIC_FIREBASE_PROJECT_ID = ""
+   REACT_APP_PUBLIC_FIREBASE_STORAGE_BUCKET = ""
+   REACT_APP_PUBLIC_FIREBASE_MESSAGE_SENDER_ID =  ""
+   REACT_APP_PUBLIC_FIREBASE_APP_ID = ""
    ```
 9. After the configuration, run the following command
-    ```shell
-        npm start
-    ```
+   ```shell
+       npm start
+   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 In order to create your own map, you need to follow the next steps
+
 1. Go to [Hpi Polygon Tool](http://apps.headwallphotonics.com/)
-2. Draw polygons over the map and at the end, export the coordonates as *KML* extension.
+2. Draw polygons over the map and at the end, export the coordonates as _KML_ extension.
 3. With KML extension go to [KML TO SVG](https://products.aspose.app/gis/en/viewer/kml-to-svg) and convert KML to SVG file.
 4. Download SVG file and open it.
 5. For each svg you need to copy the coords content of `d` prop of tag `path` in inspect element.
-    ```html
-        <svg stroke-width=".50">
-            <g xmlns="http://www.w3.org/2000/svg" stroke="#000000" stroke-width=".60" fill="#FFFFFF" aria-valuetext="test">
-                <path d="M 1021.907 647.936 L 1016.37 661.13 L 1056.94 658.39 L 1062.66 649.77 L 1062.83 640.893 L 1021.907 647.936 Z" fill="white"></path>
-            </g>
-        </svg>
-    ```
+   ```html
+   <svg stroke-width=".50">
+     <g
+       xmlns="http://www.w3.org/2000/svg"
+       stroke="#000000"
+       stroke-width=".60"
+       fill="#FFFFFF"
+       aria-valuetext="test"
+     >
+       <path
+         d="M 1021.907 647.936 L 1016.37 661.13 L 1056.94 658.39 L 1062.66 649.77 L 1062.83 640.893 L 1021.907 647.936 Z"
+         fill="white"
+       ></path>
+     </g>
+   </svg>
+   ```
 6. After coordonates, go to `data/locationsRomania.json` and edit the object accordingly. Each json object represent a svg rendered on page.  
-_(You can change the name of the file but you will need to refactor the code. Wait for future updates, i`ll change it)_
-
+   _(You can change the name of the file but you will need to refactor the code. Wait for future updates, i`ll change it)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Improve performances.
@@ -115,8 +127,8 @@ _(You can change the name of the file but you will need to refactor the code. Wa
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
@@ -130,8 +142,8 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License

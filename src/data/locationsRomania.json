@@ -2,10 +2,7 @@
   "1": {
     "number": 1,
     "path": "M 161.382 398.425 L 132.41 384.76 L 82.735 381.765 L 52.957 373.43 L 32.46 366.16 L 28.38 372.78 L 13.17 370.01 L 5 377.11 L 13.52 387.85 L 18.91 393.88 L 28.47 397.03 L 36.46 404.28 L 52.11 411.54 L 61.84 423.18 L 73.31 427.79 L 71.05 435.81 L 68.53 440.3 L 70.88 444.32 L 74.53 449.25 L 68.44 455.15 L 79.413 456.659 L 133.257 437.862 L 151.723 425.232 L 168.069 409.897 L 161.382 398.425 Z",
-    "number_coords": [
-      110,
-      400
-    ],
+    "number_coords": [110, 400],
     "card_data": {
       "name": "Timisoara City",
       "location": "Banat",
@@ -14,10 +11,7 @@
         "lat": "45.760696",
         "long": "21.226788"
       },
-      "tags": [
-        "Historical",
-        "Little Vienna"
-      ],
+      "tags": ["Historical", "Little Vienna"],
       "description": "Timișoara is the capital city of Timis County and the main economic, social and cultural centre in western Romania. Located on the Bega River, Timișoara is considered the informal capital city of the historical Banat, which is nowadays broadly considered a subregion of Transylvania. From 1848 to 1860 it was the capital of the Serbian Vojvodina and the Voivodeship of Serbia and Banat of Temeschwar. With 319,279 inhabitants at the 2011 census, Timișoara was then the country's third most populous city, after Bucharest and Cluj-Napoca. Timișoara is a multicultural city, being the home of 21 different ethnicities and 18 religions.",
       "surface": 130,
       "popularity": 9.5,
@@ -27,10 +21,7 @@
   "2": {
     "number": 2,
     "path": "m 146.26 389.23 l 8.25 -10.19 l 6.52 -11.51 l -4.77 -11.27 l -19.99 -12.49 l -2.96 -3.95 l -4.69 -0.9 l -4.69 0.66 l -2.18 2.4 l -0.43 3.83 l -2.78 6.25 l -6.78 1.08 l -4.52 5.88 l -3.13 0.6 l -4.69 -2.04 l -7.3 0.36 l -3.48 -2.04 l -3.48 1.08 l -6.08 -2.4 l -11.65 1.56 l -2.08 5.77 l -1.39 2.89 l -3.48 1.92 l -2.48 4.28 l -2 1 l 26.21 6.62 l 24.66 1.87 l 25.74 1.36 l 6.39 3.15 l 4 1 z",
-    "number_coords": [
-      130,
-      355
-    ],
+    "number_coords": [130, 355],
     "card_data": {
       "name": "Arad City",
       "location": "Crisana",
@@ -39,10 +30,7 @@
         "lat": "46.1866",
         "long": "21.3123"
       },
-      "tags": [
-        "Diversity",
-        "Elder City"
-      ],
+      "tags": ["Diversity", "Elder City"],
       "description": "Arad is the capital city of Arad County, Transylvania. It is the third largest city in Western Romania, behind Timișoara and Oradea, and the 12th largest in Romania, with a population of 159,704. A busy transportation hub on the Mureș River and an important cultural and industrial center, Arad has hosted one of the first music conservatories in Europe, one of the earliest normal schools in Europe, and the first car factory in Hungary and present-day Romania. Today, it is the seat of a Romanian Orthodox archbishop and features a Romanian Orthodox theological seminary and two universities.",
       "surface": 46,
       "popularity": 9.0,
@@ -52,10 +40,7 @@
   "3": {
     "number": 3,
     "path": "M 220.727 375.465 L 237.81 367.788 L 257.158 359.174 L 264.23 346.91 L 270.49 336.12 L 267.36 330.37 L 257.63 324.51 L 245.98 316.02 L 232.59 311.49 L 212.78 312.44 L 201.65 307.91 L 185.32 307.91 L 168.63 311.96 L 151 310 L 148.47 312.68 L 136.99 311.96 L 136.99 317.7 L 132.47 323.19 L 130.04 328.94 L 135.6 334.44 L 134.565 338.289 L 137.804 342.548 L 147.794 348.239 L 158.452 354.902 L 163.232 366.069 L 171.34 363.758 L 180.455 361.123 L 189.11 361.929 L 197.381 362.853 L 205.515 364.021 L 211.849 368.642 L 215.989 371.691 L 220.727 375.465 Z",
-    "number_coords": [
-      195,
-      325
-    ],
+    "number_coords": [195, 325],
     "card_data": {
       "name": "Moneasa Spa Resort",
       "location": "Crisana",
@@ -64,10 +49,7 @@
         "lat": "46.4603",
         "long": "22.2533"
       },
-      "tags": [
-        "Thermal Spa",
-        "Village"
-      ],
+      "tags": ["Thermal Spa", "Village"],
       "description": "Moneasa is a commune in Arad County, Romania, is situated at the foot of Codru-Moma Mountains. Its administrative surface stretches over 6824 hectares and it is composed of two villages, Moneasa (situated at 102 km from Arad) and Rănușa (Kisróna). According to the 2002 census, the population of the commune counts 1056 inhabitants, out of which 97.7% are Romanians, 1.7% are Hungarians and 0.6% are of other or undeclared nationalities. Traces of inhabitance on this area dating back to the paleolithic and neolithic have been found in the caverns called \"Hoanca\" and \"Izoi\". The first documentary record of Moneasa dates back to 1597, while Rănuşa was first mentioned in 1556.",
       "surface": 3,
       "popularity": 7,
@@ -77,10 +59,7 @@
   "4": {
     "number": 4,
     "path": "M 148.498 389.905 L 159.44 395.25 L 162.79 396.85 L 170.91 409.67 L 194.51 424.15 L 204.68 430.46 L 214.8 429.61 L 218.84 423.54 L 225.97 421.73 L 251.87 411.42 L 235.851 398.327 L 227.418 392.319 L 219.214 376.63 L 204.24 365.44 L 180.905 363.025 L 163.472 367.826 L 155.607 381.21 L 148.498 389.905 Z",
-    "number_coords": [
-      195,
-      385
-    ],
+    "number_coords": [195, 385],
     "card_data": {
       "name": "Lipova Spa Resort",
       "location": "Crisana",
@@ -89,10 +68,7 @@
         "lat": "46.065953",
         "long": "21.7054275"
       },
-      "tags": [
-        "Thermal Spa",
-        "Health"
-      ],
+      "tags": ["Thermal Spa", "Health"],
       "description": "Lipova is a town in Romania, Arad County, located in the Banat region. It is situated at a distance of 34 km (21 mi) from Arad, the county capital, at the contact zone of the river Mureș with the Zarand Mountains, the Western Plateau, and the Lipova Hills. It administers two villages, Radna (Máriaradna) and Șoimoș (Solymosvár), and its total surface is 134.6 km2 (52.0 sq mi). The first written record of the town dates back to 1315 under the name Lipwa. In 1324 the settlement was mentioned as castellanus de Lypua, a place-name that reflects its reinforced character of that time.",
       "surface": 1,
       "popularity": 8.6,
@@ -102,10 +78,7 @@
   "5": {
     "number": 5,
     "path": "M 79.8 459.08 L 79.54 462.65 L 85.93 464.62 L 89.54 468.85 L 99.28 476.19 L 108.33 479.02 L 118.75 475.82 L 122.93 485.62 L 134.05 487.34 L 145.87 489.79 L 157.27 492.93 L 167.045 477.03 L 194.697 461.15 L 202.312 431.483 L 170.032 411.21 L 152.49 426.98 L 134.38 440.03 L 79.8 459.08 Z",
-    "number_coords": [
-      155,
-      440
-    ],
+    "number_coords": [155, 440],
     "card_data": {
       "name": "Buziaş balneo-climatic resort",
       "location": "Banat",
@@ -114,10 +87,7 @@
         "lat": "45.649172",
         "long": "21.5987175"
       },
-      "tags": [
-        "Thermal Spa",
-        "Health"
-      ],
+      "tags": ["Thermal Spa", "Health"],
       "description": "Buziaș is a town in Timiș County, Romania. Thanks to its healing springs, it was once one of the most famous bathing places in Hungary and then in Romania; it has appeared in several international catalogs and has often been referred to as the \"Pearl of Banat\" or the \"Bad Nauheim of Banat\". Called Ahibis by Romans, Buziaș was first mentioned by Charles I of Hungary in a document from 1321. Until the early 19th century, it was an insignificant village away from the main routes. It owes its reputation to the healing effects of local mineral springs, which were first analyzed in 1811. In 1911 it was officially declared a spa resort of national interest.",
       "surface": 1,
       "popularity": 9.2,
@@ -127,10 +97,7 @@
   "6": {
     "number": 6,
     "path": "M 159.835 493.215 L 164.64 494.577 L 171.008 495.607 L 178.453 506.42 L 189.147 510.54 L 194.41 508.317 L 199.86 512.157 L 205.593 510.64 L 211.353 512.645 L 219.69 513.942 L 227.69 509.95 L 232.445 492.867 L 231.247 482.65 L 230.22 476.185 L 211.408 467.708 L 195.665 463.078 L 182.06 470.61 L 168.68 478.43 L 159.835 493.215 Z",
-    "number_coords": [
-      195,
-      475
-    ],
+    "number_coords": [195, 475],
     "card_data": {
       "name": "Necunoscut",
       "location": "55666666",
@@ -139,10 +106,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -152,10 +116,7 @@
   "7": {
     "number": 7,
     "path": "m161.57 495.82l1.13 2.75.37 1.03-7.02 3.66 1.25 2.18-3.22 3.73-.37 3.18-11.69 2.3 1.74 2.03 4.43 2.58 1.82 2.71 6.09 1.41 6.43 1.97 3.48 2.83 9.16 1.48 8.83-.25 2.6-4.12.96-4.49 1.48-8.54-11.65-4.55-7.56-10.42-8.26-1.47z",
-    "number_coords": [
-      165,
-      505
-    ],
+    "number_coords": [165, 505],
     "card_data": {
       "name": "Lake 'Ochiul Beiului'",
       "location": "Banat",
@@ -164,10 +125,7 @@
         "lat": "44.9362523",
         "long": "21.7904796"
       },
-      "tags": [
-        "Lake",
-        "Wildness"
-      ],
+      "tags": ["Lake", "Wildness"],
       "description": "'Ochiul Beiului' is a karst lake with an area of 284 m² near the Beușnița Falls on the Beu stream, in the Cheile Nerei-Beușnița National Park. Lake Ochiul Beiului is located in an area of impressive wilderness in the Cheile Nerei-Beușnița National Park, on the border of the Anina Mountains and the Locvei Mountains, at an altitude of 310 meters. The shape of the lake is a crater with a depth of 3.6 meters, and the water is so clean that the trout swimming in it can be admired in all their splendor. It is fed by a submerged spring. The maximum depth is 3.6 m.",
       "surface": 0.2,
       "popularity": 8.2,
@@ -177,10 +135,7 @@
   "8": {
     "number": 8,
     "path": "M 166.99 529.778 L 166.58 531.48 L 162.51 532.17 L 154.91 533.79 L 145.61 533.94 L 141.87 535.23 L 141.7 538.25 L 143.26 540.53 L 144.83 543.37 L 148.83 546.02 L 156.91 546.21 L 164.38 546.52 L 169.86 547.94 L 174.245 553.473 L 180.752 552.85 L 182.232 545.34 L 183.5 539.05 L 185.76 534.49 L 183.76 530.888 L 175.285 531.128 L 166.99 529.778 Z",
-    "number_coords": [
-      170,
-      525
-    ],
+    "number_coords": [170, 525],
     "card_data": {
       "name": "Devil's Lake Cave",
       "location": "Banat",
@@ -189,10 +144,7 @@
         "lat": "44.8644019",
         "long": "21.8126227"
       },
-      "tags": [
-        "Lake",
-        "Mistery"
-      ],
+      "tags": ["Lake", "Mistery"],
       "description": "Devil's Lake is a karst lake located in the Lovia Mountains. With an area of 700 square meters, it is the largest karst lake in the country. The lake has 20 m in diameter and a maximum depth between 9 and 12 m. This beautiful place belongs to the town of Sasca Montană of Caraș-Severin county. The lake is situated at the beginning of Nera Gorges, on the left bank of the river Nera, at an altitude of 499m. The lake, along with the cave at whose entrance is located, is considered a natural monument and is part of the National Park Nera Gorges-Beușnița. What it is now a surface lake was once an underground lake. It appeared when a ceiling piece of the caves of Devil's Lake collapsed.",
       "surface": 0.7,
       "popularity": 8,
@@ -202,10 +154,7 @@
   "9": {
     "number": 9,
     "path": "M 217.685 515.885 L 215.06 514.82 L 209.78 513.68 L 205.48 512.32 L 199.95 513.97 L 194.23 510.25 L 190.558 512.77 L 189.45 520.54 L 188.67 525.583 L 185.608 529.76 L 187.755 534.44 L 185.8 538.23 L 197.06 540.699 L 205.958 539.902 L 213.042 528.527 L 217.685 515.885 Z",
-    "number_coords": [
-      195,
-      515
-    ],
+    "number_coords": [195, 515],
     "card_data": {
       "name": "Necunoscut",
       "location": "Timisoara",
@@ -214,10 +163,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -227,10 +173,7 @@
   "10": {
     "number": 10,
     "path": "M 184.82 539.79 L 182.39 554.17 L 178.74 554.54 L 174.57 554.91 L 174.31 557.57 L 177 560.66 L 182.91 559.86 L 187.86 560.78 L 194.38 560.54 L 200.38 561.03 L 208.72 561.96 L 219.67 563.87 L 222.28 563.07 L 222.98 561.03 L 223.58 556.09 L 224.19 552.69 L 224.572 546.598 L 220.502 545.425 L 212.21 543.458 L 208.447 538.813 L 206.757 541.875 L 201.629 542.218 L 196.963 542.615 L 192.82 541.33 L 184.82 539.79 Z",
-    "number_coords": [
-      195,
-      540
-    ],
+    "number_coords": [195, 540],
     "card_data": {
       "name": "Necunoscut",
       "location": "Timisoara",
@@ -239,10 +182,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -252,10 +192,7 @@
   "11": {
     "number": 11,
     "path": "m219.79 515.72l-5.22 13.29-5.56 8.62 4.69 4.44 12.69 3.08 25.9-4.44-2.35-2.4 2.52-2.53-2.39-4.11 1.79-5.09-2.52-5.39 1.73-8.39-11.47-1.72-10.08 0-9.73 4.64z",
-    "number_coords": [
-      225,
-      515
-    ],
+    "number_coords": [225, 515],
     "card_data": {
       "name": "Radaraia Windmills",
       "location": "Timisoara",
@@ -264,10 +201,7 @@
         "lat": "44.8701843",
         "long": "22.0992369"
       },
-      "tags": [
-        "Windmills",
-        "Village"
-      ],
+      "tags": ["Windmills", "Village"],
       "description": "Placed like a string of beads along the water course for a length of 3 km, in the village and outside the village, the mills capitalize, in a hydro-energetic and constructive conception that envisages a great experience and \"engineering\" ability, the modest energy potential of the Rudăria river due to an insignificant difference in level. The beauty of nature and the skill of man offer, through the 22 water mills, a unique place in terms of landscape, flora, archaic architecture, legends and stories.",
       "surface": 3,
       "popularity": 4.8,
@@ -277,10 +211,7 @@
   "12": {
     "number": 12,
     "path": "M 226.5 546.3 L 223.71 563.22 L 231.54 566.07 L 242.14 568.05 L 248.92 566.69 L 257.61 563.28 L 257.801 559.761 L 258.65 553.09 L 253.26 546.42 L 249.96 543.71 L 252.05 541.61 L 226.5 546.3 L 226.5 546.3 Z",
-    "number_coords": [
-      232,
-      543
-    ],
+    "number_coords": [232, 543],
     "card_data": {
       "name": "Bigar Waterfall(Fallen)",
       "location": "Banat",
@@ -289,10 +220,7 @@
         "lat": "45.0039725",
         "long": "21.9521237"
       },
-      "tags": [
-        "Waterfall",
-        "Natural"
-      ],
+      "tags": ["Waterfall", "Natural"],
       "description": "Bigăr is a protected area situated in the administrative territory of Bozovici, in Caraș-Severin County in southwestern Romania. On 7 June 2021, part of the Bigăr waterfall collapsed. The Izvorul Bigăr is located at the south-west limit of the country, in the south of the Anina Mountains, in Caraș-Severin County, on the upper Anina River, in the Cheile Nerei-Beușnița National Park. Izbucul Bigăr with an area of 2km was declared a natural protected area by the Law Number.5 of March 6, 2000. Bigăr was one of the most unusual waterfalls in the world and one of the most beautiful in Romania. According to The World Geography, there are a number of facts that placed her as number one on the list of eight unique waterfalls around the world due to the way the water spreads and falls in tiny shreds of water, and also the fact that it is located exactly on the 45th parallel north, at the halfway point between the Equator and the North Pole.",
       "surface": 1,
       "popularity": 10,
@@ -302,10 +230,7 @@
   "13": {
     "number": 13,
     "path": "M 223.589 564.269 L 224.57 567.42 L 226.14 570.64 L 227.27 574.73 L 230.65 577.27 L 234.39 581.36 L 239.61 583.53 L 244.47 583.59 L 246.82 581.17 L 248.56 578.2 L 251.08 575.04 L 254.12 571.69 L 255.6 569.03 L 256.81 566.62 L 257.94 564.089 L 249.575 567.654 L 242.205 569.373 L 233.799 567.753 L 227.926 566.239 L 223.589 564.269 Z",
-    "number_coords": [
-      230,
-      560
-    ],
+    "number_coords": [230, 560],
     "card_data": {
       "name": "The Danube boilers",
       "location": "Oltenia",
@@ -314,10 +239,7 @@
         "lat": "44.6043762",
         "long": "22.2686186"
       },
-      "tags": [
-        "Danube",
-        "Voyage"
-      ],
+      "tags": ["Danube", "Voyage"],
       "description": "They are part of the Danube Gorge when passing through the Carpathian Mountains. The Small Boilers stretch over a 4 km section and are located between the Ciucarul Mare and Mali Strbac massifs (Serbia). The river road through the rocky walls of the Carpathian Mountains is spectacular, all starting with the Great Boilers, on the direction of water flow. At the base of the limestone rock of Great Boilers (Cazanele Mari) there are two cavities: Gura Ponicovei and Veterani caves. The Danube boilers are part of the Iron Gates Natural Park.",
       "surface": 9,
       "popularity": 10,
@@ -327,10 +249,7 @@
   "14": {
     "number": 14,
     "path": "M 237.672 397.535 L 275.49 388.77 L 310.79 406.21 L 339.13 416.67 L 367.66 416.75 L 404.25 417.57 L 411.55 415.69 L 409.64 403.46 L 403.21 397.9 L 371.74 398.26 L 339.24 383.89 L 295.61 369.07 L 259.11 360.65 L 238.94 369.31 L 221.56 376.9 L 229.04 391.38 L 237.672 397.535 Z",
-    "number_coords": [
-      305,
-      380
-    ],
+    "number_coords": [305, 380],
     "card_data": {
       "name": "Deva City",
       "location": "Transylvania",
@@ -339,10 +258,7 @@
         "lat": "45.875646",
         "long": "22.8782045"
       },
-      "tags": [
-        "Historical",
-        "Culture"
-      ],
+      "tags": ["Historical", "Culture"],
       "description": "Deva is a city in Romania, in the historical region of Transylvania, on the left bank of the river Mureș. It is the capital of Hunedoara County. Its name was first recorded in 1269 as castrum Dewa. The origin of the name gave rise to controversy. It is considered that the name comes from the ancient Dacian word dava, meaning \"fortress\" (as in Pelendava, Piroboridava, or Zargidava). Other theories trace the name to a Roman Legion, the Legio II Augusta, transferred to Deva from Castrum Deva, now Chester (Deva Victrix) in Britain. János András Vistai assume the name is of old Turkic origin from the name Gyeücsa. Others assert that the name is probably of Slavic origin where Deva or Devín means \"girl\" or \"maiden\". Additionally, it is possible the name Deva was derived from the reconstructed proto-Indo-European dhewa (\"settlement\").\n",
       "surface": 34,
       "popularity": 8.7,
@@ -352,10 +268,7 @@
   "15": {
     "number": 15,
     "path": "M 238.982 398.669 L 253.98 411.28 L 284.23 415.06 L 318.99 433.78 L 335.33 441.1 L 346.56 440.51 L 354.49 439.55 L 358.21 434.19 L 358.45 429.68 L 360.36 424.34 L 364.36 418.03 L 353.41 418.4 L 338.98 418.27 L 309.95 407.49 L 275.19 390.21 L 238.982 398.669 Z",
-    "number_coords": [
-      330,
-      417
-    ],
+    "number_coords": [330, 417],
     "card_data": {
       "name": "Corvin Castle",
       "location": "Transylvania",
@@ -364,10 +277,7 @@
         "lat": "45.7493637",
         "long": "22.8882866"
       },
-      "tags": [
-        "Castle",
-        "Gothic"
-      ],
+      "tags": ["Castle", "Gothic"],
       "description": "Best-known for the shivers sends tourists down their spine, Corvin Castle is one of the most important tourist attractions in Transylvania. Also known as Corvins’ Castle, Hunyad Castle or Hunedoara Castle, it is the largest medieval building in Romania still standing. With 42 rooms, two terraces, two bridges (of 55 and 30 meters), 7.000 square meters of built surface and a tower 72 meters high, it has an aura of an unbeatable fortress.",
       "surface": 7,
       "popularity": 10,
@@ -377,10 +287,7 @@
   "16": {
     "number": 16,
     "path": "M 329.026 461.353 L 334.741 442.809 L 318.13 435.75 L 300.997 426.667 L 283.211 417.073 L 252.95 412.953 L 240.669 417.979 L 227.594 423.129 L 220.416 425.078 L 218.859 427.559 L 216.395 431.143 L 204.031 432.359 L 200.71 446.87 L 196.8 461.56 L 213.32 466.68 L 230.323 473.742 L 248.25 474.541 L 264.25 474.043 L 279.518 473.979 L 295.982 473.06 L 311 474.405 L 324.04 475.534 L 329.026 461.353 Z",
-    "number_coords": [
-      260,
-      435
-    ],
+    "number_coords": [260, 435],
     "card_data": {
       "name": "Prislop Monastery",
       "location": "Transylvania",
@@ -389,10 +296,7 @@
         "lat": "45.6317607",
         "long": "22.8503394"
       },
-      "tags": [
-        "Orthodox",
-        "Historical"
-      ],
+      "tags": ["Orthodox", "Historical"],
       "description": "Prislop Monastery is a Romanian monastery located near the village of Silvașu de Sus in Hunedoara County. In 1564 it was built from the ground up by Zamfira, the daughter of Moise Vodă from Wallachia. It is possible that the old place, traces of which were written about in the middle of the 19th century, existed somewhere in the forest, in the vicinity of the current buildings. In the 18th century it was a Greek-Catholic monastery. In the 19th century it was almost deserted and administered by mir priests. Bishop Demetriu Radu was in charge of restoring the monastery in 1901. On October 29, 1948, with the prohibition of the United Romanian Church, the Greek-Catholic priests were arrested, and the place occupied by the Orthodox Church. On November 25, 1948, Metropolitan Nicolae Bălan transferred the monk Arsenie Boca from the Sâmbăta Monastery to Prislop, from where he was in turn arrested two years later. The monastery was rebuilt as an Orthodox monastery after 1975, with a community of nuns.",
       "surface": 0.7,
       "popularity": 5.7,
@@ -402,10 +306,7 @@
   "17": {
     "number": 17,
     "path": "M 429.04 505.417 L 437.12 496.49 L 442.25 490.66 L 430.69 485.57 L 411.92 479.7 L 393.211 475.532 C 394.441 476.147 364.872 472.74 364.872 472.74 L 355.86 477.69 L 344.56 477.59 L 325.62 477.99 L 295.59 475.09 L 264.32 476.75 L 232.36 475.97 L 233.49 483.83 L 234.62 493.1 L 231.8 501.93 L 229.58 510.15 L 241.18 510.33 L 252.44 512.3 L 250.83 521.09 L 252.87 525.76 L 262.43 525.79 L 271.99 525.02 L 281.29 527.76 L 290.216 529.146 L 292.081 521.576 L 300.609 517.207 L 306.625 512.046 L 324.23 506.951 L 347.17 507.377 L 370.969 505.897 L 395.75 499.957 L 429.04 505.417 Z",
-    "number_coords": [
-      265,
-      485
-    ],
+    "number_coords": [265, 485],
     "card_data": {
       "name": "Keys of Sohodol",
       "location": "Oltenia",
@@ -414,10 +315,7 @@
         "lat": "45.1361578",
         "long": "23.1359241"
       },
-      "tags": [
-        "Canyon",
-        "Caves"
-      ],
+      "tags": ["Canyon", "Caves"],
       "description": "The natural reserve stretches over an area of 350 hectares and represents an area of gorges dug into Cretaceous limestone by the waters of the Jaleș River (Sohodol), with diversified landforms (sinkholes, canyons, laps, aves, caves, rocky escarpments), with flora and fauna specific to the Southerners. The protected natural area attracts thousands of tourists from the country and abroad every year. Nările, Fusteica, Inelul, Popii Cave, Gârla Vacii Cave are some impressive landmarks of this area, the most visited of which is the Popii Cave due to the paintings with black anthropomorphic silhouettes .Alpinism is practiced on the 120 specially arranged routes on the Sohodol keys. During the summer, the temperature is lower by 10 degrees Celsius, thanks to the shadow of the rocks and the water of the Sohodol river. There are more than 300 species of plants specific to these places, including secular chestnuts planted before 1859.",
       "surface": 12,
       "popularity": 7.2,
@@ -427,10 +325,7 @@
   "18": {
     "number": 18,
     "path": "M 253.19 527.054 L 251.559 531.635 L 254.029 535.859 L 251.709 538.24 L 254.223 541.379 L 252.057 543.316 L 254.587 545.895 L 259.715 552.502 L 258.78 562.658 L 264.83 559.61 L 268.83 557.75 L 273 556.77 L 276.22 553.99 L 280.65 552.44 L 285.08 554.48 L 288.717 557.127 L 289.541 550.65 L 287.202 543.301 L 291.655 535.717 L 290.141 530.684 L 280.711 529.163 L 272.074 526.344 L 262.53 527.099 L 253.19 527.054 Z",
-    "number_coords": [
-      265,
-      530
-    ],
+    "number_coords": [265, 530],
     "card_data": {
       "name": "Decebal Head",
       "location": "Oltenia",
@@ -439,10 +334,7 @@
         "lat": "44.6411682",
         "long": "22.2911629"
       },
-      "tags": [
-        "Monument",
-        "King of Dacia"
-      ],
+      "tags": ["Monument", "King of Dacia"],
       "description": "Chipul regelui dac Decebal este un basorelief înalt de 55 m, aflat pe malul stâncos al Dunării, între localitățile Eșelnița și Dubova, în apropiere de orașul Orșova, România. Basorelieful îl reprezintă pe Decebal, ultimul rege al Daciei, fiind sculptat într-o stâncă de către sculptorul Florin Cotarcea, din orașul Orșova. Sculptorul a lucrat timp de zece ani, perioadă în care a fost ajutat de 11 alpiniști. Este cea mai înaltă sculptură în piatră din Europa și a doua din lume. Chipul lui Decebal este înalt de 55 m și lat de 25 m. Locul realizării sculpturii este în apropiere de orașul Orșova, în zona cataractelor de la Cazanele Mici (golful Mraconia), pe malul stâng al Dunării, acolo unde adâncimea fluviului este cea mai mare, circa 120 de metri.",
       "surface": 0.1,
       "popularity": 9.8,
@@ -452,10 +344,7 @@
   "19": {
     "number": 19,
     "path": "M 356.75 439.22 L 363.36 437.97 L 407.86 439.89 L 410.871 428.913 L 411.407 416.995 L 403.86 419.06 L 366.31 418.09 L 364.23 421.61 L 361.1 428.41 L 360.4 434.36 L 356.75 439.22 Z",
-    "number_coords": [
-      380,
-      415
-    ],
+    "number_coords": [380, 415],
     "card_data": {
       "name": "Sarmizegetusa Regia",
       "location": "Transylvania",
@@ -464,10 +353,7 @@
         "lat": "45.6227285",
         "long": ",23.3104755"
       },
-      "tags": [
-        "Military",
-        "Fortress"
-      ],
+      "tags": ["Military", "Fortress"],
       "description": "Sarmizegetusa Regia, also Sarmisegetusa, was the capital and the most important military, religious and political centre of the Dacians before the wars with the Roman Empire. Erected on top of a 1200 m high mountain, the fortress, comprising six citadels, was the core of a strategic defensive system in the Orăștie Mountains (in present-day Romania). Sarmizegetusa Regia should not be confused with Ulpia Traiana Sarmizegetusa, the Roman capital of Dacia built by Roman Emperor Trajan some 40 km away, which was not the Dacian capital. Sarmizegetusa Ulpia was discovered earlier, was known already in the early 1900s, and was initially mistaken for the Dacian capital, a confusion which led to incorrect conclusions being made regarding the military history and organization of the Dacians.",
       "surface": 30,
       "popularity": 6.4,
@@ -477,10 +363,7 @@
   "20": {
     "number": 20,
     "path": "M 421.412 480.012 L 439.99 455.43 L 406.96 441.31 L 363.582 439.988 L 336.379 443.479 L 326.384 475.586 L 340.652 475.572 L 354.57 475.674 L 364.272 470.354 L 392.8 472.783 L 412.92 477.358 L 421.412 480.012 Z",
-    "number_coords": [
-      375,
-      445
-    ],
+    "number_coords": [375, 445],
     "card_data": {
       "name": "Bolii Cave",
       "location": "Transylvania",
@@ -489,10 +372,7 @@
         "lat": "45.4538505",
         "long": "23.318291"
       },
-      "tags": [
-        "Cave",
-        "Acoustic"
-      ],
+      "tags": ["Cave", "Acoustic"],
       "description": "The Bolii Cave is a natural opening accessible along its entire length, one of the few caves of its kind in the country. The cave is located in the northern part of the city of Petroșani, 6km from it, on the road that connects the Jiului Valley with Șara Hațegului, in the place where the Retezatu Mountains meet those of Sebeș. The name of the cave probably comes from the Bolia family who had land and forest properties in the area since the 15th century. Since the interwar period, musical concerts have been organized in the biggest hall of the cave. The hall was named the Concert and Dance Hall as a result of the special acoustics it showed. In 2007, on the 1st of May, still in the spirit of tradition, artistic manifestations were held both inside the cave and outside it. Two very rare species of bats were identified.",
       "surface": 2,
       "popularity": 4.8,
@@ -502,10 +382,7 @@
   "21": {
     "number": 21,
     "path": "M 324.474 508.654 L 307.625 513.374 L 301.189 518.475 L 293.51 522.53 L 291.824 529.671 L 292.86 535.726 L 291.645 538.036 L 298.691 539.457 L 306.075 537.791 L 322.28 537.101 L 329.4 538.566 L 337.535 540.186 L 347.18 540.831 L 356.995 542.046 L 361.74 531.7 L 358.35 515.74 L 347.22 509.07 L 324.474 508.654 Z",
-    "number_coords": [
-      320,
-      510
-    ],
+    "number_coords": [320, 510],
     "card_data": {
       "name": "Tismana Monastery",
       "location": "Oltenia",
@@ -514,10 +391,7 @@
         "lat": "45.1057433",
         "long": "22.7931755"
       },
-      "tags": [
-        "Monastery",
-        "Elder citadel"
-      ],
+      "tags": ["Monastery", "Elder citadel"],
       "description": "Tismana Monastery is the oldest monastic settlement still in operation in Wallachia. Also built by the zeal of the pious Nicodim, its sister, Vodița Monastery, was destroyed shortly after construction (Vodiţa 2 was built later, where Nicodim returned from Tismana), the only citadel of our Orthodoxy remaining, for over six centuries , Tismana Monastery. Since Vladislav I (Vlaicu Vodă, 1364-1377) begins the monastic order of the monastery, Vlaicu's brother, Radu I Vodă associated with the reign from 1372, being the second in the order, the historian Alexandru Ștefulescu claimed that at the beginning of Vlaicu Vodă's reign between 1364- 1366, wooden churches were first built and altars were made through chrysov.",
       "surface": 1,
       "popularity": 7.8,
@@ -527,10 +401,7 @@
   "22": {
     "number": 22,
     "path": "M 359.26 541.891 L 378.389 542.354 L 392.989 547.294 L 430.067 551.901 L 434.271 536.899 L 438.254 527.844 L 441.241 520.874 L 428.101 507.523 L 396.119 502.169 L 371.259 508.226 L 350.335 508.989 L 360.569 514.927 L 364.066 531.76 L 359.26 541.891 Z",
-    "number_coords": [
-      390,
-      515
-    ],
+    "number_coords": [390, 515],
     "card_data": {
       "name": "Targu Jiu City",
       "location": "Oltenia",
@@ -539,10 +410,7 @@
         "lat": "45.0381641",
         "long": "23.2475768"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "The city takes its name from the river Jiu, which runs through it. In antiquity, there was a Dacian village in around the location of today's city surrounded by forests. After the Roman conquests of Oltenia (101-102), military units were stationed around the roads that connected different important routes at the time. During the digging of the Târgu Jiu - Rovinari railroad, mosaics, coins, ceramics and Roman bricks were found in the south-eastern part of the city.[3] This and ancient testimonies support the idea that Târgu Jiu was a commercial town (a vicus) while under the Roman Empire's rule. A very important route that connects the Danube to Transylvania runs through the city, so historians believe that part of the Roman army under Trajan's leadership stayed and then passed in the actual location of the city.",
       "surface": 102,
       "popularity": 8.8,
@@ -552,10 +420,7 @@
   "23": {
     "number": 23,
     "path": "M 290.03 558.29 L 294.46 561.83 L 298.46 564.66 L 302.37 566.14 L 308.67 566.14 L 314.8 569.58 L 318.58 572.67 L 319.49 575.46 L 312.45 578.53 L 305.07 575.83 L 300.16 574.13 L 296.07 575.18 L 294.66 576.74 L 293.69 580.13 L 291.81 582.31 L 288.18 583.93 L 281.99 583.27 L 280.28 584.29 L 282.5 588.4 L 285.6 590.43 L 286.29 594.79 L 288.03 599.1 L 292.38 603.88 L 299.18 606.54 L 306.07 607.34 L 310.09 610.37 L 313.19 609.98 L 322.8 607.49 L 334.62 604.79 L 350.09 603.88 L 359.21 603.88 L 373.21 603.82 L 387.63 604.26 L 397.37 604.57 L 401.28 595.74 L 405.1 587.11 L 410.4 575.09 L 414.66 566.36 L 416.03 565.07 L 419.921 565.077 L 424.241 559.767 L 428.911 553.607 L 392.33 549.24 L 377.2 544.3 L 356.52 543.44 L 337.22 541.47 L 322.45 538.51 L 306.28 539 L 298.98 540.85 L 291.09 539.01 L 288.62 543.54 L 290.8 550.6 L 290.33 554.24 L 290.03 558.29 L 290.03 558.29 Z",
-    "number_coords": [
-      350,
-      560
-    ],
+    "number_coords": [350, 560],
     "card_data": {
       "name": "Drobeta-Turnu Severin",
       "location": "Oltenia",
@@ -564,10 +429,7 @@
         "lat": "44.6266893",
         "long": "22.6475561"
       },
-      "tags": [
-        "Danube City",
-        "Castle City"
-      ],
+      "tags": ["Danube City", "Castle City"],
       "description": "Drobeta-Turnu Severin, colloquially Severin, is a city in Mehedinți County, Oltenia, Romania, on the northern bank of the Danube, close to the Iron Gates. \"Drobeta\" is the name of the ancient Dacian and Roman towns at the site, and the modern town of Turnu Severin received the additional name of Drobeta during Nicolae Ceauşescu's national-communist dictatorship as part of his myth-making efforts.",
       "surface": 55,
       "popularity": 9.3,
@@ -577,10 +439,7 @@
   "24": {
     "number": 24,
     "path": "M 353.425 639.692 L 380.601 633.297 L 406.842 627.422 C 407.981 627.422 416.745 627.887 416.745 627.887 L 415.772 625.137 L 414.81 621.341 L 412.476 615.107 L 398.299 606.019 L 381.235 605.404 L 360.15 605.278 L 335.144 606.028 L 318.998 610.188 L 310.853 612.128 L 308.3 614.38 L 309.29 617.51 L 316.65 618.53 L 322 621.96 L 333.82 627.57 L 339.55 631.01 L 350.24 632.04 L 355.29 634.63 L 353.425 639.692 Z",
-    "number_coords": [
-      360,
-      610
-    ],
+    "number_coords": [360, 610],
     "card_data": {
       "name": "The Peony Glade in the Plenița Forest",
       "location": "Oltenia",
@@ -589,10 +448,7 @@
         "lat": "44.2434586",
         "long": "23.1263446"
       },
-      "tags": [
-        "Natural Reserve",
-        "Wild"
-      ],
+      "tags": ["Natural Reserve", "Wild"],
       "description": "Famous for the natural reserve of wild peonies, Poiana Bujorului in the Plenița Forest, is located 59 km from Craiova, on the border with Mehedinți county, in a plain area, with altitudes of up to 200 meters, with a temperate climate and with average values.\nThe reserve of wild peonies, unique in the Romanian landscape, is arranged on an area of approximately 50 ha, and during the flowering period it is a real enchantment.\nThe forest is home to a variety of wild peony, called Paeonia Peregrina.\nPlinius made a detailed description of the peony in antiquity, which he said could treat about 20 diseases.\nEvery year, in May, the traditional peony festival is organized in Plenița. A large row of peonies welcomes the locals as well as the guests from Gorj, Olt and Mehedinți counties.",
       "surface": 1,
       "popularity": 8,
@@ -602,10 +458,7 @@
   "25": {
     "number": 25,
     "path": "m406.69 629.12l-55.71 12.86-11.43 2.38-4.76 1.25-3.54 8-2.35 4.33 4.91 6.92 8.83 2.23 14.86 2.19 9.12-1.03 7.91-3.05 27.12-3.19 19.64 6.33 17.56-.13 10.34 3.61 10.17 2.79 5.82-13.07.91-10.16-4.13-8.02-8.77-7.13-12.78-5.37-33.72-1.74z",
-    "number_coords": [
-      400,
-      635
-    ],
+    "number_coords": [400, 635],
     "card_data": {
       "name": "Ornithological reserve from Ciupercenii Noi",
       "location": "Oltenia",
@@ -614,10 +467,7 @@
         "lat": "43.8397235",
         "long": "22.8839847"
       },
-      "tags": [
-        "Wild",
-        "Danube Reserve"
-      ],
+      "tags": ["Wild", "Danube Reserve"],
       "description": "The Ciuperceni-Desa natural area is located in the floodplain of the Danube Meadow and is an ornithological reserve of approximately 200 hectares that also includes Balta Lată and Balta Neagră. Also here is the Ciurumela Forest where you can find huge acacias whose diameters reach 70-80 cm and heights of up to 35 meters. The habitats of Salix alba and Populus alba are what contributed to the designation of the site as a Natura 2000 site of community importance.",
       "surface": 2,
       "popularity": 6.7,
@@ -627,10 +477,7 @@
   "26": {
     "number": 26,
     "path": "M 404.95 397.32 L 411.2 402.755 L 412.545 409.032 L 413.187 416.412 L 412.51 429.29 L 409.81 440.59 L 440.75 454.23 L 448.05 437.8 L 442.32 406.51 L 442.14 399.13 L 418.33 392.48 L 411.2 394.52 L 404.95 397.32 Z",
-    "number_coords": [
-      420,
-      410
-    ],
+    "number_coords": [420, 410],
     "card_data": {
       "name": "Transalpina Road",
       "location": "Oltenia-Transylvania",
@@ -639,10 +486,7 @@
         "lat": "45.5231607",
         "long": "23.6358554"
       },
-      "tags": [
-        "Paved Road",
-        "Mountains"
-      ],
+      "tags": ["Paved Road", "Mountains"],
       "description": "The road is totally paved. It’s 148 km (92 miles) long, running south-north from Novaci, a town in Gorj County, in Oltenia to Sebeş, a city in Alba County. The road offers breathtaking views together with lots of driving excitement. This asphalted road is not easy, with hundreds of turns.",
       "surface": 150,
       "isRoad": 1,
@@ -653,10 +497,7 @@
   "27": {
     "number": 27,
     "path": "M 400.159 604.74 L 414.386 613.299 L 419.272 627.291 L 440.877 628.758 L 454.704 634.373 C 454.704 634.373 463.418 641.145 464.177 641.904 L 468.872 651.499 L 467.512 662.418 L 461.992 675.04 L 495.71 683.58 L 521.78 681.94 L 531.17 676.67 L 542.12 674.6 L 553.07 677.05 L 572.394 682.137 L 564.598 663.618 L 559.378 613.14 L 529.26 578.85 L 512.836 576.971 L 471.466 571.521 L 416.886 567.811 L 400.159 604.74 Z",
-    "number_coords": [
-      480,
-      600
-    ],
+    "number_coords": [480, 600],
     "card_data": {
       "name": "Craiova City",
       "location": "Oltenia",
@@ -665,10 +506,7 @@
         "lat": "44.3231404",
         "long": "23.7364536"
       },
-      "tags": [
-        "County Capital",
-        "Political Center"
-      ],
+      "tags": ["County Capital", "Political Center"],
       "description": "Craiova is Romania's 6th largest city and capital of Dolj County, and situated near the east bank of the river Jiu in central Oltenia. It is a longstanding political center, and is located at approximately equal distances from the Southern Carpathians (north) and the River Danube (south). Craiova is the chief commercial city west of Bucharest and the most important city of Oltenia. The city prospered as a regional trading centre despite an earthquake in 1790, a plague in 1795, and a Turkish assault in 1802 during which it was burned.",
       "surface": 81,
       "popularity": 10,
@@ -678,10 +516,7 @@
   "28": {
     "number": 28,
     "path": "M 422.806 565.517 L 445.78 567.04 L 473.67 569.1 L 529.82 575.95 L 532.6 568.03 L 541.29 550.23 L 543.72 517.21 L 538.86 495.37 L 509.31 486.55 L 443.869 491.809 L 430.999 506.559 L 443.78 520.33 L 436.82 536.82 L 432.74 552.24 L 422.806 565.517 Z",
-    "number_coords": [
-      480,
-      515
-    ],
+    "number_coords": [480, 515],
     "card_data": {
       "name": "Ocnele Mari Salt",
       "location": "Oltenia",
@@ -690,10 +525,7 @@
         "lat": "45.0850907",
         "long": "24.3094668"
       },
-      "tags": [
-        "Salt",
-        "Cave"
-      ],
+      "tags": ["Salt", "Cave"],
       "description": "Ocnele Mari tourist mine is located in the locality of the same name, 8 km from Râmnicu Vâlcea, in a picturesque area (close to Valea Oltului), with a tradition of spa tourism (Caciulata, Olăneşti, Călimăneşti) and religious tourism (the monastery Cozia). One of the horizons where the exploitation ended was opened to the public and transformed into a tourist area in 2009, with visitors' access being ensured by minibus transportation from the surface to the inside of the salt pan. The minibus that transports tourists underground runs every 30 minutes. The minibus has its departure and arrival point in the premises of the Ocnele Mari salt pan, a place specially designed for tourists. Travel time of the minibus from the premises of the salt pan to the tourist point is 10 minutes.",
       "surface": 0.05,
       "popularity": 8.7,
@@ -703,10 +535,7 @@
   "29": {
     "number": 29,
     "path": "M 423.774 480.54 L 431.974 483.189 L 443.897 488.826 L 470.3 486.506 L 508.37 483.936 L 519.15 464.45 L 514.98 445.44 L 502.767 442.526 L 488.183 439.06 L 450.507 438.936 L 442.75 454.842 L 423.774 480.54 Z",
-    "number_coords": [
-      470,
-      450
-    ],
+    "number_coords": [470, 450],
     "card_data": {
       "name": "Cozia Monastery",
       "location": "Oltenia",
@@ -715,12 +544,9 @@
         "lat": "45.2716751",
         "long": "24.3135309"
       },
-      "tags": [
-        "Monastery",
-        "Museum"
-      ],
+      "tags": ["Monastery", "Museum"],
       "description": "Cozia Monastery, erected close to Călimănești by Mircea the Elder in 1388 and housing his tomb, is one of the most valuable monuments of national medieval art and architecture in Romania. The name of the monastery is of Cuman origin and it means \"walnut grove\", from Turkic word koz, meaning walnut. The original name of the place was the Romanian equivalent, Nucetul, but already in 1387, a document of Mircea cel Bătrân uses the current name. The fortified cloister dates from the foundation (1388) and is the only in Byzantine style preserved in Romania. Two chapels are incorporated in the side toward the Olt River and their Byzantine cupolas are reflected in the water, creating one of the most iconic cultural - natural landmarks in Romania. Cozia features a museum of exhibiting old art: old manuscripts and prints, embroideries and objects of worship",
-      "surface": 0.20,
+      "surface": 0.2,
       "popularity": 7.1,
       "visit_time": 1
     }
@@ -728,10 +554,7 @@
   "30": {
     "number": 30,
     "path": "M 444.75 399.23 L 444.4 406.49 L 449.97 436.57 L 488.38 436.93 L 516.16 443.127 L 527.84 426.85 L 518.1 381.85 L 486.99 381.12 L 478.91 396.21 L 463.74 398.08 L 444.75 399.23 L 444.75 399.23 Z",
-    "number_coords": [
-      480,
-      400
-    ],
+    "number_coords": [480, 400],
     "card_data": {
       "name": "Sibiu City (Hermannstadt)",
       "location": "Transylvania",
@@ -740,10 +563,7 @@
         "lat": "45.7829971",
         "long": "24.1398382"
       },
-      "tags": [
-        "Historical",
-        "Castle City"
-      ],
+      "tags": ["Historical", "Castle City"],
       "description": "Sibiu  is a town in Transylvania, a historical region of Romania. Located some 275 km (171 mi) north-west of Bucharest, the city straddles the Cibin River, a tributary of the river Olt. Now the capital of the Sibiu County, between 1692 and 1791 and 1849–65 Sibiu was also the capital of the Principality of Transylvania. Sibiu is also known for its Christmas market. Personalities include Conrad Haas and Hermann Oberth, who were pioneers of rocketry. The company Elrond, which created the eGold cryptocurrency (among the biggest in the world), was founded by people from Sibiu. As of 2011, the city has a population of 147,245,while a 2019 estimate puts it at 169,056.The proposed Sibiu metropolitan area has a population of 267,170. The city also administers the village of Păltiniș, a ski resort located 35 kilometres to the southwest. Historically, Sibiu has been one of the most important centres of the Transylvanian Saxons. It is called Härmeschtat in their own local dialect.",
       "surface": 121,
       "popularity": 10,
@@ -753,10 +573,7 @@
   "31": {
     "number": 31,
     "path": "M 442.384 397.07 L 464.22 395.684 L 477.4 393.81 L 484.517 380.424 L 471 374.76 L 454.721 376.817 L 444.32 382.66 L 441.937 389.477 L 441.71 393.47 L 442.384 397.07 Z",
-    "number_coords": [
-      455,
-      375
-    ],
+    "number_coords": [455, 375],
     "card_data": {
       "name": "Ocna Sibiu Spa Resort",
       "location": "Transylvania",
@@ -765,10 +582,7 @@
         "lat": "45.8720781",
         "long": "24.0628877"
       },
-      "tags": [
-        "Thermal Spa",
-        "Salt"
-      ],
+      "tags": ["Thermal Spa", "Salt"],
       "description": "Dubbed as a metaphor, 'the sea of Sibiu', the resort is visited annually by thousands of tourists who come to treat themselves with the concentrated salty waters and sapropelic mud or to enjoy the natural setting or the leisure possibilities it offers. The most concentrated chloride-sodium waters, highly mineralized muds and the sedative topoclimate are natural factors particularly favorable for the regeneration of mental and physical forces.",
       "surface": 35,
       "popularity": 8.2,
@@ -778,10 +592,7 @@
   "32": {
     "number": 32,
     "path": "M 546.11 594.95 L 561.76 612.36 L 565.06 647.06 L 567.23 663.34 L 575.14 681.79 L 579.05 680.66 L 582.96 680.66 L 587.48 681 L 595.65 678.33 L 602.43 678.65 L 609.38 682.92 L 617.16 683.8 L 624.42 681.54 L 633.46 683.86 L 642.11 687.95 L 650.32 691.72 L 660.97 689.77 L 665.59 688.36 L 670.22 688.7 L 690.65 683.04 L 679.26 644.56 L 662.57 613.86 L 626.42 584.77 L 576.466 590.986 L 546.11 594.95 L 546.11 594.95 Z",
-    "number_coords": [
-      610,
-      620
-    ],
+    "number_coords": [610, 620],
     "card_data": {
       "name": "Neolithic village Draganesti Olt",
       "location": "Timisoara",
@@ -790,10 +601,7 @@
         "lat": "44.1551526",
         "long": "24.5391226"
       },
-      "tags": [
-        "Village",
-        "Museum"
-      ],
+      "tags": ["Village", "Museum"],
       "description": "in the center of Drăgăneşti Olt. Those who built it respected exactly the architecture of the time. The huts were built close to each other, the streets are no more than 2 meters wide, and the buildings are low because the people of those times did not exceed 1.60 meters. A tomb specific to the Gumelniţa culture, with an oval pit, was also built next to the six brothels. Even though it is a unique settlement in Europe, two years after its inauguration, only 4,000 visitors crossed its threshold.",
       "surface": 2,
       "popularity": 5.7,
@@ -803,10 +611,7 @@
   "33": {
     "number": 33,
     "path": "m693.24 682.79l3.24-.79 3.26-.78 5.28-4.77 5.53-2.02 4.27-3.52 4.89-6.41 6.31-4.92 11.24-4.57 4.56-6.64 5.74-2.25-7.91-8.37-19.12-18.47-17.39-22.65-32.67-15.14-41.03 2.97 36.85 28.84 15.82 30.94 11.13 38.55z",
-    "number_coords": [
-      695,
-      620
-    ],
+    "number_coords": [695, 620],
     "card_data": {
       "name": "Giurgiu City",
       "location": "Muntenia",
@@ -815,10 +620,7 @@
         "lat": "43.8976442",
         "long": "25.9625172"
       },
-      "tags": [
-        "Danube City",
-        "Port City"
-      ],
+      "tags": ["Danube City", "Port City"],
       "description": "Giurgiu is a city in southern Romania. The seat of Giurgiu County, it lies in the historical region of Muntenia. It is situated amongst mud-flats and marshes on the left bank of the Danube facing the Bulgarian city of Ruse on the opposite bank. Three small islands face the city, and a larger one shelters its port, Smarda. The rich grain-growing land to the north is traversed by a railway to Bucharest, the first line opened in Romania, which was built in 1869 and afterwards extended to Smarda. Giurgiu exports timber, grain, salt and petroleum, and imports coal, iron, and textiles. The Giurgiu-Ruse Friendship Bridge, in the shared Bulgarian-Romanian section of the Danube, crosses the river in the outskirts of the city.",
       "surface": 46,
       "popularity": 10,
@@ -828,10 +630,7 @@
   "34": {
     "number": 34,
     "path": "M 541.104 495.379 L 546.439 517.451 L 543.659 550.845 L 534.911 568.521 L 531.59 578.804 L 539.762 587.484 L 544.876 593.069 L 624.29 582.89 L 668.79 579.67 L 638.55 550.23 L 624.99 523.36 L 620.12 498.8 L 612.82 483.12 L 541.104 495.379 Z",
-    "number_coords": [
-      580,
-      525
-    ],
+    "number_coords": [580, 525],
     "card_data": {
       "name": "Arges Monastery",
       "location": "Muntenia",
@@ -840,10 +639,7 @@
         "lat": "45.156785",
         "long": "24.6753724"
       },
-      "tags": [
-        "Monastery",
-        "Legends"
-      ],
+      "tags": ["Monastery", "Legends"],
       "description": "The Cathedral of Curtea de Argeș (early 16th century) is a Romanian Orthodox cathedral in Curtea de Argeș, Romania. It is located on the grounds of the Curtea de Argeș Monastery, and is dedicated to the Dormition of the Mother of God. The building is the seat of the Archdiocese of Argeș and Muscel. The cathedral is faced with pale gray limestone, which was easily chiselled then hardened on exposure. The interior is of brick, plastered and decorated with frescoes. Nearby on the grounds stands the large Neo-Romanian style Royal Palace built in the late 19th century.",
       "surface": 1,
       "popularity": 10,
@@ -853,10 +649,7 @@
   "35": {
     "number": 35,
     "path": "M 510.65 484.112 L 539.168 492.73 L 557.93 490.112 L 550.28 455.74 L 561.41 442.83 L 559.84 424 L 529.354 422.724 L 529.86 427.52 L 521.967 438.447 L 517.18 446.19 L 521.48 464.55 L 510.65 484.112 Z",
-    "number_coords": [
-      527,
-      445
-    ],
+    "number_coords": [527, 445],
     "card_data": {
       "name": "Transfăgărășan Road",
       "location": "Muntenia-Transylvania",
@@ -865,10 +658,7 @@
         "lat": "45.453372",
         "long": "24.6250337"
       },
-      "tags": [
-        "Mountain Road",
-        "Paved Road"
-      ],
+      "tags": ["Mountain Road", "Paved Road"],
       "description": "The Transfăgărășan (trans + Făgăraș) or DN7C is a paved mountain road crossing the southern section of the Carpathian Mountains of Romania. It has national-road ranking and is the second-highest paved road in the country after the Transalpina. It starts near the village of Bascov, near Pitești, and stretches 90 kilometres (56 mi) to the crossroad between the DN1 and Sibiu, between the highest peaks in the country, Moldoveanu and Negoiu. The road, built in the early 1970s as a strategic military route, connects the historic regions of Transylvania and Wallachia.",
       "surface": 151,
       "isRoad": 1,
@@ -879,22 +669,16 @@
   "36": {
     "number": 36,
     "path": "M 560.496 489.31 L 611.862 480.62 L 622.78 451.24 L 618.09 428.62 L 592.54 424.98 L 562.12 424.01 L 563.68 443.2 L 552.56 455.99 L 560.496 489.31 Z",
-    "number_coords": [
-      580,
-      440
-    ],
+    "number_coords": [580, 440],
     "card_data": {
       "name": "Moldoveanu Peak",
       "location": "Muntenia",
-      "image_url": "36_moldovanu",
+      "image_url": "36_Moldavianu",
       "coords": {
         "lat": "45.5870948",
         "long": "24.5961869"
       },
-      "tags": [
-        "Mountain",
-        "Highest Peak"
-      ],
+      "tags": ["Mountain", "Highest Peak"],
       "description": "Moldoveanu Peak (Romanian: Vârful Moldoveanu, at 2,544 metres (8,346 ft), is the highest mountain peak in Romania. It is located in Argeș County, in the Făgăraș Mountains of the Southern Carpathians.The most popular routes to reach Moldoveanu are over the Viștea Mare (2,527 metres (8,291 ft)), by paths coming from Podragu, Sâmbăta, or by the Viștea Valley.The closest settlement on the north side is Victoria and on the south side, Câmpulung. An easy way to climb Moldoveanu is from the hut 'Stâna lui Burnei'. From Slatina, Arges there is a forest road without asphalt of about 37 km length. As of June 2022, driving on it with normal cars is possible, but challenging and time-consuming. From Stâna lui Burnei, two paths lead to the summit, which are well-suited for a round trip.",
       "surface": 2544,
       "isMountain": 1,
@@ -905,10 +689,7 @@
   "37": {
     "number": 37,
     "path": "M 520.477 382.287 L 529.057 420.477 L 562.07 421.68 L 592.95 422.374 L 617.573 426.087 L 616.38 411.97 L 623.313 392.737 L 581.177 391.04 L 554.05 384.98 L 520.477 382.287 Z",
-    "number_coords": [
-      565,
-      395
-    ],
+    "number_coords": [565, 395],
     "card_data": {
       "name": "Fagaras City",
       "location": "Transylvania",
@@ -917,10 +698,7 @@
         "lat": "45.8248518",
         "long": "24.9406434"
       },
-      "tags": [
-        "Castle City",
-        "Elder citadel"
-      ],
+      "tags": ["Castle City", "Elder citadel"],
       "description": "Făgăraș is a city in central Romania, located in Brașov County. It lies on the Olt River and has a population of 28,330 as of 2011.It is situated in the historical region of Transylvania, and is the main city of a subregion, Țara Făgărașului. The city is located at the foothills of the Făgăraș Mountains, on their northern side. It is traversed by the DN1 road, 66 kilometres (41 mi) west of Brașov and 76 kilometres (47 mi) east of Sibiu. On the east side of the city, between an abandoned field and a gas station, lies the geographical center of Romania. The Olt River flows east to west on the north side of the city; its left tributary, the Berivoi River, discharges into the Olt on the west side of the city, after receiving the waters of the Racovița River. The Berivoi and the Racovița were used to bring water to a since-closed major chemical plant located on the outskirts of the city.",
       "surface": 36,
       "popularity": 7.1,
@@ -930,10 +708,7 @@
   "38": {
     "number": 38,
     "path": "M 622.78 440.98 L 646.6 439.83 L 660.07 446.7 L 661.67 446.89 L 679.62 444.63 L 696.924 450.903 L 702.374 434.847 L 702.92 422.703 L 678.49 415.74 L 626.2 393.164 L 619.18 412.433 L 620.91 428.103 L 622.78 440.98 Z",
-    "number_coords": [
-      635,
-      410
-    ],
+    "number_coords": [635, 410],
     "card_data": {
       "name": "Brasov City",
       "location": "Transylvania",
@@ -942,10 +717,7 @@
         "lat": "45.6524781",
         "long": "25.5964628"
       },
-      "tags": [
-        "Castle City",
-        "Elder City"
-      ],
+      "tags": ["Castle City", "Elder City"],
       "description": "Brașov is a city in Transylvania, Romania and the administrative centre of Brașov County. According to the latest Romanian census (2011), Brașov has a population of 253,200 making it the 7th most populous city in Romania. The metropolitan area is home to 382,896 residents. Brașov is located in the central part of the country, about 166 km (103 mi) north of Bucharest and 380 km (236 mi) from the Black Sea. It is surrounded by the Southern Carpathians and is part of the historical region of Transylvania. Historically, the city was the center of the Burzenland, once dominated by the Transylvanian Saxons, and a significant commercial hub on the trade roads between Austria and Turkey. It is also where the national anthem of Romania was first sung.",
       "surface": 267,
       "popularity": 10,
@@ -955,10 +727,7 @@
   "39": {
     "number": 39,
     "path": "M 624.7 451.49 L 614.132 480.544 L 654.026 480.308 L 658.6 463.93 L 659.637 448.756 L 645.543 441.943 L 623.153 443.41 L 624.7 451.49 Z",
-    "number_coords": [
-      630,
-      450
-    ],
+    "number_coords": [630, 450],
     "card_data": {
       "name": "Bucegi Sphinx",
       "location": "Muntenia",
@@ -967,10 +736,7 @@
         "lat": "45.4083125",
         "long": "25.4703125"
       },
-      "tags": [
-        "Rock Formation",
-        "Natural Park"
-      ],
+      "tags": ["Rock Formation", "Natural Park"],
       "description": "The Sphinx is a natural rock formation in the Bucegi Natural Park which is in the Bucegi Mountains of Romania. It is located at an altitude of 2,216 metres (7,270 ft) within the Babele complex of rock formations. The first photo of the Great Bucegi Sphinx was probably taken in about the year 1900. This photograph was taken from a front position, not from a lateral one, as it usually appears in modern pictures. It only acquired its nickname, referring to the Great Sphinx of Giza, in the year 1936. The image of the sphinx appears when the rock, having an 8 m height and a 12 m width, is observed from a certain angle. The megalith has its clearest outline on 21 November, at the time the sun goes down.",
       "surface": 2216,
       "isMountain": 1,
@@ -981,10 +747,7 @@
   "40": {
     "number": 40,
     "path": "m614.45 482.74l8.6 15.98 3.04 16.14 40.5-2.21-1.04-14.97-10.78-14.94-40.32 0z",
-    "number_coords": [
-      635,
-      485
-    ],
+    "number_coords": [635, 485],
     "card_data": {
       "name": "Bran Castle",
       "location": "Transylvania",
@@ -993,10 +756,7 @@
         "lat": "45.5142103",
         "long": "25.3659776"
       },
-      "tags": [
-        "Castle",
-        "Dracula"
-      ],
+      "tags": ["Castle", "Dracula"],
       "description": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov. It is a national monument and landmark in Transylvania. The fortress is on the Transylvanian side of the historical border with Wallachia, on road DN73. Commonly known outside Transylvania as Dracula's Castle, it is marketed as the home of the title character in Bram Stoker's Dracula. There is no evidence that Stoker knew anything about this castle, which has only tangential associations with Vlad the Impaler, voivode of Wallachia, the putative inspiration for Dracula. Stoker's description of Dracula's crumbling fictional castle also bears no resemblance to Bran Castle. The castle is now a museum dedicated to displaying art and furniture collected by Queen Marie.[2] Tourists can see the interior on their own or by a guided tour. At the bottom of the hill is a small open-air museum exhibiting traditional Romanian peasant structures (cottages, barns, water-driven machinery, etc.) from the Bran region.",
       "surface": 1,
       "popularity": 9.3,
@@ -1006,10 +766,7 @@
   "41": {
     "number": 41,
     "path": "M 626.506 516.65 L 627.67 523.29 L 641.32 549.6 L 655.523 563.024 L 674 557.514 L 685.577 557.394 L 701.703 559.747 L 707.934 554.8 L 691.29 546.7 L 684.51 531.42 L 666.44 514.2 L 626.506 516.65 Z",
-    "number_coords": [
-      655,
-      525
-    ],
+    "number_coords": [655, 525],
     "card_data": {
       "name": "Targoviste City",
       "location": "Muntenia",
@@ -1018,10 +775,7 @@
         "lat": "44.9218847",
         "long": "25.3759912"
       },
-      "tags": [
-        "Castle City",
-        "Old Capital"
-      ],
+      "tags": ["Castle City", "Old Capital"],
       "description": "Târgoviște is a city and county seat in Dâmbovița County, Romania. It is situated 80 kilometres (50 miles) north-west of Bucharest, on the right bank of the Ialomița River. Târgoviște was one of the most important cities in the history of Wallachia, as it was its capital between the early 15th and 16th centuries. At the 2011 census, the city had a population of 79,610 people, making it the 26th largest in the country. The name Târgoviște is a Slavic name which the city acquired in the Middle Ages. It is derived from the old Slavonic word for 'marketplace', referring to the place rather than the market itself. The name is found in placenames not only in South Slavic areas, but also in West Slavic such as Slovak Trhovište or Polish Targowica. Additionally, places with the same name are found in Romania, in the regions of Oltenia, Banat, and Moldavia.",
       "surface": 50,
       "popularity": 6.9,
@@ -1031,10 +785,7 @@
   "42": {
     "number": 42,
     "path": "M 687.643 586.397 L 706.06 580.49 L 718.66 575.53 L 724.13 575.16 L 722.22 569.34 L 709.71 555.98 L 702.4 561.42 L 685.02 559.2 L 674.25 559.2 L 656.906 564.46 L 670.757 578.524 L 687.643 586.397 Z",
-    "number_coords": [
-      680,
-      560
-    ],
+    "number_coords": [680, 560],
     "card_data": {
       "name": "Mogoșoaia Palace",
       "location": "Muntenia",
@@ -1043,10 +794,7 @@
         "lat": "44.5278524",
         "long": "25.9924625"
       },
-      "tags": [
-        "Historical",
-        "Museum"
-      ],
+      "tags": ["Historical", "Museum"],
       "description": "Mogoșoaia Palace is situated about 10 kilometres (6.2 mi) from Bucharest, Romania. It was built between 1698-1702 by Constantin Brâncoveanu in what is called the Romanian Renaissance style or Brâncovenesc style. The palace bears the name of the widow of the Romanian boyar Mogoș, who owned the land it was built on.",
       "surface": 1,
       "popularity": 7.7,
@@ -1056,10 +804,7 @@
   "43": {
     "number": 43,
     "path": "M 713.593 605.44 L 723.3 618.7 L 727.83 622.75 L 735.32 630.61 L 750.017 645.11 L 768.91 641.66 L 790.153 637.727 L 763.06 612.837 L 713.593 605.44 Z",
-    "number_coords": [
-      745,
-      615
-    ],
+    "number_coords": [745, 615],
     "card_data": {
       "name": "Comana Natural Reserve",
       "location": "Muntenia",
@@ -1068,10 +813,7 @@
         "lat": "44.1536977",
         "long": "26.0961035"
       },
-      "tags": [
-        "Natural Reserve",
-        "Natural Park"
-      ],
+      "tags": ["Natural Reserve", "Natural Park"],
       "description": "Comana Natural Park was declared a protected area by Government Decision no. 2151 of November 30, 2004, published in the Official Gazette of Romania, no. 38 of January 12, 2005 (regarding the establishment of the protected natural area regime for new areas). It covers an area of 24963 ha[6] and represents a special conservation area with a protection regime for several species of spontaneous flora (Paeonia peregrina Mill-sp., Ruscus aculeatus) and wild fauna (birds, fish, mammals , reptiles and amphibians) from the Burnaz Plain.",
       "surface": 249,
       "popularity": 7.4,
@@ -1081,10 +823,7 @@
   "44": {
     "number": 44,
     "path": "M 711.883 602.973 L 764.11 610.43 L 793.674 636.94 L 820.26 633.74 L 835.55 630 L 842.407 627.334 L 844.866 617.554 L 837.321 598.793 L 793.004 580.906 L 755.067 576.08 L 724.022 576.77 L 690.273 587.697 L 704.614 594.164 L 711.883 602.973 Z",
-    "number_coords": [
-      800,
-      600
-    ],
+    "number_coords": [800, 600],
     "card_data": {
       "name": "The capital of Romania",
       "location": "Muntenia",
@@ -1093,10 +832,7 @@
         "lat": "44.4378258",
         "long": "26.0946376"
       },
-      "tags": [
-        "Capital",
-        "Little Paris"
-      ],
+      "tags": ["Capital", "Little Paris"],
       "description": "Bucharest was first mentioned in documents in 1459. It became the capital of Romania in 1862 and is the centre of Romanian media, culture, and art. Its architecture is a mix of historical (mostly Eclectic, but also Neoclassical and Art Nouveau), interbellum (Bauhaus, Art Deco and Romanian Revival architecture), socialist era and modern. In the period between the two World Wars, the city's elegant architecture and the sophistication of its elite earned Bucharest the nickname of 'Paris of the East'. Although buildings and districts in the historic city centre were heavily damaged or destroyed by war, earthquakes, and even Nicolae Ceaușescu's program of systematization, many survived and have been renovated. In recent years, the city has been experiencing an economic and cultural boom. It is one of the fastest-growing high-tech cities in Europe, according to the Financial Times, CBRE, TechCrunch, and others. UiPath, a global startup founded in Bucharest, has reached over $35 billion in valuation. Since 2019, Bucharest hosts the largest high tech summit in Southeast Europe (Romania Blockchain Summit).",
       "surface": 240,
       "popularity": 10,
@@ -1106,10 +842,7 @@
   "45": {
     "number": 45,
     "path": "M 711.44 555.27 L 718 561.76 L 724.56 569 L 726.39 575.07 L 736.64 574.82 L 754.9 573.95 L 767.01 575.073 L 765.287 554.347 L 748.671 546.007 L 711.44 555.27 Z",
-    "number_coords": [
-      735,
-      550
-    ],
+    "number_coords": [735, 550],
     "card_data": {
       "name": "Snagov Palace",
       "location": "Muntenia",
@@ -1118,10 +851,7 @@
         "lat": "44.7257185",
         "long": "26.171888"
       },
-      "tags": [
-        "Palace",
-        "Culture"
-      ],
+      "tags": ["Palace", "Culture"],
       "description": "Snagov Palace is a former royal palace on the shore of Lake Snagov, about 40 km north-east of Bucharest, in Ilfov County, Romania. The palace is situated in the commune of Snagov and near the Snagov monastery. Snagov Palace was built in the early 1930s by Henrieta Delavrancea-Gibory for prince Nicholas of Romania, brother of king Carol II. It was built on the grounds of the royal hunting lodge Scroviște, which dated from the 19th century. The new palace was constructed in the Romanian Brâncovenesc style and completed in 1932. The palace has a formal garden with fountains, which was landscaped by the Austrian landscape architect Rebhun. In the garden there is a former guesthouse in Romanian Arts and Crafts-style, built in the beginning of the 20th century.",
       "surface": 1,
       "popularity": 5.8,
@@ -1131,10 +861,7 @@
   "46": {
     "number": 46,
     "path": "M 669.9 514.49 L 687.22 530.36 L 693.36 545.34 L 710.4 553.79 L 746.03 544.78 L 705.36 526.05 L 711.96 509.09 L 669.9 514.49 Z",
-    "number_coords": [
-      700,
-      527
-    ],
+    "number_coords": [700, 527],
     "card_data": {
       "name": "Neagra Bison Reservation",
       "location": "Muntenia",
@@ -1143,10 +870,7 @@
         "lat": "44.8684777",
         "long": "25.7275744"
       },
-      "tags": [
-        "Natural Reserve",
-        "Natural Park"
-      ],
+      "tags": ["Natural Reserve", "Natural Park"],
       "description": "Less than 80 kilometers from Bucharest and 30 kilometers from Târgoviște there is a space, under the management of the Bucșani Forest Ring, from Dâmbovița county, where bison, massive and placid animals, live in an area of 162 hectares of forest.",
       "surface": 1.62,
       "popularity": 3.8,
@@ -1156,10 +880,7 @@
   "47": {
     "number": 47,
     "path": "M 668.68 512.52 L 711.61 507.61 L 703.27 489.59 L 661.434 487.918 L 664.6 492.84 L 668.16 497.55 L 668.68 512.52 L 668.68 512.52 Z",
-    "number_coords": [
-      680,
-      487
-    ],
+    "number_coords": [680, 487],
     "card_data": {
       "name": "Iulia Hasdeu Castle",
       "location": "Muntenia",
@@ -1168,10 +889,7 @@
         "lat": "45.1356716",
         "long": "25.7251426"
       },
-      "tags": [
-        "Castle",
-        "Museum"
-      ],
+      "tags": ["Castle", "Museum"],
       "description": "The Iulia Hașdeu Castle is a folly built in the form of small castle by historian and politician Bogdan Petriceicu Hașdeu in the city of Câmpina, Romania. Work on it began in 1893, after Hasdeu's daughter, Iulia Hasdeu, died at the age of 19, an event that dramatically shook Hasdeu's life. He claimed that his late daughter provided the plans for building the castle during sessions of spiritism. The building was completed in 1896. The Castle, which needed a lot of repair even when Hașdeu was alive, was affected by the First World War and in 1924 the People's Atheneum of Câmpina 'B.P.Hasdeu' tried to take it for restoration. The castle was affected again by the Second World War and stayed in a damaged state till 1955, when its name was written in the Listing of Historical Monuments. Since 1994 the Iulia Hașdeu Castle has housed the 'B.P. Hașdeu' Memorial Museum which displays furniture and personal belongings of the Hașdeu family including photos, original documents, manuscripts, Hasdeu's reviews and pictures made by Nicolae Grigorescu and Sava Henția.",
       "surface": 1,
       "popularity": 4.3,
@@ -1181,10 +899,7 @@
   "48": {
     "number": 48,
     "path": "M 702.647 487.74 L 699.7 467.09 L 679.71 467.76 L 660.07 464.04 L 656.77 481.5 L 659.967 485.854 L 702.647 487.74 Z",
-    "number_coords": [
-      670,
-      465
-    ],
+    "number_coords": [670, 465],
     "card_data": {
       "name": "Peles Castle",
       "location": "Muntenia",
@@ -1193,10 +908,7 @@
         "lat": "45.3602412",
         "long": "25.5387546"
       },
-      "tags": [
-        "Castle",
-        "Historical"
-      ],
+      "tags": ["Castle", "Historical"],
       "description": "Peleș Castle is a Neo-Renaissance castle in the Carpathian Mountains, near Sinaia, in Prahova County, Romania, on an existing medieval route linking Transylvania and Wallachia, built between 1873 and 1914. Its inauguration was held in 1883. It was constructed for King Carol I. The complex is northwest of the town of Sinaia, which is 48 kilometres (30 mi) from Brașov and 124 kilometres (77 mi) from Bucharest. In the southeastern Carpathian Mountains, the complex is composed of three monuments: Peleș Castle, Pelișor Castle, and the Foișor Hunting Lodge.",
       "surface": 1,
       "popularity": 9.1,
@@ -1206,10 +918,7 @@
   "49": {
     "number": 49,
     "path": "M 660.727 461.464 L 680.013 465.674 L 699.09 465.07 L 698.524 459.937 L 697.713 453.18 L 679.847 446.913 L 661.58 448.92 L 660.727 461.464 Z",
-    "number_coords": [
-      670,
-      445
-    ],
+    "number_coords": [670, 445],
     "card_data": {
       "name": "Cantacuzino Castle",
       "location": "Timisoara",
@@ -1218,10 +927,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "The Cantacuzino Castle is situated in Bușteni, Romania, in the Zamora district, on the street bearing the same name. The building has a great architectural, historical, documentary and artistic value. The building, whose construction was completed in 1911, was conducted by the architect Grigore Cerchez, a prominent figure of the Neo-Romanian style, at the request of Prince Gheorghe Grigore Cantacuzino, who was nicknamed 'Nababul' (“The Nabob”). The castle was placed on the site of an old hunting lodge that the prince's family had used as a halt during their pilgrimages to Brașov. The construction works lasted for five years, and the furnishing lasted another year and a half. At the inauguration in 1911, the castle impressed not only by its style and beauty,but also by its modern facilities in relation to those times, benefitting from electricity, sewerage system and drinking water. Until 1930, the castle served as the summer residence of the family of Prince Grigore Cantacuzino. The castle belonged to the Cantacuzino family until its nationalization in 1948, then became a sanatorium of the Ministry of Internal Affairs. The castle underwent restoration work and today it is open to the public",
       "surface": 1,
       "popularity": 8.4,
@@ -1231,10 +937,7 @@
   "50": {
     "number": 50,
     "path": "M 845.16 627.386 L 849.25 626.46 L 853.22 626.24 L 862.07 624.76 L 865.72 625.9 L 871.46 626.08 L 876.95 628.55 L 883.99 628.54 L 888.37 627.03 L 890.14 633.41 L 898.55 635.69 L 903.75 641.42 L 913.42 640.36 L 913.4 626.44 L 909.56 615.16 L 910.6 583.67 L 882.86 570.07 L 881.3 547.14 L 851.31 546.16 L 795.119 556.666 L 791.517 557.123 L 768.066 554.283 L 769.949 575.503 L 794.1 578.6 L 839.35 597.41 L 847.58 617.77 L 845.16 627.386 Z",
-    "number_coords": [
-      860,
-      580
-    ],
+    "number_coords": [860, 580],
     "card_data": {
       "name": "The archaeological complex 'Piscul Crăsani'",
       "location": "Muntenia",
@@ -1243,10 +946,7 @@
         "lat": "44.6007503",
         "long": "26.8863344"
       },
-      "tags": [
-        "Treasure",
-        "Ruins"
-      ],
+      "tags": ["Treasure", "Ruins"],
       "description": "The archaeological complex 'Piscul Crăsani' is what is left of the old dava (Thraco-Dacian settlement) here. In its center was the Helis (sun) Citadel, which had a strong commercial role, being built in honor of the Dacian king Dromichet. Due to a devastating fire, it consumed the entire place around the 1st century BC. Hr. After it began to be researched, the old fortification came to light, as well as many objects used by the civilization of the respective times (Neolithic), such as ceramic vessels, glass bracelets and various metal things. All this can be admired at the County Museum.",
       "surface": 1,
       "popularity": 4.1,
@@ -1256,10 +956,7 @@
   "51": {
     "number": 51,
     "path": "M 790.92 555.027 L 799.47 525.08 L 781.97 488.79 L 793.75 479.517 L 748.68 476.22 L 703.869 477.804 L 705.566 490.007 L 714.593 509.693 L 708.563 525.14 L 750.167 544.187 L 766.02 552.19 L 790.92 555.027 Z",
-    "number_coords": [
-      750,
-      495
-    ],
+    "number_coords": [750, 495],
     "card_data": {
       "name": "Ploiesti City",
       "location": "Muntenia",
@@ -1268,10 +965,7 @@
         "lat": "44.9341149",
         "long": "26.0098924"
       },
-      "tags": [
-        "Economic Area",
-        "Industry"
-      ],
+      "tags": ["Economic Area", "Industry"],
       "description": "Ploiești, formerly spelled Ploești, is a city and county seat in Prahova County, Romania. Part of the historical region of Muntenia, it is located 56 km (35 mi) north of Bucharest. The area of Ploiești is around 60 km2 (23 sq mi), and it borders the Blejoi commune in the north, Bărcănești and Brazi communes in the south, Târgșoru Vechi commune in the west, and Bucov and Berceni communes in the east. According to the 2011 Romanian census, there were 201,226 people living within the city limits, making it the ninth most populous in the country. The city grew beginning with the 17th century on an estate bought by Michael the Brave from the local landlords, gradually taking the place of the nearby Wallachian fairs of Târgșor, Gherghița and Bucov. Its evolution was accelerated by heavy industrialisation, with the world's first systematic petroleum refinery being opened in 1856-1857. Following massive exploitation of the oil deposits in the area, Ploiești earned the nickname of 'the Capital of Black Gold'. In the present, its economic activity is still based on oil processing, the city having four large refineries and other industries related to this branch.",
       "surface": 58.2,
       "popularity": 8.8,
@@ -1281,10 +975,7 @@
   "52": {
     "number": 52,
     "path": "M 931.324 510.43 L 892.4 500.52 L 901.806 482.56 L 807.62 471.35 L 784.74 488.91 L 794.151 508.844 L 802.053 524.957 L 793.857 554.534 L 850.777 543.637 L 883.717 544.866 L 931.324 510.43 Z",
-    "number_coords": [
-      835,
-      500
-    ],
+    "number_coords": [835, 500],
     "card_data": {
       "name": "Buzau City",
       "location": "Muntenia",
@@ -1293,10 +984,7 @@
         "lat": "45.1488874",
         "long": "26.8141936"
       },
-      "tags": [
-        "Economic Area",
-        "Industry"
-      ],
+      "tags": ["Economic Area", "Industry"],
       "description": "The city of Buzău is the county seat of Buzău County, Romania, in the historical region of Muntenia. It lies near the right bank of the Buzău River, between the south-eastern curvature of the Carpathian Mountains and the lowlands of Bărăgan Plain. Buzău is a railway hub in south-eastern Romania, where railways that link Bucharest to Moldavia and Transylvania to the Black Sea coast meet. DN2, a segment of European route E85 crosses the city. Buzău's proximity to trade routes helped it develop its role as a commerce hub in older days, and as an industrial centre during the 20th century. During the Middle Ages, Buzău was a market town and Eastern Orthodox episcopal see in Wallachia. It faced a period of repeated destruction during the 17th and 18th centuries, nowadays symbolized on the city seal by the Phoenix bird. In the 19th century, after the end of that era, the city began to recover. The economy underwent industrialization, Buzău became a railway hub, and public education became available. At this time, the Communal Palace, the city's landmark building, and Crâng Park, the main recreational area, were built. The communist regime after World War II brought forced industrialization and the tripling of the city's population. Some of the factories open at the time are still functioning within the framework of market economy.",
       "surface": 81.3,
       "popularity": 8.1,
@@ -1306,10 +994,7 @@
   "53": {
     "number": 53,
     "path": "M 915.82 640.41 L 931.08 641.66 L 933.85 637.92 L 939.05 640.41 L 942.17 647.4 L 946.33 648.89 L 956.74 647.9 L 968.18 642.66 L 980.31 626.71 L 988.29 610.56 L 990.02 587.75 L 1001.81 558.1 L 989.67 535.45 L 1005.744 501.61 L 953.96 497.7 L 908.89 529.31 L 884.27 547.26 L 886 569.45 L 912.7 582.42 L 912.18 614.59 L 916.43 626.62 L 915.82 640.41 Z",
-    "number_coords": [
-      945,
-      545
-    ],
+    "number_coords": [945, 545],
     "card_data": {
       "name": "Lacu Sarat Monastery",
       "location": "Muntenia",
@@ -1318,10 +1003,7 @@
         "lat": "45.2137598",
         "long": "27.9152724"
       },
-      "tags": [
-        "Monastery",
-        "Natural Park"
-      ],
+      "tags": ["Monastery", "Natural Park"],
       "description": "The monastery is located in the resort of the same name, located in the immediate vicinity of Brăila municipality, 5 km SW, on the national road DN 21 Brăila - Slobozia. The church benefits from the special natural setting offered by the park of the resort and the increasing interest of pilgrims towards this oasis of peace of mind.",
       "surface": 1,
       "popularity": 2,
@@ -1331,10 +1013,7 @@
   "54": {
     "number": 54,
     "path": "M 970.95 643.41 L 975.11 653.14 L 979.62 663.51 L 1009.78 673.14 L 1020.53 646.15 L 1062.49 638.67 L 1063.87 626.59 L 1061.62 616.73 L 1053.82 610.87 L 1064.91 601.65 L 1072.54 592.76 L 1036.83 586.51 L 994.132 587.75 L 990.71 610.8 L 982.91 627.58 L 970.95 643.41 Z",
-    "number_coords": [
-      1020,
-      600
-    ],
+    "number_coords": [1020, 600],
     "card_data": {
       "name": "Constanta City",
       "location": "Dobrogea",
@@ -1343,10 +1022,7 @@
         "lat": "44.1810427",
         "long": "28.6300063"
       },
-      "tags": [
-        "Black Sea City",
-        "Port City"
-      ],
+      "tags": ["Black Sea City", "Port City"],
       "description": "Constanța, historically known as Tomis, is the oldest continuously inhabited city in Romania, founded around 600 BC. A port-city, it is located in the Northern Dobruja region of Romania, on the Black Sea coast. It is the capital of Constanța County and the largest city in the historical region of Dobrogea. As of the 2022 census, Constanța has a population of 667,860, making it the fifth most populous city in Romania. The Constanța metropolitan area includes 14 localities within 30 km (19 mi) of the city. It is one of the largest metropolitan areas in Romania. The Port of Constanța has an area of 39.26 km2 (15.16 sq mi) and a length of about 30 km (19 mi).[9] It is the largest port on the Black Sea, and one of the largest ports in Europe. Constanța is only 185 miles (298 km) from the Bosphorus strait and in the 19th century many travellers to Constantinople (now Istanbul) arrived there by steamer from Constanța.",
       "surface": 124,
       "popularity": 10,
@@ -1356,10 +1032,7 @@
   "55": {
     "number": 55,
     "path": "M 1011.34 674.15 L 1033.88 676.78 L 1051.04 675.9 L 1056.573 660.373 L 1015.847 662.993 L 1011.34 674.15 Z",
-    "number_coords": [
-      1030,
-      655
-    ],
+    "number_coords": [1030, 655],
     "card_data": {
       "name": "Mangalia City",
       "location": "Dobrogea",
@@ -1368,10 +1041,7 @@
         "lat": "43.8130072",
         "long": "28.5667599"
       },
-      "tags": [
-        "Port City",
-        "Black Sea City"
-      ],
+      "tags": ["Port City", "Black Sea City"],
       "description": "Mangalia, ancient Callatis, is a city and a port on the coast of the Black Sea in the south-east of Constanța County, Northern Dobruja, Romania. The municipality of Mangalia also administers several summertime seaside resorts: Cap Aurora, Jupiter, Neptun, Olimp, Saturn, Venus. The Greek town Callatis existed until the mid-7th century under this name. Life in the town resumed from the 10th century. In the 13th century Callatis came to be known as Pangalia. The Vlachs called it Tomisovara and the Greeks called it Panglicara. From the 16th century the town had acquired its present name, Mangalia.",
       "surface": 62,
       "popularity": 8.2,
@@ -1381,10 +1051,7 @@
   "56": {
     "number": 56,
     "path": "M 1021.907 647.936 L 1016.37 661.13 L 1056.94 658.39 L 1062.66 649.77 L 1062.83 640.893 L 1021.907 647.936 Z",
-    "number_coords": [
-      1040,
-      638
-    ],
+    "number_coords": [1040, 638],
     "card_data": {
       "name": "Recovery Sanatorium Techirghiol",
       "location": "Dobrogea",
@@ -1393,10 +1060,7 @@
         "lat": "44.0494688",
         "long": "28.6053089"
       },
-      "tags": [
-        "Thermal",
-        "Health"
-      ],
+      "tags": ["Thermal", "Health"],
       "description": "The sapropelic mud from the Techirghiol Lake is the jewel of the resort. In 1924, at the Universal Exposition from Paris, the Techirghiol mud received the golden medal. Alphons Saligny was the first to study the therapeutic use of the mud; after this the Romanian Institute of Balneology approved it and during the 1930s the studies realized by Alphons Saligny and the Institute were the base for solid scientific proof regarding the therapeutic actions of the sapropelic mud of Techirghiol and the methodology of those treatments. The sapropelic mud of Techirghiol is used warm for different kind of procedures: Wraps, Cataplasm, Water mixed, for baths in bathtubs, Massage",
       "surface": 6,
       "popularity": 7.4,
@@ -1406,10 +1070,7 @@
   "57": {
     "number": 57,
     "path": "M 994.129 584.927 L 1037.717 583.804 L 1074.04 590.547 L 1088.79 577.91 L 1099.93 561.8 L 1121.247 546.587 L 1072.89 523.91 L 1003.37 512.38 L 992.663 535.387 L 1004.64 557.793 L 994.129 584.927 Z",
-    "number_coords": [
-      1035,
-      540
-    ],
+    "number_coords": [1035, 540],
     "card_data": {
       "name": "Dobrogea Gorges",
       "location": "Dobrogea",
@@ -1418,10 +1079,7 @@
         "lat": "44.495000",
         "long": "28.452222"
       },
-      "tags": [
-        "Mountain Road",
-        "Natural Reserve"
-      ],
+      "tags": ["Mountain Road", "Natural Reserve"],
       "description": "It was declared a Special Avifaunistic Protection Area in 2007 and covers an area of 10,929 hectares. This area includes the nature reserves Gura Dobrogei, La Adam Cave and Gura Dobrogei Cave. The protected area includes meadows, steppes, crops, pastures, deciduous forests and is included in the steppe geographical bioregion of the Casimca Plateau. Protected bird species are found here, such as the blue gull, the field striper, the short-legged plover, the quail, the Danube falcon, the cockerel, the black jay, the greenish woodpecker, or the shorebird. The gorges of Dobrogea are different from the gorges of the Carpathian Mountains. The valley is wide and the limestone walls are far from the water. They reach 30-40 meters, and the limestones are reefs. Along the entire length of the keys you can see the skeletons of the coral colonies deposited in circular forms.",
       "surface": 102,
       "popularity": 6.9,
@@ -1431,10 +1089,7 @@
   "58": {
     "number": 58,
     "path": "M 1122.91 544.61 L 1151.75 541.16 L 1183.21 538.82 L 1195 494.69 L 1191.36 483.7 L 1187.81 474.19 L 1176.62 465.66 L 1159.98 461.65 L 1147.15 461.53 L 1130.86 465.06 L 1119.67 469.71 L 1107.11 473.15 L 1101.12 476.35 L 1099.74 480.65 L 1107.97 487.61 L 1076.663 522.057 L 1122.91 544.61 Z",
-    "number_coords": [
-      1130,
-      490
-    ],
+    "number_coords": [1130, 490],
     "card_data": {
       "name": "Danube Delta",
       "location": "Dobrogea",
@@ -1443,10 +1098,7 @@
         "lat": "45.1898717",
         "long": "29.2629207"
       },
-      "tags": [
-        "Danube Reserve",
-        "Diversity"
-      ],
+      "tags": ["Danube Reserve", "Diversity"],
       "description": "The Danube Delta is the second largest river delta in Europe, after the Volga Delta, and is the best preserved on the continent. The greater part of the Danube Delta lies in Romania (Tulcea County), with a small part in Ukraine (Odessa Oblast). Its approximate surface area is 4,152 square kilometres (1,603 square miles), of which 3,446 km2 (1,331 sq mi) is in Romania. With the lagoons of Razim-Sinoe (1,015 km2 or 392 sq mi with 865 km2 or 334 sq mi water surface), located south of the main delta, the total area of the Danube Delta is 5,165 km2 (1,994 sq mi). The Razim-Sinoe lagoon complex is geologically and ecologically related to the delta proper; the combined territory is listed as a World Heritage Site.",
       "surface": 3124.4,
       "popularity": 10,
@@ -1456,10 +1108,7 @@
   "59": {
     "number": 59,
     "path": "M 1073.823 521.357 L 1104.96 487.943 L 1097.557 481.66 L 1089.94 477.02 L 1081.44 474.83 L 1078.34 476.05 L 1081.14 479.23 L 1074.95 481.44 L 1079.67 486.05 L 1073.99 487.73 L 1059.43 487 L 1029.09 477.97 L 1008.29 501.9 L 1004.68 509.864 L 1073.823 521.357 Z",
-    "number_coords": [
-      1045,
-      490
-    ],
+    "number_coords": [1045, 490],
     "card_data": {
       "name": "Tulcea City",
       "location": "Dobrogea",
@@ -1468,10 +1117,7 @@
         "lat": "45.1792497",
         "long": "28.7906652"
       },
-      "tags": [
-        "Danube City",
-        "Elder City"
-      ],
+      "tags": ["Danube City", "Elder City"],
       "description": "Tulcea was founded in the 7th century B.C. under the name of Aegyssus, mentioned in the documents of Procopius and Diodorus of Sicily (3rd century BC). In his Ex Ponto, Ovid recorded a local tradition that ascribed its name to a mythical founder, Aegisos the Caspian. After the fighting from 12-15 AD the Romans conquered the town. They rebuilt it after their plans, their technique and architectural vision, reorganizing it. The fortified town was mentioned as late as the 10th century, in documents such as Notitia Episcopatuum or De Thematibus. Under Byzantine rule beginning with the 5th century AD the town was abandoned by the first half of the 7th century due to the Barbarian invasions. The former settlement's territory fell under the rule of the Bulgarian Empire (681-c.1000; 1185-14th century). Inhabitation was restored in the second half of the 10th century, as the Byzantines built a fortress on the spot after reconquering the region. The fortress was soon destroyed in 1064 by an attack of the Uzes, however some inhabitation continued. A settlement, larger than the one in the 11th century, is archaeologically attested beginning with the 14th century. The Ottoman rule was imposed around 1420, and would last for the following four centuries.",
       "surface": 177,
       "popularity": 7.3,
@@ -1481,10 +1127,7 @@
   "60": {
     "number": 60,
     "path": "M 1006.977 499.723 L 1026.69 477.073 L 968.85 470.25 L 942.32 467.08 L 904.253 483.05 L 896.07 498.864 L 933.754 508.53 L 953.25 495.563 L 980.473 497.524 L 1006.977 499.723 Z",
-    "number_coords": [
-      920,
-      475
-    ],
+    "number_coords": [920, 475],
     "card_data": {
       "name": "Braila City",
       "location": "Muntenia",
@@ -1493,10 +1136,7 @@
         "lat": "45.2407463",
         "long": "27.8765933"
       },
-      "tags": [
-        "Danube City",
-        "Port City"
-      ],
+      "tags": ["Danube City", "Port City"],
       "description": "Before 14th century, a small village existed in the place of today's Brăila, probably inhabited by fishermen and small merchants. The village fell to the Mongols during the 1241 Mongol invasion of Europe and it was under direct control of the rulers of Argeș in mid-14th century. A settlement called Drinago was found in several 14th century Catalan and Castillian portolan charts (Angelino de Dalorto, 1325/1330 and Angelino Dulcert, 1339), as well as in the Book of Knowledge of All Kingdoms. This may have been an erroneous transcription of Brillago, a name which was later used in 15th century traveller's journals. In Greek documents of roughly that time, the city is referred to as Proilabum or Proilava, a Greek language adaptation of its Slavic name, Brailov. In German language sources, it is mentioned as Uebereyl. The origin and meaning of the name is unknown, but it is thought to be an anthroponym. The first certain document mentioning Brăila is a privilege act, given by Vladislav I of Wallachia to German merchants of Brașov, who were exempt of customs duties when they followed the road from Brașov to the Danube via Braylan.",
       "surface": 78,
       "popularity": 10,
@@ -1506,10 +1146,7 @@
   "61": {
     "number": 61,
     "path": "M 703.333 475.67 L 748.5 474.13 L 796.1 477.37 L 807.663 468.777 L 901.07 480.05 L 885.426 449.323 L 815.953 461.056 L 701.04 461.603 L 702.246 467.317 L 703.333 475.67 Z",
-    "number_coords": [
-      865,
-      450
-    ],
+    "number_coords": [865, 450],
     "card_data": {
       "name": "Mud Volcanoes",
       "location": "Muntenia",
@@ -1518,12 +1155,9 @@
         "lat": "45.3594064",
         "long": "26.7134713"
       },
-      "tags": [
-        "Volcanoes",
-        "Natural Reserve"
-      ],
+      "tags": ["Volcanoes", "Natural Reserve"],
       "description": "The Berca Mud Volcanoes is a geological and botanical reservation located in Scorțoasa commune close to Berca in Buzău County in Romania. Its most spectacular feature is the mud volcanoes, small volcano-shaped structures typically a few metres high caused by the eruption of mud and natural gases. As the gases erupt from 3000 metres deep towards the surface, through the underground layers of clay and water, they push up underground salty water and mud, so that they overflow through the mouths of the volcanoes, while the gas emerges as bubbles. The mud dries off at the surface, creating a relatively solid conical structure resembling a real volcano. The mud expelled by them is cold, as it comes from inside the Earth's continental crust layers, and not from the mantle.",
-      "surface": 0.10,
+      "surface": 0.1,
       "popularity": 6.3,
       "visit_time": 3
     }
@@ -1531,22 +1165,16 @@
   "62": {
     "number": 62,
     "path": "M 1020.86 474.027 L 1016 461.12 L 1003.17 456.99 L 999.01 446.06 L 991.04 440.96 L 1000.4 432.96 L 999.19 424.48 L 995.2 416.99 L 995.03 409.8 L 993.47 402.62 L 970.58 407.56 L 902.97 415.29 L 887.63 447.38 L 895.55 463.797 L 903.583 480.304 L 942.15 464.584 L 1020.86 474.027 Z",
-    "number_coords": [
-      940,
-      425
-    ],
+    "number_coords": [940, 425],
     "card_data": {
       "name": "Galati City",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "62_galati",
       "coords": {
         "lat": "45.4376586",
         "long": "28.0474949"
       },
-      "tags": [
-        "Danube City",
-        "Historical"
-      ],
+      "tags": ["Danube City", "Historical"],
       "description": "Galați is the capital city of Galați County, in the historical region of Western Moldavia, in eastern Romania. Galați is a port town on the Danube River. It has been the only port for the most part of Moldavia's existence. In 2011, the Romanian census recorded 249,432 residents, making it the 8th most populous city in Romania. Galați is an economic centre based around the port of Galați, the naval shipyard, and the largest steel mill in Romania, Galați steel works.",
       "surface": 246.4,
       "popularity": 10,
@@ -1556,22 +1184,16 @@
   "63": {
     "number": 63,
     "path": "m839.51 454.54l42.48-6.8 3.12-.61 7.62-15.64 7.63-15.97-33.8-3.93-35.2 6.71-5.72 18.88 13.87 17.36z",
-    "number_coords": [
-      855,
-      415
-    ],
+    "number_coords": [855, 415],
     "card_data": {
       "name": "Mausoleum of Mărășești",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "63_marasesti",
       "coords": {
         "lat": "45.8723869",
         "long": "27.2078876"
       },
-      "tags": [
-        "Museum",
-        "Memorial Site"
-      ],
+      "tags": ["Museum", "Memorial Site"],
       "description": "The Mausoleum of Mărășești is a memorial site in Romania containing remains of 5,073 Romanian soldiers and officers killed in the First World War and dedicated to the commemoration of the Battle of Mărășești and Romanian Army members who were killed during World War I. The memorial took architects George Cristinel and Constantin Pomponiu 15 years to build and was unveiled on 18 September 1938 by King Carol II. The frieze in bas-relief surrounding the base of the dome was sculpted by Cornel Medrea and Ion Jalea.",
       "surface": 2,
       "popularity": 7.1,
@@ -1581,22 +1203,16 @@
   "64": {
     "number": 64,
     "path": "M 700.48 459.16 L 768.87 459.16 L 815.2 458.49 L 837.6 454.9 L 823.56 437.3 L 829.63 418.3 L 790.8 416.427 L 742.26 416.63 L 705.5 422.53 L 704.81 435.24 L 699.26 451.38 L 700.48 459.16 Z",
-    "number_coords": [
-      755,
-      425
-    ],
+    "number_coords": [755, 425],
     "card_data": {
       "name": "The Eternal Flame",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "64_focurile",
       "coords": {
         "lat": "45.5358788",
         "long": "26.5487243"
       },
-      "tags": [
-        "Volcanoes",
-        "Fire Mud"
-      ],
+      "tags": ["Volcanoes", "Fire Mud"],
       "description": "At Andreiasu de Jos, in Vrancea county, there is the largest field of live fires, both in terms of the surface on which these are spread (12 hectares) and the gas flow from the underground of the Vrancea mountains (50 tons per year ).In 1973, a geological reserve was even established at Andreiasu de Jos, and the 'Living Fire' was declared a protected area of national interest (mixed nature reserve). The fires at Andreiasu are fueled by methane gas from the soil, but also by gases such as carbon dioxide, nitrogen and helium. They are about 50 cm high, but the locals say that during earthquakes (because the region is seismic) they even exceed 2 meters high. That those from Buzău county are more spectacular on the inside, when the colors of the flames create a magical atmosphere.",
       "surface": 0.12,
       "popularity": 5.3,
@@ -1606,22 +1222,16 @@
   "65": {
     "number": 65,
     "path": "M 899.603 361.123 L 886.387 372.067 L 879.597 384.073 L 881.907 397.67 L 884.307 411.19 L 900.077 412.941 L 903.943 412.944 L 936.883 408.707 L 970.497 404.96 L 993.15 400.08 L 993.18 396.12 L 992.49 392.14 L 990.41 389.73 L 991.62 384.2 L 992.84 380.95 L 995.09 374.82 L 997.17 368.09 L 993.18 362.57 L 966.49 357.06 L 930.6 355.62 L 899.603 361.123 Z",
-    "number_coords": [
-      930,
-      365
-    ],
+    "number_coords": [930, 365],
     "card_data": {
       "name": "Barlad City",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "65_barlad",
       "coords": {
         "lat": "46.2309065",
         "long": "27.6684023"
       },
-      "tags": [
-        "Ruins",
-        "Ruler Birthplace"
-      ],
+      "tags": ["Ruins", "Ruler Birthplace"],
       "description": "Bârlad is a city in Vaslui County, Romania. It lies on the banks of the river Bârlad, which waters the high plains of Western Moldavia. At Bârlad the railway from Iași diverges, one branch skirting the river Siret, the other skirting the Prut; both reunite at Galați. Along with a maze of narrow and winding streets, Bârlad features several notable modern buildings, including the hospital administered by the Saint Spiridion Foundation of Iași. In the vicinity of the city are the ruins of a Roman camp. The city is the birthplace of Romanian Domnitor (Ruler) and diplomat Alexandru Ioan Cuza.",
       "surface": 15,
       "popularity": 8.7,
@@ -1631,22 +1241,16 @@
   "66": {
     "number": 66,
     "path": "M 771.676 397.693 L 782.35 408.9 L 780.977 413.594 L 831.559 415.971 L 839.858 414.557 L 866.674 409.377 L 881.34 411.124 L 878.94 396.6 L 877.9 391.78 L 816.53 391.9 L 771.676 397.693 Z",
-    "number_coords": [
-      820,
-      390
-    ],
+    "number_coords": [820, 390],
     "card_data": {
       "name": "Putnei Waterfall",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "66_cascada",
       "coords": {
         "lat": "45.9292251",
         "long": "26.5987467"
       },
-      "tags": [
-        "Waterfall",
-        "Lake"
-      ],
+      "tags": ["Waterfall", "Lake"],
       "description": "The Putnei waterfall was declared a Natural Monument in 1973; then the first arrangements for visiting were made. It is about 80 meters long, and the water collects in a lake with a depth of about 12 meters. Currently, the Putna Waterfall is included in the Putna Vrancea Natural Park, as a sustainable management area. The importance of the Putna Waterfall lies in the landscape and hydromorphological character due not only to the current waterfall, but also to the abandoned waterfall, which remained suspended on the left bank, above Putna, approx. 250 m downstream from the current waterfall, as a result of tectonic processes, when a portion of the bed of the old bed collapsed, and the old course was diverted onto the present bed. As a result of excessive anthropization, most of the rocky plant species, including the cornflower, were destroyed over time.",
       "surface": 0.08,
       "popularity": 2.6,
@@ -1656,10 +1260,7 @@
   "67": {
     "number": 67,
     "path": "M 727.283 404.023 L 731.49 410.6 L 731.26 416.564 L 743.02 414.45 L 766.25 414.144 L 778.39 414.09 L 780.12 409.15 L 768.88 398.11 L 727.283 404.023 Z",
-    "number_coords": [
-      755,
-      395
-    ],
+    "number_coords": [755, 395],
     "card_data": {
       "name": "Statiunea Balneoclimaterica Covasna",
       "location": "Timisoara",
@@ -1668,10 +1269,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -1681,10 +1279,7 @@
   "68": {
     "number": 68,
     "path": "M 663.326 406.714 L 679.306 413.847 L 703.9 420.314 L 713.448 418.911 L 728.29 417.107 L 729.67 410.84 L 724.82 404.32 L 702.46 397.2 L 675.59 399.98 L 663.326 406.714 Z",
-    "number_coords": [
-      700,
-      395
-    ],
+    "number_coords": [700, 395],
     "card_data": {
       "name": "Sfantul(Saint) Gheorghe City",
       "location": "Transylvania",
@@ -1693,10 +1288,7 @@
         "lat": "45.8510224",
         "long": "25.7873425"
       },
-      "tags": [
-        "Elder City",
-        "Economic Area"
-      ],
+      "tags": ["Elder City", "Economic Area"],
       "description": "Sfântu Gheorghe is one of the oldest cities in Transylvania, the settlement first having been documented in 1332. The city takes its name from Saint George, the patron of the local church. Historically it was also known in German as Sankt Georgen. The 'sepsi' prefix refers to the area which the ancestors of the local Székely population had inhabited before settling to the area of the town. The previous area of their settlement was around the town of 'Sebes' (now: Sebeș) which later became populated mainly by Transylvanian Saxons.",
       "surface": 11.29,
       "popularity": 5.8,
@@ -1706,10 +1298,7 @@
   "69": {
     "number": 69,
     "path": "M 661.276 405.704 L 674.58 398.42 L 701.8 395.29 L 716.19 367.63 L 701.62 366.19 L 652.74 367.63 L 626.99 390.934 L 661.276 405.704 Z",
-    "number_coords": [
-      660,
-      370
-    ],
+    "number_coords": [660, 370],
     "card_data": {
       "name": "Racos Volcano",
       "location": "Transylvania",
@@ -1718,12 +1307,9 @@
         "lat": "46.0319484",
         "long": "25.418651"
       },
-      "tags": [
-        "Volcanoes",
-        "Rock Formation"
-      ],
+      "tags": ["Volcanoes", "Rock Formation"],
       "description": "The Racoș volcano is located in the vicinity of Racoș commune, in the Perșani mountains. You can get there by car, but also by train. The drive is good, and the scenery up there delightful, with hills covered with raw green grass and trees standing like border guards. You can reach by car up to a distance of 500-700 meters from the crater of the volcano...And from there you take a few more steps on foot.",
-      "surface": 0.10,
+      "surface": 0.1,
       "popularity": 3.6,
       "visit_time": 1
     }
@@ -1731,22 +1317,16 @@
   "70": {
     "number": 70,
     "path": "m779.29 352.28l-35.02.72-24.62 14.63-7.63 13.45-6.93 14.93 21.15 6.03 62.76-9.4 3.81-17.57-13.52-22.79z",
-    "number_coords": [
-      750,
-      365
-    ],
+    "number_coords": [750, 365],
     "card_data": {
-      "name": "Slanic Moldova",
-      "location": "Moldova",
+      "name": "Slanic Moldavia",
+      "location": "Moldavia",
       "image_url": "70_slanic",
       "coords": {
         "lat": "46.2172844",
         "long": "26.4656137"
       },
-      "tags": [
-        "Thermal Spa",
-        "Mountain Formation"
-      ],
+      "tags": ["Thermal Spa", "Mountain Formation"],
       "description": "The composition and structure of the soil consists of old tertiary soils. In particular, two formations widespread in the Eastern Carpathians alternate from the mouth of the river to beyond the springs in the resort, these being the Kliwa or Tisești sandstone and the disodilic shale with fish skeletons, both belonging to the Oligocene period, and towards the mountainous part above the springs , making up especially the Şandor massif, another older formation stands out: the Uz or Tarcău sandstone, whose age belongs to the Eocene period. All these formations have special properties, especially the Tisești sandstone. It consists of strong layers of fine siliceous sandstone, being very hard. It is supposed to have been formed from the cementation of the sands of a continuously receding sea beach in early Tertiary times.",
       "surface": 144,
       "popularity": 7.3,
@@ -1756,25 +1336,19 @@
   "71": {
     "number": 71,
     "path": "m878.16 389l-1.04-5.54 6.93-12.74 12.83-10.32-28.43-10.54-37.1-4.55-48.89 6.22 13.87 23.03-3.98 17.81 23.4-3.01 62.41-.36z",
-    "number_coords": [
-      820,
-      355
-    ],
+    "number_coords": [820, 355],
     "card_data": {
       "name": "Targu Ocna Salt Mine",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "71_ocna",
       "coords": {
         "lat": "46.2876394",
         "long": "26.6034286"
       },
-      "tags": [
-        "Salt",
-        "Cave"
-      ],
+      "tags": ["Salt", "Cave"],
       "description": "The Târgu Ocna mine is a large salt mine located in eastern Romania in Bacău County, close to Târgu Ocna. Târgu Ocna represents one of the largest salt reserves in Romania having estimated reserves of 229 million tonnes of NaCl.",
       "surface": 240,
-      "isCave": 1, 
+      "isCave": 1,
       "popularity": 7.6,
       "visit_time": 4
     }
@@ -1782,22 +1356,16 @@
   "72": {
     "number": 72,
     "path": "M 993.26 360.15 L 998.81 354.29 L 1005.92 350.94 L 1003.14 346.27 L 1009.9 341.71 L 1012.16 335.02 L 1008.69 330.06 L 1007.48 324.25 L 1008.08 318.32 L 1010.9 314.27 L 1010.25 310.22 L 1008.52 307.84 L 1008.86 305.34 L 1006.44 304.03 L 1004.61 300.05 L 1001.75 293.93 L 995.51 288.17 L 993.69 284.59 L 994.08 279.89 L 990.66 277.33 L 993.35 274.13 L 990.1 272.59 L 991.7 270.76 L 990.1 268.97 L 991.79 267.18 L 985.63 263.72 L 984.24 261.29 L 981.04 261.5 L 976.36 259.52 L 966.82 254.15 L 963.2 251.4 L 958.37 249.72 L 959.95 248.46 L 952.86 246.47 L 955.55 244.18 L 951.09 236.14 L 945.85 228.05 L 938.69 225.79 L 931.652 222.04 L 896.598 233.968 L 877.382 239.604 L 881.044 243.89 L 888.336 255.63 L 907.892 265.578 L 922.802 312.614 L 925.934 337.226 L 927.878 353.2 L 967.26 354.16 L 993.26 360.15 Z",
-    "number_coords": [
-      960,
-      300
-    ],
+    "number_coords": [960, 300],
     "card_data": {
       "name": "Iasi City",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "72_iasi",
       "coords": {
         "lat": "47.1560519",
         "long": "27.4468873"
       },
-      "tags": [
-        "Historical",
-        "Artistic City"
-      ],
+      "tags": ["Historical", "Artistic City"],
       "description": "Known as the Cultural Capital of Romania, Iași is a symbol of Romanian history. Historian Nicolae Iorga stated that 'there should be no Romanian who does not know of it'. Still referred to as 'The Moldavian Capital', Iași is the main economic and business centre of Romania's Moldavian region. In December 2018, Iași was officially declared the Historical Capital of Romania.",
       "surface": 93.9,
       "popularity": 10,
@@ -1807,22 +1375,16 @@
   "73": {
     "number": 73,
     "path": "M 924.82 353.49 L 922.65 335.91 L 920.13 312.89 L 904.36 267.31 L 885.98 257.38 L 875.094 240.142 L 832.002 251.702 L 827.028 256.542 L 823.094 262.128 L 828.532 266.66 L 840.22 278.2 L 850.62 291.01 L 865.53 322.9 L 869.69 347.5 L 899.85 358.52 L 924.82 353.49 Z",
-    "number_coords": [
-      875,
-      285
-    ],
+    "number_coords": [875, 285],
     "card_data": {
       "name": "Sturdza Palace",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "73_sturdza",
       "coords": {
         "lat": "47.0966896",
         "long": "26.9234925"
       },
-      "tags": [
-        "Palace",
-        "Museum"
-      ],
+      "tags": ["Palace", "Museum"],
       "description": "Around the year 1410, the ruler Alexandru cel Bun (1400-1432) gave the Vornic Miclăuș (1380-1440), a member of the Royal Council, a large estate, located near Lunca Siretului. The estate became known as Miclăușeni, after the death of the nobleman. On April 25, 1591, the descendants of Vornic Miclăuș sold the estate to the treasurer Simion Stroici (1550-1623). This village was fortified for him in 1598. At the beginning of the 17th century, the treasurer Simion Stroici built a mansion here, the ruins of which could still be seen at the beginning of the 20th century. Through a will dated June 5, 1622, the treasurer Simion Stroici bequeathed the village of Miclăușeni to 'Lupu Prăjăscului and my niece Safta, and to my son, in Gligorie, with horses and horses and all the income, because I took them to them so that they will be children of my soul'. At the end of the 17th century (in 1697), the descendants of Lupu Prăjescu, having no descendants, left the domain to the brothers Ioan and Sandu Sturdza, with whom they were related.",
       "surface": 4,
       "popularity": 6.3,
@@ -1832,22 +1394,16 @@
   "74": {
     "number": 74,
     "path": "M 866.91 347.03 L 862.444 323.37 L 848.506 292.85 L 838.4 279.852 L 821.172 263.29 L 815.029 263.548 L 768.44 264.71 L 751.11 276.78 L 755.27 298.14 L 769.83 326.47 L 781.62 348.94 L 831.89 343.2 L 866.91 347.03 Z",
-    "number_coords": [
-      800,
-      285
-    ],
+    "number_coords": [800, 285],
     "card_data": {
       "name": "Bacau City",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "74_bacau",
       "coords": {
         "lat": "46.5640425",
         "long": "26.9088596"
       },
-      "tags": [
-        "Mountain City",
-        "Historical"
-      ],
+      "tags": ["Mountain City", "Historical"],
       "description": "The town's name, which features in Old Church Slavonic documents as Bako, Bakova or Bakovia, comes most probably from a personal name. Men bearing the name Bakó or Bako are documented in medieval Transylvania and in 15th-century Bulgaria, but according to Victor Spinei the name itself is of Turkic - most probably of Cuman or Pecheneg - origin. Nicolae Iorga believes that the city's name is of Hungarian origin (as Adjud and Sascut). Another theory suggests that the town's name has a Slavic origin, pointing to the Proto-Slavic word byk, meaning 'ox' or 'bull', the region being very suitable for raising cattle; the term, rendered into Romanian alphabet as bâc, was probably the origin of Bâcău. In German it is known as Bakau, in Hungarian as Bákó and in Turkish as Baka.",
       "surface": 43.19,
       "popularity": 8.5,
@@ -1857,10 +1413,7 @@
   "75": {
     "number": 75,
     "path": "M 777.89 350.36 L 758.13 312.63 L 714.326 319.682 L 674.57 324.54 L 673.53 348.44 L 675.96 364.26 L 718.08 364.62 L 741.49 350.6 L 777.89 350.36 Z",
-    "number_coords": [
-      700,
-      325
-    ],
+    "number_coords": [700, 325],
     "card_data": {
       "name": "Lake Saint Ann",
       "location": "Transylvania",
@@ -1869,10 +1422,7 @@
         "lat": "46.1263035",
         "long": "25.8869651"
       },
-      "tags": [
-        "Volcanic Crater",
-        "Volcanic Lake"
-      ],
+      "tags": ["Volcanic Crater", "Volcanic Lake"],
       "description": "Lake Sfânta Ana is the only crater lake in Romania located in the volcanic crater of the volcano named Ciomatu Mare of the Eastern Carpathians, near Tușnad in the Natural Reserve of Mohoș, Harghita County, Romania. Palynology studies concluded that the history of Lake Saint Anne began about 9,800-8,800 years ago, at the stage of peat bog and shallow lake. It has an oval form and an area of 220,000 m². According to measurements made in 2005, the maximum depth of the lake is 6.4 m and the sediment thickness is about 4 m. The lake is supplied exclusively from precipitation, therefore the degree of mineralization of the water is very low. The water purity approaches of that of distilled water, with only 0.0029 ml mineral. In winter, the lake is covered with a layer of ice of up to 1 m. The lake is part of the Mohos Nature Reserve. Near the lake there is a Roman Catholic chapel dedicated to Saint Anne. Swimming in the lake in general is prohibited since April 2018. It is available only for sporting events under special permits.",
       "surface": 0.2,
       "popularity": 9.1,
@@ -1882,10 +1432,7 @@
   "76": {
     "number": 76,
     "path": "M 670.726 348.934 L 615.28 355.15 L 583.236 388.29 L 623.69 390.564 L 652.38 364.5 L 672.704 364.02 L 670.726 348.934 Z",
-    "number_coords": [
-      615,
-      355
-    ],
+    "number_coords": [615, 355],
     "card_data": {
       "name": "Rupea Fortress",
       "location": "Transylvania",
@@ -1894,10 +1441,7 @@
         "lat": "46.0371773",
         "long": "25.2122356"
       },
-      "tags": [
-        "Fortress",
-        "Medieval"
-      ],
+      "tags": ["Fortress", "Medieval"],
       "description": "Rupea Fortress stands on one of the oldest archaeological sites in Romania, the first signs of human settlements dating from the Paleolithic and Early Neolithic (5500 BC-3500 BC). Archaeological investigations have revealed objects from this era, testimony of settlements in the region: stone tools, pottery, funeral urns, etc. In Dacian times, on these places was raised the dava known as Rumidava or Ramidava (after various historical sources); conquered by the Romans, Rumidava became the Roman castra Rupes (in Latin, rupes means 'rock' or 'stone'). The Roman castra Rupes was part of the Roman fortification belt defending the commercial area and routes linking the Târnava Valley with the Olt Valley, Râșnov and Hoghiz.",
       "surface": 1.5,
       "popularity": 7.6,
@@ -1907,10 +1451,7 @@
   "77": {
     "number": 77,
     "path": "M 606.61 334.09 L 575.41 338.39 L 536.617 345.627 L 534.427 381.31 L 555.82 383.36 L 581.186 388.057 L 613.2 352.87 L 610.68 345.406 L 606.61 334.09 Z",
-    "number_coords": [
-      565,
-      345
-    ],
+    "number_coords": [565, 345],
     "card_data": {
       "name": "Sighisoara City",
       "location": "Transylvania",
@@ -1919,10 +1460,7 @@
         "lat": "46.2230059",
         "long": "24.7937072"
       },
-      "tags": [
-        "Elder City",
-        "Military Site"
-      ],
+      "tags": ["Elder City", "Military Site"],
       "description": "Sighișoara is a city on the Târnava Mare River in Mureș County, Romania. Located in the historic region of Transylvania, Sighișoara has a population of 28,102 according to the 2011 census. It is a popular tourist destination for its well-preserved walled old town, which is listed by UNESCO as a World Heritage Site. The city administers seven villages: Angofa, Aurel Vlaicu, Hetiur, Rora, Șoromiclea, Venchi, and Viilor. Sighișoara was part of the Hungarian Kingdom until 1918.",
       "surface": 10,
       "popularity": 9,
@@ -1932,10 +1470,7 @@
   "78": {
     "number": 78,
     "path": "M 532.24 380.95 L 534.15 346.05 L 465.84 355.517 L 471.42 372.413 L 487.216 378.404 L 519.5 380.29 L 532.24 380.95 Z",
-    "number_coords": [
-      500,
-      350
-    ],
+    "number_coords": [500, 350],
     "card_data": {
       "name": "Medias City",
       "location": "Transylvania",
@@ -1944,10 +1479,7 @@
         "lat": "46.1642825",
         "long": "24.3542861"
       },
-      "tags": [
-        "Elder City",
-        "Thermal City"
-      ],
+      "tags": ["Elder City", "Thermal City"],
       "description": "Mediaș is the second largest city in Sibiu County, Transylvania, Romania. Mediaș is located in the middle basin of Târnava Mare River, at 39 km (24 mi) from Sighișoara and 41 km (25 mi) from Blaj. The health resort Bazna, officially recognized for the first time in 1302, is 18 km (11 mi) from Mediaș. The health resort offers mineral water springs, rich in salts, mineral mud and a special type of salt, called 'Bazna salt'. The distance between Mediaș and the county's residence Sibiu is 55 km (34 mi).",
       "surface": 62.62,
       "popularity": 8.1,
@@ -1957,10 +1489,7 @@
   "79": {
     "number": 79,
     "path": "M 469.356 372.47 L 463.986 355.63 L 419.03 354.91 L 409.85 376.14 L 410.57 392.927 L 418.805 389.767 L 429.41 393.019 L 440.19 395.8 L 439.32 388.96 L 442.44 381.43 L 448.16 377.86 L 454.23 375 L 469.356 372.47 Z",
-    "number_coords": [
-      425,
-      355
-    ],
+    "number_coords": [425, 355],
     "card_data": {
       "name": "Alba Iulia City",
       "location": "Transylvania",
@@ -1969,10 +1498,7 @@
         "lat": "46.0616246",
         "long": "23.5580027"
       },
-      "tags": [
-        "River City",
-        "Elder City"
-      ],
+      "tags": ["River City", "Elder City"],
       "description": "Alba Iulia is a city that serves as the seat of Alba County in the west-central part of Romania. Located on the Mureș River in the historical region of Transylvania, it has a population of 63,536 (as of 2011). During the ancient times, the site was the location of the Roman camp Apulum. Since the High Middle Ages, the city has been the seat of Transylvania's Roman Catholic diocese. Between 1542 and 1690 it was the capital of the principality of Transylvania. At one point it also was a center of the Eastern Orthodox Metropolitan of Transylvania with suffragan to Vad diocese. On 1 December 1918, the Union of Transylvania with Romania was declared in Alba Iulia, and the Romania's King Ferdinand I and Queen Marie were crowned in the Alba Iulia Orthodox Cathedral, in 1922. Alba Iulia is historically important for Romanians, Hungarians, and Transylvanian Saxons. In December 2018, Alba Iulia was officially declared Capital of the Great Union of Romania.",
       "surface": 103,
       "popularity": 10,
@@ -1982,10 +1508,7 @@
   "80": {
     "number": 80,
     "path": "M 408.423 393.72 L 407.63 377.47 L 373.3 376.27 L 340.02 382.52 L 371.753 396.236 L 386.31 396.629 L 403.701 395.982 L 408.423 393.72 Z",
-    "number_coords": [
-      380,
-      375
-    ],
+    "number_coords": [380, 375],
     "card_data": {
       "name": "Fortress Câlnic",
       "location": "Transylvania",
@@ -1994,12 +1517,9 @@
         "lat": "45.8890997",
         "long": "23.6603435"
       },
-      "tags": [
-        "Fortress",
-        "Noble House"
-      ],
+      "tags": ["Fortress", "Noble House"],
       "description": "The Mongol invasion of 1241 prompted a surge in military construction in Transylvania, with wood and earthen defenses abandoned in favor of stone, assembled in haste and without much initial attention to artistic detail. At Câlnic, the fortress began as a residence for a Graf (count), one of the last such to be built in Transylvania. Around 1270, the nobleman Chyl of Kelling, whose family gave the village its German name, built a keep for his residence. The strong parallelepiped structure, with a ground floor and three floors for living space, came to be known as the Siegfried tower. Frequent Ottoman attacks led the keep to be fortified with a defensive level and surrounded by a massive wall. The oval precinct around the keep was fitted with a guard tower to the south and a gate tower to the north. The structure was surrounded by a water-filled moat, with access only by drawbridge. The noble owners never went along very well with the local notables, and in 1430, the final Graf sold the fortress to the villagers and moved out.",
-      "surface": 0.60,
+      "surface": 0.6,
       "popularity": 5.8,
       "visit_time": 3
     }
@@ -2007,10 +1527,7 @@
   "81": {
     "number": 81,
     "path": "M 417.34 354.43 L 388.39 356.35 L 381.1 360.07 L 372.44 367.86 L 373.3 374.097 L 407.813 374.867 L 417.34 354.43 Z",
-    "number_coords": [
-      390,
-      352
-    ],
+    "number_coords": [390, 352],
     "card_data": {
       "name": "Alba Carolina Citadel",
       "location": "Transylvania",
@@ -2019,10 +1536,7 @@
         "lat": "46.0686127",
         "long": "23.5716639"
       },
-      "tags": [
-        "Museum",
-        "Fortress"
-      ],
+      "tags": ["Museum", "Fortress"],
       "description": "The Alba Carolina Citadel (Romanian: Cetatea Alba Carolina, Hungarian: Gyulafehérvári vár) is a star-shaped fortress located in Alba Iulia. Its construction commenced on November 4, 1715 during the Habsburg rule in Transylvania, and was completed in 1738. 20,000 serfs were involved in its construction, which is estimated to have cost around 3 million florins. The citadel was built on the site of two other fortifications: the legionary fortress of Legio XIII Gemina (known as Apulum), as well as the medieval Belgrad citadel. The shape of the citadel, an iconic element of Vauban architecture, influenced the design of Alba Iulia's city logo when the city adopted city branding in 2014. The city received 47.5 million lei in 2009 for the restoration and conservation of the citadel.] The citadel is named after Charles VI, known as Carol VI in Romanian, who was the Holy Roman Emperor at the time of the citadel's construction.",
       "surface": 1,
       "popularity": 9,
@@ -2032,10 +1546,7 @@
   "82": {
     "number": 82,
     "path": "M 272.58 335.82 L 259.4 359.16 L 296.16 367.55 L 337.42 381.25 L 371.28 374.33 L 370.24 367.43 L 379.766 358.68 L 386.65 354.48 L 384.92 350.65 L 344 335.34 L 300.32 334.86 L 272.58 335.82 Z",
-    "number_coords": [
-      330,
-      340
-    ],
+    "number_coords": [330, 340],
     "card_data": {
       "name": "Săvârșin Castle",
       "location": "Crisana",
@@ -2044,10 +1555,7 @@
         "lat": "46.015625",
         "long": "22.235619"
       },
-      "tags": [
-        "Castle",
-        "Country House"
-      ],
+      "tags": ["Castle", "Country House"],
       "description": "Formerly known as Forray Castle, Săvârșin was owned by various Hungarian noble families for three centuries during the territory owned by the Kingdom of Hungary until the Union of Transylvania with Romania. In mid-18th century, at the center of the estate on which the current Royal Castle lies, there was a building raised in western baroque style (dating from 1680), that belonged to the Edelspacher de Gyorok noble family. After having been set on fire in November 1784 by the peasants in the uprise led by Horia, Closca and Crisan, and needed being restored from the foundations, the castle had various owners, till 1858 when it became the possession of Leopold Count Nádasdy de Nádasd et Fogarasföld, the one who re-built it in its present form in 1860. In 1941, following an exchange of properties, the Castle became the property of the Mocioni-Starcea family, who prepared the Castle for so-called 'crown weekends'. In 1943, the Castle became the property of King Michael I, who was the king of Romania at that time and bought the Castle from the Crown property as a gift for his mother Queen Helen.",
       "surface": 0.06,
       "popularity": 4.8,
@@ -2057,10 +1565,7 @@
   "83": {
     "number": 83,
     "path": "m152.44 308.16l16.06 2.21 16.75-3.97 16.86-.09 10.83 4.58 3.12-19.73 8.85-9.84-2.95-8.29-25.83-1.78-14.74-1.18-4.33 2.72-5.2 2.01 1.73 4.74-2.6 2.73-9.01 3.2-.87 6.29-3.82 3.08 4.86 2.73-.52 2.5-3.64 3.57-7.11-.24 2.08 3.81-.52.95z",
-    "number_coords": [
-      185,
-      275
-    ],
+    "number_coords": [185, 275],
     "card_data": {
       "name": "Baile Felix",
       "location": "Crisana",
@@ -2069,10 +1574,7 @@
         "lat": "46.9903884",
         "long": "21.9778705"
       },
-      "tags": [
-        "Thermal Spa",
-        "Village"
-      ],
+      "tags": ["Thermal Spa", "Village"],
       "description": "Thermal springs were valued in the eighteenth century by the monk Félix Helcher of the Monastery of Klosterbruck (de) in Moravia, administrator of the Váradszentmárton  monastery. Between 1711-1721 the first treatment facilities were organized under the name of Félixfürdő (in Romanian: Baia lui Felix). Félix Helcher died in 1737. In 1885 a new spring, with a temperature of 49 °C, was found. The thermal springs were discovered around 1000, or around 1200, or according to other experts, only in 1700. The only fact agreed by all experts is the appearance of the first buildings in this resort: between the years 1711-1721. In 1920, the commune became part of Romania, in 1940, it was given back to Hungary. After World War II, it became part of Romania again. In 1948 Sanmartin monastery area was nationalized by the communist authorities. Several recreational bases, including the one belonged to Securitate, were built on the nationalized land. The Premonstatens Order claims it latter. On April 2, 2014, the HCCJ (Higher Court of Cassation and Justice) ordered the transfer of the filed case from Oradea Court to the Giurgiu District Court, where it is now. Other requests of the Premonstratens Order on retrocession the Băile Felix lands are in progress at HCCJ.",
       "surface": 1,
       "popularity": 10,
@@ -2082,10 +1584,7 @@
   "84": {
     "number": 84,
     "path": "M 224.04 272.91 L 227.16 281.32 L 218.49 291.99 L 215.54 310.66 L 232.19 310.06 L 239.64 302.8 L 246.92 292.82 L 252.888 284.04 L 252.142 278.24 L 237.39 274.09 L 224.04 272.91 Z",
-    "number_coords": [
-      225,
-      275
-    ],
+    "number_coords": [225, 275],
     "card_data": {
       "name": "Farcu Crystal Cave",
       "location": "Crisana",
@@ -2094,10 +1593,7 @@
         "lat": "46.8176325",
         "long": "22.4239134"
       },
-      "tags": [
-        "Caves",
-        "Crystals"
-      ],
+      "tags": ["Caves", "Crystals"],
       "description": "The cave was discovered during mining operations for the extraction of bauxite. The advance of the working front in the gallery in the Farcu mine led to the opening of a geode-type cave, a cavity with no connection to the outside. The lack of a communication path with the outside created the ideal conditions for the formation of calcite crystals. Access to the cave is through a mining gallery where an exhibition dedicated to mining is set up. Here are exhibited objects that were used in the daily work of the miners, as well as different samples of bauxite. After a visit to the mining museum, tourists will be able to look into the depths of an underground avenue, designed in such a way as to offer a spectacular perspective to the bottom of the earth. The tourist route continues towards the actual cave, which, although small, is richly decorated with crystals of various shapes.",
       "surface": 1,
       "popularity": 1,
@@ -2107,10 +1603,7 @@
   "85": {
     "number": 85,
     "path": "M 234.44 310.3 L 245.36 314.47 L 256.8 310.89 L 268.25 301.02 L 273.27 292.59 L 254.742 285.064 L 249.18 293.66 L 241.81 303.87 L 234.44 310.3 L 234.44 310.3 Z",
-    "number_coords": [
-      250,
-      285
-    ],
+    "number_coords": [250, 285],
     "card_data": {
       "name": "Bear's Cave",
       "location": "Crisana",
@@ -2119,10 +1612,7 @@
         "lat": "46.5537948",
         "long": "22.5695098"
       },
-      "tags": [
-        "Caves",
-        "Museum"
-      ],
+      "tags": ["Caves", "Museum"],
       "description": "Bears' Cave (Romanian: Peștera Urșilor) is located in the western Apuseni Mountains, on the outskirts of Chișcău village, Bihor County, northwestern Romania. It was discovered in 1975 by Speodava, an amateur spelaeologist group. Bears' Cave received its name after the 140 cave bear skeletons which were discovered on the site in 1983. The cave bear, also known as Ursus spelaeus, is a species of bear which became extinct during the Last Glacial Maximum, about 27,500 years ago. The cave has three galleries and four halls: The Candles Hall, Emil Racovita Hall, The Spaghetti Hall and The Bones Hall.",
       "surface": 482,
       "isCave": 1,
@@ -2133,10 +1623,7 @@
   "86": {
     "number": 86,
     "path": "m247.79 315.42l10.75 8.22 10.05 5.13 3.3 5.62 28.25-1.2 3.73-17.17-3.55-17.85-13.74-1-10.97-3.86-5.11 8.69-11.96 10.03-10.75 3.39z",
-    "number_coords": [
-      275,
-      300
-    ],
+    "number_coords": [275, 300],
     "card_data": {
       "name": "Cetățile Ponorului",
       "location": "Crisana",
@@ -2145,10 +1632,7 @@
         "lat": "46.5635149",
         "long": "22.7102875"
       },
-      "tags": [
-        "Caves",
-        "Mountain Formation"
-      ],
+      "tags": ["Caves", "Mountain Formation"],
       "description": "Also called the Everest of Romanian speleology, the karst complex from Cetățile Ponorului was mentioned for the first time in 1886 by Nagy Sandor. In 1929 R. Jeannel and Emil Racoviță investigate the entrance area. The first 300 m of the active gallery were explored by the team of the Cluj Caving Institute in 1949. Since 1951, the team of climbers of AS Armata Brașov led by Emilian Cristea has also been co-opted. A team of French speleologists also entered the competition. In several expeditions the active gallery is explored. In 1957, the final sip is reached. In two other entries from 1972, the climbing team from A.S. Armata-Brașov, manages to climb the final wall over 100 m high, without finding a continuation. The speleologists from Ștei are the ones who removed many question marks from the Citadel map. Explorations continue.",
       "surface": 950,
       "isMountain": 1,
@@ -2159,10 +1643,7 @@
   "87": {
     "number": 87,
     "path": "m302.57 297.93l3.99 17.97-4.34 17.41 28.96.36 13 .12 23.45 7.98 1-9.24-1.76-8.51-5.62-11.76-4.24-6.6-12.66-5.11-25.48-4.76-16.3 2.14z",
-    "number_coords": [
-      330,
-      300
-    ],
+    "number_coords": [330, 300],
     "card_data": {
       "name": "Apuseni Natural Park",
       "location": "Crisana-Transylvania",
@@ -2171,10 +1652,7 @@
         "lat": "46.6084985",
         "long": "22.7642009"
       },
-      "tags": [
-        "Natural Park",
-        "Diversity"
-      ],
+      "tags": ["Natural Park", "Diversity"],
       "description": "The Apuseni Natural Park with an area of 75.784 ha was declared natural protected area by the Law Number 5 of March 6, 2000 (published in the Monitorul Oficial of Romania, Number 152 of April 12, 2000) and represents a mountainous area (mountain peaks, cirques, caves, valleys, karst areas, forests and pastures), with flora and fauna specific Western Carpathians. Natural reserves included in the park: Izbucul de la Cotețul Dobreștilor (0.20 ha), Izbucul Mătișești (2 ha), Izbucul Tăuzului (1 ha), Coiba Mare Cave (0.50 ha), Avenul din Hoanca Urzicarului (1 ha), Scărișoara Cave (1 ha) and Ghețarul de la Vârtop (1 ha) in Alba county; Pietrele Galbenei(6.30 ha), Cetatea Rădesei Cave (20 ha), Poiana Florilor (1 ha), Platoul Carstic Padiș (39 ha), Valea Galbenei (70.50 ha), Valea Sighiștelului (412.60 ha), Vârful Biserica Moțului (3 ha), Platoul carstic Lumea Pierdută (39 ha), Cetățile Ponorului (14.90 ha), Ghețarul Focul Viu Cave (0.10 ha), Ciur Izbuc Cave (0.10 ha), Micula’s Cave (0.10 ha), Urşilor Cave (1 ha), Smeii de la Onceasa Cave (0.50 ha) and Cerbului Cave-Avenul cu Vacă (45 ha) in Bihor County; Molhașul Mare de la Izbuc (8 ha) in Cluj county.",
       "surface": 750,
       "popularity": 10,
@@ -2184,10 +1662,7 @@
   "88": {
     "number": 88,
     "path": "M 353.178 286.164 L 345.48 281.64 L 342.698 271.496 L 324.6 264.554 L 314.088 267.066 L 307.382 275.216 L 300.914 281.892 L 284.586 294.404 L 301.168 295.968 L 319.536 293.648 L 343.626 297.932 L 353.178 286.164 Z",
-    "number_coords": [
-      315,
-      265
-    ],
+    "number_coords": [315, 265],
     "card_data": {
       "name": "Draganului Valley",
       "location": "Crisana",
@@ -2196,10 +1671,7 @@
         "lat": "46.8970448",
         "long": "22.826103"
       },
-      "tags": [
-        "Dam",
-        "Mountain"
-      ],
+      "tags": ["Dam", "Mountain"],
       "description": "Valea Drăganului is a village in Poieni commune in Cluj county, more precisely 65 km from Cluj-Napoca and 84 km from Oradea. The village is located on the border of the Vlădeasa mountains, the Meseș mountains and the Huedin depression. The valley is crossed by the Drăgan river, and the landscapes are incredibly beautiful. The village of Valea Draganului is probably the most famous of the commune's villages.",
       "surface": 4.16,
       "popularity": 3.7,
@@ -2209,10 +1681,7 @@
   "89": {
     "number": 89,
     "path": "M 345.22 299.36 L 358.48 304.47 L 362.38 310.06 L 421.32 313.164 L 428.43 308.04 L 397.23 302.57 L 386.48 297.69 L 375.56 289.86 L 361.69 288.43 L 355.79 286.65 L 345.22 299.36 L 345.22 299.36 Z",
-    "number_coords": [
-      360,
-      285
-    ],
+    "number_coords": [360, 285],
     "card_data": {
       "name": "Bride's Veil Waterfall",
       "location": "Transylvania",
@@ -2221,10 +1690,7 @@
         "lat": "46.7110631",
         "long": "22.8293417"
       },
-      "tags": [
-        "Waterfall",
-        "Mountain Formation"
-      ],
+      "tags": ["Waterfall", "Mountain Formation"],
       "description": "An old legend recalls that the name of the waterfall comes from the fact that a long time ago a bride fell from the steep rocks in the area where the waterfall is, and her veil remained hanging on the rocks. There, the bride and groom stopped and began to cry, thus forming the waterfall. In reality, the name could be attributed to the waterfall's veil-like shape",
       "surface": 0.01,
       "popularity": 5.4,
@@ -2234,10 +1700,7 @@
   "90": {
     "number": 90,
     "path": "M 363.476 312.514 L 368.1 322.21 L 426.7 330.8 L 421.726 315.512 L 363.476 312.514 Z",
-    "number_coords": [
-      400,
-      307
-    ],
+    "number_coords": [400, 307],
     "card_data": {
       "name": "Scărișoara Cave",
       "location": "Transylvania",
@@ -2246,10 +1709,7 @@
         "lat": "46.489909",
         "long": "22.8110056"
       },
-      "tags": [
-        "Glacier Cave",
-        "Mountain Formation"
-      ],
+      "tags": ["Glacier Cave", "Mountain Formation"],
       "description": "First mentioned in 1863 by the Austrian geographer Arnold Schmidl, who made some observations and the first map of the cave, it was later explored by the Romanian scientist and speleologist Emil Racoviță between 1921 and 1923, who mentioned it and its origin in his 1927 work Speologia (Speleology). The ice cave was formed 3,500 years ago, during the glaciations, when these mountains were covered by snow and ice. The exact date when the cave was first discovered by humans is unknown.",
       "surface": 105,
       "isCave": 1,
@@ -2260,10 +1720,7 @@
   "91": {
     "number": 91,
     "path": "M 369.196 324.77 L 371.05 332.24 L 370.18 342.87 L 386.633 348.774 L 388.897 354.1 L 417.707 352.684 L 439.683 353.21 L 437.97 347.66 L 433.98 337.25 L 426.938 333.596 L 369.196 324.77 Z",
-    "number_coords": [
-      390,
-      325
-    ],
+    "number_coords": [390, 325],
     "card_data": {
       "name": "Otter Waterfall",
       "location": "Transylvania",
@@ -2272,10 +1729,7 @@
         "lat": "46.3613567",
         "long": "22.8774828"
       },
-      "tags": [
-        "Waterfall",
-        "Mountain Formation"
-      ],
+      "tags": ["Waterfall", "Mountain Formation"],
       "description": "It is a splendid waterfall over 18 meters high located across the road from Snail Hill. It is a landscape reserve, located on a rocky limestone threshold. Behind it is a mixed coniferous-deciduous forest. The waters in the area are rich in limestone and give rise to splendid limestone formations, of Paleozoic age, which increase the spectacularity of the place. Also near the waterfall there are three gigantic boulders - sculpted by time - which enhance the beauty of the place and give the landscape a particularly picturesque aspect. As a geographer would describe it: the water fall is made from a height of approx. 18 m, with a 25 m front of unfolding of the water line on the rocky cliff on which it flows. Travertine-type calcareous formations deposited over time increase the area's spectacularity. The protected area has a surface of 2.5 ha.",
       "surface": 0.25,
       "popularity": 4.3,
@@ -2285,10 +1739,7 @@
   "92": {
     "number": 92,
     "path": "M 484.092 293.932 L 472.38 288.204 L 437.1 284.248 L 409.19 273.97 L 380.58 264.63 L 345.762 271.766 L 347.266 280.19 L 355.112 284.52 L 362.55 286.65 L 368.8 287.13 L 376.08 287.72 L 387.69 295.2 L 398.44 300.31 L 433.11 306.02 L 461.02 305.42 L 475.24 306.02 L 484.092 293.932 Z",
-    "number_coords": [
-      390,
-      270
-    ],
+    "number_coords": [390, 270],
     "card_data": {
       "name": "Cluj-Napoca City",
       "location": "Transylvania",
@@ -2297,10 +1748,7 @@
         "lat": "46.7833856",
         "long": "23.6165124"
       },
-      "tags": [
-        "Rich City",
-        "Historical Province"
-      ],
+      "tags": ["Rich City", "Historical Province"],
       "description": "Cluj-Napoca is the fourth-most populous city in Romania. It is the seat of Cluj County in the northwestern part of the country. Geographically, it is roughly equidistant from Bucharest (445 kilometres (277 miles)), Budapest (461 km (286 mi)) and Belgrade (483 km (300 mi)). Located in the Someșul Mic river valley, the city is considered the unofficial capital of the historical province of Transylvania. From 1790 to 1848 and from 1861 to 1867, it was the official capital of the Grand Principality of Transylvania.",
       "surface": 179.5,
       "popularity": 11,
@@ -2310,10 +1758,7 @@
   "93": {
     "number": 93,
     "path": "M 476.94 351.907 L 469.43 345.23 L 460.68 329.91 L 461.02 313.54 L 458.6 307.68 L 440.57 308.63 L 430.51 308.99 L 423.58 314.35 L 426 323.29 L 429.65 330.45 L 436.06 337.01 L 440.39 347.42 L 441.95 353.267 L 462.423 353.633 L 467.043 352.66 L 476.94 351.907 Z",
-    "number_coords": [
-      440,
-      310
-    ],
+    "number_coords": [440, 310],
     "card_data": {
       "name": "Salina Turda",
       "location": "Transylvania",
@@ -2322,10 +1767,7 @@
         "lat": "46.5877459",
         "long": "23.7872654"
       },
-      "tags": [
-        "Salt Mine",
-        "Antiquity Site"
-      ],
+      "tags": ["Salt Mine", "Antiquity Site"],
       "description": "Salt was first extracted here during the antiquity. The mine continuously produced table salt from the Middle Ages, the mine being first mentioned in 1075, to the early-20th century (1932). The first document that speaks explicitly about the existence of a salt mine in Turda dates from 1 May 1271, being issued by the Hungarian chancellery. Documents preserved from the 13th and 14th centuries that refer to the Turda salt mines mention that salines were arranged in the Băile Sărate microdepression and on the southeastern slope of the Valea Sărată. Operating rooms were placed at the sites of current salt lakes from the areas mentioned above. In the 17th century the first salt mining works began on the north-western slope of Valea Valea Sărată, as evidenced by shafts in the dome of the Terezia room. Shortly after, the Sfântul Anton mine was opened, where mining activity continued until the first half of the 20th century.",
       "surface": 121,
       "isCave": 1,
@@ -2336,10 +1778,7 @@
   "94": {
     "number": 94,
     "path": "M 475.93 308.16 L 460.85 307.56 L 463.1 313.28 L 463.28 329.73 L 471.43 344.43 L 479.57 351.61 L 500.03 348.5 L 502.433 337.863 L 495.623 327.56 L 493.44 320.07 L 475.93 308.16 Z",
-    "number_coords": [
-      480,
-      325
-    ],
+    "number_coords": [480, 325],
     "card_data": {
       "name": "Turda Gorge",
       "location": "Transylvania",
@@ -2348,10 +1787,7 @@
         "lat": "46.5633699",
         "long": "23.6806591"
       },
-      "tags": [
-        "Canyon",
-        "Natural Reserve"
-      ],
+      "tags": ["Canyon", "Natural Reserve"],
       "description": "The canyon, formed through the erosion of the Jurassic limestone of the mountain, is 2 900 m long and the walls have heights reaching 300 m. The total surface of the canyon is of 324 ha. Cheile Turzii contain one of the richest and most scenic karst landscapes in Romania. More than 1000 plant and animal species (some of them rare or endangered, like the wild garlic or some species of eagle) live here.",
       "surface": 3.24,
       "popularity": 7.6,
@@ -2361,10 +1797,7 @@
   "95": {
     "number": 95,
     "path": "m 576 336 l -3.12 -29.81 l 10.75 -22.56 l -7.63 -23.79 l -19.76 -13.93 l -24.44 4.25 l -33.07 -3.19 l -15.04 19.72 l 3.2 28.69 l -9.27 11.41 l 18.12 12.86 l 1.56 6.44 l 7.62 11.22 l -1.88 10.63 l 10 -2 l 20.45 -3.18 l 9.55 -1.82 z",
-    "number_coords": [
-      525,
-      285
-    ],
+    "number_coords": [525, 285],
     "card_data": {
       "name": "Târgu Mureș City",
       "location": "Transylvania",
@@ -2373,10 +1806,7 @@
         "lat": "46.543103,",
         "long": "24.5525979"
       },
-      "tags": [
-        "Market City",
-        "River City"
-      ],
+      "tags": ["Market City", "River City"],
       "description": "Târgu Mureș is the seat of Mureș County in the historical region of Transylvania, Romania. It is the 16th largest Romanian city, with 134,290 inhabitants as of the 2011 census. It lies on the Mureș River, the second longest river in Romania (after the Danube). The current Romanian name of the city, Târgu Mureș, is the equivalent of the Hungarian Marosvásárhely, both meaning 'market on the Mureș (Maros) [River]'. Târg means 'market' in Romanian and vásárhely means 'marketplace' in Hungarian. Local Hungarians often shorten Marosvásárhely to Vásárhely in speech.",
       "surface": 49.3,
       "popularity": 9.1,
@@ -2386,10 +1816,7 @@
   "96": {
     "number": 96,
     "path": "M 671.06 345.734 L 671.49 324.792 L 656.896 301.134 L 603.598 300.198 L 580.76 297.694 L 576.258 306.67 L 578.548 335.53 L 607.69 330.85 L 615.568 352.06 L 671.06 345.734 Z",
-    "number_coords": [
-      630,
-      310
-    ],
+    "number_coords": [630, 310],
     "card_data": {
       "name": "Salt Mine Praid",
       "location": "Transylvania",
@@ -2398,10 +1825,7 @@
         "lat": "46.5508333",
         "long": "25.1205556"
       },
-      "tags": [
-        "Salt Mine",
-        "Cave"
-      ],
+      "tags": ["Salt Mine", "Cave"],
       "description": "The underground visiting place is on 'Level 50' which is on 120 m deep from the surface. The private transport of the people is with buses on a 1250 m long tunnel to the entrance gate of the visiting base. Arriving to the visiting level you can enjoy all of the benefits of a small village: illumination, Wi-Fi, television, playground for the children, creative and amusement places, ecumenical chapel, Coffee Shop, 3D Cinema and a naturist drugstore. All these are in mission to make your abstention full of mirth in a pleasant and extraordinary space. The average annually underground temperature is 16 degrees Celsius.",
       "surface": 120,
       "isCave": 1,
@@ -2412,10 +1836,7 @@
   "97": {
     "number": 97,
     "path": "m639.85 298.66l16.3 0 31.03-12.94-20.63-9.13-.78-19.51-87.25 2.42 4.99 16.38 2.77 8.3-4.85 11.03 21.67 2.26 36.75 1.19z",
-    "number_coords": [
-      620,
-      265
-    ],
+    "number_coords": [620, 265],
     "card_data": {
       "name": "Sovata spa resort",
       "location": "Transylvania",
@@ -2424,10 +1845,7 @@
         "lat": "46.5997288",
         "long": "25.0741346"
       },
-      "tags": [
-        "Thermal Spa",
-        "Historical Province"
-      ],
+      "tags": ["Thermal Spa", "Historical Province"],
       "description": "Sovata is part of the Székely Land region of the historical Transylvania province. The first data about Sovata are from 1578. By 1583 it was already a village. For 42 years, from 1876 until 1918, the village belonged to the Maros-Torda County of the Austrian-Hungarian Empire. Due to its salty lakes and warm water it became an increasingly popular health resort during the end of the 19th and the 20th century. It gained the status of town in 1952.",
       "surface": 2,
       "popularity": 7.3,
@@ -2437,22 +1855,16 @@
   "98": {
     "number": 98,
     "path": "M 659.09 299.88 L 673.22 322.37 L 756.87 310.7 L 752.19 298.75 L 748.2 276.98 L 727.31 278.16 L 688.634 287.018 L 659.09 299.88 Z",
-    "number_coords": [
-      720,
-      285
-    ],
+    "number_coords": [720, 285],
     "card_data": {
       "name": "Ceahlău Massif",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "98_ceahlau",
       "coords": {
         "lat": "46.9499994",
         "long": "25.95"
       },
-      "tags": [
-        "Mountain Formation",
-        "Famous Mountain"
-      ],
+      "tags": ["Mountain Formation", "Famous Mountain"],
       "description": "The Ceahlău Massif is one of the most famous mountains of Romania. It is part of the Bistrița Mountains range of the Eastern Carpathians division, in Neamț County, in the Moldavia region. The two most important peaks are Toaca (1904 m altitude) and Ocolașul Mare (1907 m altitude). It is bounded to the east by the river Bistrița and Lake Bicaz, to the south by the river Bicaz. From the south, the main access point is the village of Izvorul Muntelui, located 12 km north from the town of Bicaz. To the north, Mount Ceahlău is also accessible from Durău.",
       "surface": 1907,
       "isMountain": 1,
@@ -2463,23 +1875,17 @@
   "99": {
     "number": 99,
     "path": "M 766.4 263.49 L 752.64 243.6 L 734.148 243.632 L 692.312 246.79 L 668.28 257.008 L 669.116 275.292 L 689.826 284.334 L 726.598 275.818 L 750.076 274.536 L 766.4 263.49 Z",
-    "number_coords": [
-      715,
-      245
-    ],
+    "number_coords": [715, 245],
     "card_data": {
       "name": "Bicaz Gorge",
-      "location": "Moldova",
+      "location": "Moldavia",
       "image_url": "99_bicaz",
       "coords": {
         "lat": "46.8239864",
         "long": "25.7759105"
       },
-      "tags": [
-        "Mountain Formation",
-        "Central Park"
-      ],
-      "description": "The Bicaz Gorge is a gorge in Romania, located in the north-east part of the country, in Neamț and Harghita counties. It is situated in the central part of the Hășmaș Mountains, and it is part of the Cheile Bicazului-Hășmaș National Park. The gorge was excised by the waters of the river Bicaz and it serves as a passageway between the Romanian provinces of Moldova and Transylvania. It is a noted location to see the wallcreeper, an uncommon cliff-dwelling bird. National road DN12C [ro] passes through the gorge. The road along the 8 kilometres (5 mi) of ravines, often in serpentines with rock on one side and a sheer drop on the other, is one of the most spectacular drives in the country. Also within the gorge is Lacul Roșu (the Red Lake), with its traditional cabins, hotels, and its famous lake (situated at 980 m (3,220 ft) altitude) caused by a landslide in the 19th century. Cheile Bicazului is one of the main rock climbing sites in Romania.",
+      "tags": ["Mountain Formation", "Central Park"],
+      "description": "The Bicaz Gorge is a gorge in Romania, located in the north-east part of the country, in Neamț and Harghita counties. It is situated in the central part of the Hășmaș Mountains, and it is part of the Cheile Bicazului-Hășmaș National Park. The gorge was excised by the waters of the river Bicaz and it serves as a passageway between the Romanian provinces of Moldavia and Transylvania. It is a noted location to see the wallcreeper, an uncommon cliff-dwelling bird. National road DN12C [ro] passes through the gorge. The road along the 8 kilometres (5 mi) of ravines, often in serpentines with rock on one side and a sheer drop on the other, is one of the most spectacular drives in the country. Also within the gorge is Lacul Roșu (the Red Lake), with its traditional cabins, hotels, and its famous lake (situated at 980 m (3,220 ft) altitude) caused by a landslide in the 19th century. Cheile Bicazului is one of the main rock climbing sites in Romania.",
       "surface": 980,
       "isMountain": 1,
       "popularity": 10,
@@ -2489,10 +1895,7 @@
   "100": {
     "number": 100,
     "path": "M 718.964 203.648 L 707.288 200.802 L 691.902 200.802 L 676.314 200.576 L 649.84 203.156 L 623.818 204.308 L 600.724 207.362 L 581.054 215.12 L 569.626 223.446 L 567.964 235.246 L 558.084 244.204 L 578.24 256.926 L 665.62 254.796 L 691.62 244.38 L 733.58 241.2 L 751.328 241.688 L 747.654 235.836 L 720.75 225.9 L 714.51 212.04 L 718.964 203.648 Z",
-    "number_coords": [
-      625,
-      215
-    ],
+    "number_coords": [625, 215],
     "card_data": {
       "name": "Vatra Dornei",
       "location": "Bucovina",
@@ -2501,10 +1904,7 @@
         "lat": "47.3490121",
         "long": "25.3572392"
       },
-      "tags": [
-        "Settlement",
-        "Historical Region"
-      ],
+      "tags": ["Settlement", "Historical Region"],
       "description": "Vatra Dornei is a city in Suceava County, north-eastern Romania. It is situated in the historical region of Bukovina. Vatra Dornei is the fifth largest urban settlement in the county, with a population of 14,429 inhabitants, according to the 2011 census. It was declared a municipality in 2000, being the newest and smallest municipality in the county. The city administers three villages: Argestru, Roșu, and Todireni. Vatra Dornei is a well known spa and ski resort in the Carpathian Mountains and also is home to the historic Vatra Dornei Casino.",
       "surface": 144,
       "popularity": 7.4,
@@ -2514,35 +1914,26 @@
   "101": {
     "number": 101,
     "path": "M 816.534 203.466 L 758.303 200.306 L 721.906 203.626 L 717.498 212.244 L 722.314 224.024 L 749.41 234.32 L 755.228 243.25 L 768.468 262.648 L 795.01 262.16 L 814.16 260.998 L 808.01 245.98 L 811.48 229.15 L 809.05 214.23 L 816.534 203.466 Z",
-    "number_coords": [
-      765,
-      210
-    ],
+    "number_coords": [765, 210],
     "card_data": {
-      "name": "Orasul Targu Neamt",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Târgu Neamț City",
+      "location": "Moldavia",
+      "image_url": "101_neamt",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.2046266",
+        "long": "26.3690315"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Market City", "Historical"],
+      "description": "Originally a market town, hence its name, it had an important role in Moldavian culture. It was first mentioned in a late-14th century document. The name neamț is a generic name of Slavic origin for the German people in the Romanian language. This has led to speculation of a German foundation of Târgu Neamț, according to which Saxon colonists crossed the Carpathians from the Bistrița area and built a commercial township. Some Romanian historians, including Bogdan Petriceicu Hasdeu consider that Târgu Neamț was probably a German settlement from the 13th century, when the Teutonic Order made incursions from Transylvania against the Cumanic peoples that were living in Moldavia. Nowadays, historians disagree with this possibility mostly because of the long-lasting influences of the communist-nationalistic historiography which refused to accept the town was anything else than a Romanian-founded settlement.",
+      "surface": 47.31,
+      "popularity": 7.8,
+      "visit_time": 10
     }
   },
   "102": {
     "number": 102,
     "path": "M 910.47 200.63 L 911.16 200.16 L 912.2 198.29 L 910.64 196.3 L 908.91 194.77 L 905.44 191.03 L 894.724 185.114 L 886.562 190.006 L 877.756 188.73 L 867.752 189.55 L 856.968 192.368 L 848.546 194.708 L 840.17 198.56 L 819.562 203.586 L 811.39 214.81 L 814.396 229.38 L 810.824 245.782 L 816.918 261.348 L 820.862 261.348 L 825.17 255.19 L 830.37 249.88 L 846.15 244.69 L 873.71 237.74 L 893.82 232.2 L 911.68 226.68 L 929.54 220.33 L 927.28 218.92 L 925.38 217.04 L 926.94 212.47 L 924.16 211.29 L 924.51 209.3 L 925.03 205.9 L 921.91 203.2 L 919.83 204.14 L 914.11 203.2 L 910.47 200.63 Z",
-    "number_coords": [
-      855,
-      200
-    ],
+    "number_coords": [855, 200],
     "card_data": {
       "name": "Palatul Cuza de la Ruginoasa",
       "location": "Timisoara",
@@ -2551,10 +1942,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2564,10 +1952,7 @@
   "103": {
     "number": 103,
     "path": "m819.22 201.42l18.07-4.36 8.88-3.78 20.2-5.43 11.1-1.03 8.84 1.09 6.58-3.92-2.42-1.4-.35-2.45-1.91-1.05-.34-1.28-1.04-1.52-.52-2.33 4.5.11-.52-3.03-2.77 0-1.73-1.86-1.74-2.68-.69-2.91.35-2.45-3.99-1.86-17.68 7.68-22.19 5.02-29.3 12.95 4.16 6.83 4.51 9.66z",
-    "number_coords": [
-      845,
-      165
-    ],
+    "number_coords": [845, 165],
     "card_data": {
       "name": "Manastirea Vorona",
       "location": "Timisoara",
@@ -2576,10 +1961,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2589,10 +1971,7 @@
   "104": {
     "number": 104,
     "path": "m809.85 183.76l14.22-6.54 14.39-6.53 12.13-2.68 10.93-2.09 18.03-7.92.52-3.14-.18-2.44-3.29-1.39-4.86 0 2.43-1.86 2.25-1.28-.69-1.86-5.03-1.04 1.91-1.63-.17-2.09-3.12 0-.52-2.2-4.34-.46 2.26-2.67-2.43 0-1.73-3.01-3.12-1.74-2.43-2.32.87-2.08-2.09-3.82-3.12 1.27-3.12-.35-2.25-2.89 4.85.35-1.21-1.51-5.03 0 .35-2.54-2.95-1.96-2.6 1.73 0-1.96-2.25-.47-3.82-4.04-2.25.81-3.64-3.12-3.64 1.39-6.24 0-4.16-2.43-2.6 1.96-1.39-1.84-4.51.23-2.42 1.96-3.64 0-1.39 2.31-2.25.12-2.43 1.27-2.43-.35-3.81 0-4.34 1.27-2.25 1.5-2.25 0-2.43.81-3.3-.23-3.98 1.04-.52 3.01-2.95 2.2-2.6 2.66-1.73 3.59-1.22 2.2-6.24 2.78-2.95 7.19-4.33.92 9.36 10.8 2.95 4.65 5.55 6.52 10.05 5.24 9.88 5.13 16.3 5.48 9.01 4.09z",
-    "number_coords": [
-      805,
-      130
-    ],
+    "number_coords": [805, 130],
     "card_data": {
       "name": "Orasul Botosani",
       "location": "Timisoara",
@@ -2601,10 +1980,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2614,10 +1990,7 @@
   "105": {
     "number": 105,
     "path": "M 757.782 159.476 L 751.904 164.148 L 742.442 171.014 L 731.84 185.74 L 734.44 200.01 L 747.79 199.146 L 758.19 197.9 L 770.33 198.41 L 779.52 199.43 L 783.68 199.43 L 792.17 200.01 L 816.44 201.53 L 815.4 197.55 L 812.45 191.7 L 808.64 185.39 L 799.11 181.28 L 783.07 175.72 L 773.62 170.52 L 763.356 165.45 L 757.782 159.476 Z",
-    "number_coords": [
-      755,
-      170
-    ],
+    "number_coords": [755, 170],
     "card_data": {
       "name": "Orasul Suceava",
       "location": "Timisoara",
@@ -2626,10 +1999,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2639,10 +2009,7 @@
   "106": {
     "number": 106,
     "path": "M 745.23 142.05 L 743.12 141.71 L 739.97 143 L 734.96 141.4 L 721.47 143.87 L 716.69 143.14 L 713.55 145.04 L 709.69 144.08 L 705.19 144.61 L 704.32 146 L 702.76 150.27 L 700.85 155.35 L 702.33 159.83 L 702.76 163.9 L 709.3 170.25 L 713.08 170.78 L 720.96 168.85 L 729.63 166.7 L 739.08 168.39 L 741.59 168.74 L 757.02 157.04 L 754.51 152.97 L 746.36 144.14 L 745.23 142.05 L 745.23 142.05 Z",
-    "number_coords": [
-      720,
-      140
-    ],
+    "number_coords": [720, 140],
     "card_data": {
       "name": "Salina Cacica",
       "location": "Timisoara",
@@ -2651,10 +2018,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2664,10 +2028,7 @@
   "107": {
     "number": 107,
     "path": "M 732.36 200.48 L 729.41 185.86 L 739.854 170.996 L 729.862 168.564 L 721.892 170.872 L 713.244 173.092 L 707.33 171.284 L 701.294 173.698 L 692.748 177.282 L 686.746 180.29 L 679.49 184.58 L 675.67 191.59 L 677.06 198.37 L 691.45 198.37 L 709.13 198.84 L 721.44 202.12 L 732.36 200.48 Z",
-    "number_coords": [
-      705,
-      170
-    ],
+    "number_coords": [705, 170],
     "card_data": {
       "name": "Orasul Gura Humorului",
       "location": "Timisoara",
@@ -2676,10 +2037,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2689,10 +2047,7 @@
   "108": {
     "number": 108,
     "path": "M 703.392 144.59 L 698.43 147.95 L 691.84 147.2 L 679.36 146.38 L 675.55 148.18 L 667.57 148.36 L 658.38 149.4 L 664.1 156.03 L 666.53 166.04 L 673.12 172.79 L 675.55 177.46 L 678.772 182.63 L 682.356 179.936 L 688.21 177.588 L 692.71 175.13 L 695.83 173.26 L 701.538 171.488 L 705.914 169.88 L 700.86 164.06 L 700.51 159.87 L 698.95 155.21 L 703.392 144.59 Z",
-    "number_coords": [
-      675,
-      145
-    ],
+    "number_coords": [675, 145],
     "card_data": {
       "name": "Manastirea Sucevita",
       "location": "Timisoara",
@@ -2701,10 +2056,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2714,10 +2066,7 @@
   "109": {
     "number": 109,
     "path": "M 657.24 149.38 L 644.41 150.59 L 639.99 151.12 L 635.05 153.97 L 631.24 153.67 L 628.38 154.9 L 629.24 156.76 L 628.9 158.44 L 626.56 158.44 L 626.64 159.9 L 625.86 161.29 L 624.22 162.4 L 622.48 164.49 L 622.31 166.3 L 620.57 166.88 L 619.45 166.53 L 615.98 169.33 L 615.72 171.19 L 611.04 172.36 L 609.39 173.29 L 608.01 172.42 L 607.4 174.298 L 607.038 178.178 L 609.57 181.214 L 614.962 181.936 L 617.54 185.968 L 616.33 189.22 L 616.624 193.346 L 617.314 195.93 L 622.118 198.602 L 624.582 201.634 L 636.87 201.27 L 650.22 200.92 L 675.18 198.82 L 673.49 191.68 L 676.46 184.73 L 673.13 177.91 L 670.67 172.85 L 663.97 166.42 L 661.61 156.39 L 657.24 149.38 Z",
-    "number_coords": [
-      635,
-      160
-    ],
+    "number_coords": [635, 160],
     "card_data": {
       "name": "Necunoscut",
       "location": "Timisoara",
@@ -2726,10 +2075,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2739,10 +2085,7 @@
   "110": {
     "number": 110,
     "path": "M 605.15 174.57 L 601.85 173.76 L 600.64 174.75 L 599.25 174.51 L 593.53 174.51 L 589.63 175.21 L 587.81 175.1 L 587.81 177.37 L 588.16 179.82 L 587.9 182.16 L 587.64 184.2 L 584.34 186.95 L 581.39 189.58 L 579.23 189.98 L 575.5 189.46 L 569.87 189.17 L 561.37 188.93 L 550.62 188.99 L 539.078 188.208 L 541.26 193.26 L 541.26 198.52 L 543.34 203.09 L 547.5 209.42 L 550.45 213.99 L 556 219.86 L 565.71 221.03 L 569.17 221.27 L 579.05 213.52 L 589.46 209.53 L 599.51 204.85 L 613.03 203.21 L 621.96 202.03 L 620.18 199.49 L 615.46 197.47 L 614.12 189.28 L 615.18 186.36 L 613.72 184.43 L 607.7 183.3 L 605.55 179.98 L 605.15 174.57 L 605.15 174.57 Z",
-    "number_coords": [
-      555,
-      190
-    ],
+    "number_coords": [555, 190],
     "card_data": {
       "name": "Parcul National Muntii Rodnei",
       "location": "Timisoara",
@@ -2751,10 +2094,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2764,10 +2104,7 @@
   "111": {
     "number": 111,
     "path": "M 492.98 150.89 L 487.95 154.84 L 486.05 160.07 L 490.03 166.36 L 497.31 170.802 L 510.32 177.222 L 517.578 179.33 L 528.452 181.896 L 539.496 185.184 L 550.032 186.252 L 561.064 186.252 L 569.724 186.814 L 579.898 187.408 L 585.176 183.168 L 586.092 177.08 L 585.696 173.944 L 584.34 170.78 L 582.44 168.34 L 579.14 163.68 L 575.85 162.86 L 570.82 160.77 L 564.93 160.42 L 563.19 158.91 L 559.72 157.63 L 559.72 154.84 L 559.03 151.58 L 554.87 148.91 L 554 146.47 L 549.84 144.96 L 546.38 144.5 L 544.64 145.31 L 538.92 146.01 L 534.76 145.66 L 529.73 144.15 L 528 144.5 L 525.57 145.89 L 523.15 148.21 L 522.45 149.72 L 519.16 150.54 L 515.86 150.54 L 513.44 151.47 L 509.8 152.16 L 505.64 152.16 L 502 152.98 L 500.26 151.81 L 496.97 150.89 L 492.98 150.89 Z",
-    "number_coords": [
-      530,
-      150
-    ],
+    "number_coords": [530, 150],
     "card_data": {
       "name": "Valea Vaserului - Mocanita",
       "location": "Timisoara",
@@ -2776,10 +2113,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2789,10 +2123,7 @@
   "112": {
     "number": 112,
     "path": "M 492.814 201.572 L 500.84 188.72 L 513.32 181.12 L 496.85 173.54 L 486.97 167.6 L 482.63 160.73 L 486.1 153.75 L 489.92 151.08 L 487.66 148.75 L 483.15 146.43 L 479.86 146.32 L 476.05 144.81 L 471.19 144.81 L 467.55 146.2 L 461.83 147.48 L 457.5 148.52 L 454.03 146.66 L 452.12 143.65 L 449.87 147.01 L 447.44 154.56 L 452.12 167.37 L 455.376 175.534 L 460.056 188.33 L 475.938 197.592 L 492.814 201.572 Z",
-    "number_coords": [
-      475,
-      170
-    ],
+    "number_coords": [475, 170],
     "card_data": {
       "name": "Manastirea Barsana",
       "location": "Timisoara",
@@ -2801,10 +2132,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2814,10 +2142,7 @@
   "113": {
     "number": 113,
     "path": "M 567.636 223.488 L 554.914 222.078 L 547.222 213.682 L 539.026 199.564 L 539.354 193.28 L 536.912 187.412 L 527.53 184.51 L 515.75 181.94 L 502.92 190.35 L 487.84 213.3 L 477.26 233.51 L 487.32 241.28 L 499.688 245.03 L 531.542 247.74 L 555.778 243.638 L 565.624 234.136 L 567.636 223.488 Z",
-    "number_coords": [
-      515,
-      205
-    ],
+    "number_coords": [515, 205],
     "card_data": {
       "name": "Orasul Bistrita Nasaud",
       "location": "Timisoara",
@@ -2826,10 +2151,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2839,10 +2161,7 @@
   "114": {
     "number": 114,
     "path": "M 484.246 291.778 L 480.956 266.816 L 474.738 264.276 L 465.91 260.824 L 448.468 259.948 L 435.31 256.26 L 394.39 245.87 L 387.11 253.66 L 384.034 258.244 L 381.854 263.196 L 437.458 281.606 L 472.93 286.358 L 484.246 291.778 Z",
-    "number_coords": [
-      450,
-      260
-    ],
+    "number_coords": [450, 260],
     "card_data": {
       "name": "Castelul Banffy de la Bondita",
       "location": "Timisoara",
@@ -2851,10 +2170,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2864,10 +2180,7 @@
   "115": {
     "number": 115,
     "path": "M 481.77 264.824 L 496.612 246.768 L 485.41 242.58 L 474.83 234.69 L 449 229.51 L 425.25 225.04 L 403.41 230.69 L 395.26 244.34 L 447.88 257.61 L 466.34 258.97 L 481.77 264.824 Z",
-    "number_coords": [
-      450,
-      230
-    ],
+    "number_coords": [450, 230],
     "card_data": {
       "name": "Castelul Cornis",
       "location": "Timisoara",
@@ -2876,10 +2189,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2889,10 +2199,7 @@
   "116": {
     "number": 116,
     "path": "M 475.534 231.916 L 485.222 213.086 L 491.96 203.52 L 474.63 199.78 L 457.99 189.72 L 452.79 176.64 L 442.04 174.54 L 431.63 172.21 L 409.79 166.38 L 406.32 173.14 L 398 185.04 L 394.54 203.99 L 396.96 214.31 L 402.86 228.4 L 425.39 221.7 L 475.534 231.916 Z",
-    "number_coords": [
-      425,
-      185
-    ],
+    "number_coords": [425, 185],
     "card_data": {
       "name": "Orasul Baia Mare",
       "location": "Timisoara",
@@ -2901,10 +2208,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2914,10 +2218,7 @@
   "117": {
     "number": 117,
     "path": "M 448.08 146.062 L 450.96 142.14 L 448.36 142.14 L 446.28 140.93 L 443.86 140.93 L 442.3 140.75 L 438.48 141.04 L 436.32 141.56 L 432.68 142.2 L 430.16 141.56 L 428.34 140.23 L 426.61 139.88 L 422.01 139.24 L 419.93 139.77 L 417.25 139.19 L 414.91 137.5 L 414.04 140.06 L 411.79 143.01 L 411.7 144.23 L 411.87 153.47 L 411.7 159.05 L 410.672 164.028 L 431.46 169.64 L 442.21 172.162 L 452.124 174.54 L 445.41 154.118 L 448.08 146.062 Z",
-    "number_coords": [
-      420,
-      140
-    ],
+    "number_coords": [420, 140],
     "card_data": {
       "name": "Cimitirul Vesel din Sapanta",
       "location": "Timisoara",
@@ -2926,10 +2227,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2939,10 +2237,7 @@
   "118": {
     "number": 118,
     "path": "M 275.61 173.14 L 280.46 183.41 L 286.36 199.31 L 307.16 218.3 L 339.75 223.7 L 379.97 225.34 L 400.362 229.876 L 392.642 209.13 L 391.59 201.628 L 395.4 184.23 L 402.408 174.244 L 406.76 167.262 L 408.24 162.39 L 409.37 155.918 L 409.144 147.084 L 409.032 142.926 L 400.08 141.27 L 394.88 139.19 L 391.42 138.03 L 387.6 135.24 L 383.79 133.16 L 383.79 130.15 L 378.93 128.76 L 374.43 127.83 L 370.27 125.28 L 363.5 129.22 L 360.3 138.61 L 351.76 141.1 L 339.52 138.05 L 341.71 144.31 L 334.15 146.04 L 327.94 152.02 L 318.59 153.96 L 319.98 159.82 L 313.75 160.89 L 308.37 166.78 L 291.99 168.68 L 282.93 163.92 L 278.93 165.15 L 275.61 173.14 Z",
-    "number_coords": [
-      345,
-      160
-    ],
+    "number_coords": [345, 160],
     "card_data": {
       "name": "Orasul Satu Mare",
       "location": "Timisoara",
@@ -2951,10 +2246,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2964,10 +2256,7 @@
   "119": {
     "number": 119,
     "path": "m273.46 172.33l-4.25 0-5.03-1.98-1.56-.82-.69 2.1-.87 1.16-3.98 1.64-1.56 1.51-1.56 2.45-3.3.59-1.73 4.08-2.25 4.67 8.49 7.84 5.72 5.26 7.98 12.89 20.8 5.52 15.08-.82-19.94-18.52-5.54-13.92-5.81-13.65z",
-    "number_coords": [
-      260,
-      175
-    ],
+    "number_coords": [260, 175],
     "card_data": {
       "name": "Orasul Carei",
       "location": "Timisoara",
@@ -2976,10 +2265,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -2989,10 +2275,7 @@
   "120": {
     "number": 120,
     "path": "M 224.38 218.28 L 229.41 220.87 L 234.18 221.69 L 239.29 222.51 L 254.89 225.45 L 267.03 227.56 L 286.542 220.608 L 267.03 215.438 L 259.784 201.848 L 252.99 196.37 L 245.36 189.35 L 243.19 191.75 L 237.91 191.11 L 233.74 194.97 L 228.89 197.07 L 226.64 199.3 L 223.86 202.69 L 222.65 205.39 L 225.77 209.49 L 225.94 214 L 224.38 218.28 Z",
-    "number_coords": [
-      235,
-      195
-    ],
+    "number_coords": [235, 195],
     "card_data": {
       "name": "Statiunea balneoclimaterica Tasnad",
       "location": "Timisoara",
@@ -3001,10 +2284,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -3014,10 +2294,7 @@
   "121": {
     "number": 121,
     "path": "M 264.578 229.188 L 228.008 222.53 L 222.752 219.668 L 218.14 218.34 L 214.15 219.46 L 212.94 222.39 L 209.47 227.21 L 207.39 230.15 L 206.87 232.5 L 202.54 237.68 L 204.62 238.86 L 204.1 242.39 L 198.9 244.51 L 196.65 249.58 L 196.65 252.89 L 193.52 252.89 L 186.24 256.19 L 183.82 258.79 L 177.58 261.86 L 181.514 267.642 L 197.204 268.972 L 209.582 269.35 L 222.638 270.618 L 226.098 270.514 L 232.88 260.91 L 239.12 252.008 L 244.614 244.21 L 253.68 238.896 L 264.578 229.188 Z",
-    "number_coords": [
-      215,
-      225
-    ],
+    "number_coords": [215, 225],
     "card_data": {
       "name": "Orasul Oradea",
       "location": "Timisoara",
@@ -3026,10 +2303,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -3039,10 +2313,7 @@
   "122": {
     "number": 122,
     "path": "M 228.644 270.698 L 238.74 271.666 L 254.034 276.738 L 255.774 282.626 L 275.11 289.866 L 283.074 292.96 L 291.088 285.812 L 299.24 280.52 L 303.4 275.42 L 277.05 266.19 L 256.94 259.1 L 242.064 251.914 L 239.408 255.976 L 234.93 261.23 L 232.454 265.76 L 228.644 270.698 Z",
-    "number_coords": [
-      265,
-      265
-    ],
+    "number_coords": [265, 265],
     "card_data": {
       "name": "Pestera Vadul Crisului",
       "location": "Timisoara",
@@ -3051,10 +2322,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -3064,10 +2332,7 @@
   "123": {
     "number": 123,
     "path": "M 304.59 220.24 L 289.33 221.3 L 267.84 229.05 L 255.7 240.94 L 246.464 245.664 L 243.186 249.342 L 258.48 256.98 L 279.28 264.54 L 305.28 274.12 L 311.09 267.91 L 305.8 249.31 L 302.16 232.93 L 304.59 220.24 Z",
-    "number_coords": [
-      275,
-      230
-    ],
+    "number_coords": [275, 230],
     "card_data": {
       "name": "Statiunea balneoclimaterica Boghis",
       "location": "Timisoara",
@@ -3076,10 +2341,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -3089,10 +2351,7 @@
   "124": {
     "number": 124,
     "path": "M 339.076 226.439 L 307.496 220.394 L 304.466 233.156 L 308.4 249.19 L 312.774 264.898 L 324.168 262.146 L 343.476 269.79 L 352.52 242.153 L 356.705 226.891 L 339.076 226.439 Z",
-    "number_coords": [
-      320,
-      225
-    ],
+    "number_coords": [320, 225],
     "card_data": {
       "name": "Cetatea Porolissum",
       "location": "Timisoara",
@@ -3101,10 +2360,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,
@@ -3114,10 +2370,7 @@
   "125": {
     "number": 125,
     "path": "M 389.96 230.449 L 379.736 227.795 L 359.72 227.06 L 354.52 245.18 L 345.952 270.076 L 379.784 262.732 L 384.996 252.73 L 393.518 243.756 L 400.154 231.728 L 389.96 230.449 Z",
-    "number_coords": [
-      370,
-      220
-    ],
+    "number_coords": [370, 220],
     "card_data": {
       "name": "Gradina Botanica de la Jibou",
       "location": "Timisoara",
@@ -3126,10 +2379,7 @@
         "lat": "45.648693",
         "long": "21.606187"
       },
-      "tags": [
-        "castle",
-        "ruin"
-      ],
+      "tags": ["castle", "ruin"],
       "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
       "surface": 909,
       "popularity": 360046,

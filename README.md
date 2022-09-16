@@ -26,9 +26,9 @@
 
 ![Scrape Romania Interactive Map](https://github.com/IonutDaniel99/ScrapeRomania-Map/blob/master/public/github/example.png)
 
-The main goal of the project is to recreate a 125 Romania places to visit. Every clickable svg open a popup with informations about that location. In order to keep tracking of the visited locations, every user can connect with Google account and **_Mark / Unmark_** locations.  
-<br>
-The image above it's a `example in development` of how the project looks like.
+The main goal of the project is to recreate a 125 Romania places to visit. Every clickable svg open a popup with informations about that location. In
+order to keep tracking of the visited locations, every user can connect with Google account and **_Mark / Unmark_** locations.  
+<br> The image above it's a `example in development` of how the project looks like.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -94,17 +94,8 @@ In order to create your own map, you need to follow the next steps
 5. For each svg you need to copy the coords content of `d` prop of tag `path` in inspect element.
    ```html
    <svg stroke-width=".50">
-     <g
-       xmlns="http://www.w3.org/2000/svg"
-       stroke="#000000"
-       stroke-width=".60"
-       fill="#FFFFFF"
-       aria-valuetext="test"
-     >
-       <path
-         d="M 1021.907 647.936 L 1016.37 661.13 L 1056.94 658.39 L 1062.66 649.77 L 1062.83 640.893 L 1021.907 647.936 Z"
-         fill="white"
-       ></path>
+     <g xmlns="http://www.w3.org/2000/svg" stroke="#000000" stroke-width=".60" fill="#FFFFFF" aria-valuetext="test">
+       <path d="M 1021.907 647.936 L 1016.37 661.13 L 1056.94 658.39 L 1062.66 649.77 L 1062.83 640.893 L 1021.907 647.936 Z" fill="white"></path>
      </g>
    </svg>
    ```
@@ -131,8 +122,8 @@ In order to create your own map, you need to follow the next steps
 
 ## Contributing
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag
+"enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)

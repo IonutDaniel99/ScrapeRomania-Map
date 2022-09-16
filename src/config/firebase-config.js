@@ -1,8 +1,8 @@
 /* eslint-disable no-undef */
 // Import the functions you need from the SDKs you need
-import { initializeApp } from "firebase/app";
-import { getDatabase } from "firebase/database";
-import { getAuth } from "firebase/auth";
+import { initializeApp } from 'firebase/app'
+import { getDatabase } from 'firebase/database'
+import { getAuth } from 'firebase/auth'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
@@ -13,9 +13,9 @@ const firebaseConfig = {
   messagingSenderId: process.env.REACT_APP_PUBLIC_FIREBASE_MESSAGE_SENDER_ID,
   appId: process.env.REACT_APP_PUBLIC_FIREBASE_APP_ID,
   databaseURL: process.env.REACT_APP_PUBLIC_FIREBASE_DATABASE_URL,
-};
+}
 
 // Initialize Firebase
-export const firebaseApp = initializeApp(firebaseConfig);
-export const database = getDatabase(firebaseApp);
-export const auth = getAuth();
+export const firebaseApp = initializeApp(firebaseConfig)
+export const database = getDatabase(firebaseApp)
+export const auth = getAuth()

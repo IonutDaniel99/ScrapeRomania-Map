@@ -99,18 +99,18 @@
     "path": "M 159.835 493.215 L 164.64 494.577 L 171.008 495.607 L 178.453 506.42 L 189.147 510.54 L 194.41 508.317 L 199.86 512.157 L 205.593 510.64 L 211.353 512.645 L 219.69 513.942 L 227.69 509.95 L 232.445 492.867 L 231.247 482.65 L 230.22 476.185 L 211.408 467.708 L 195.665 463.078 L 182.06 470.61 L 168.68 478.43 L 159.835 493.215 Z",
     "number_coords": [195, 475],
     "card_data": {
-      "name": "Necunoscut",
-      "location": "55666666",
-      "image_url": "",
+      "name": "Semenic-Caraș Gorge National Park",
+      "location": "Banat",
+      "image_url": "6_semenic",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.125392",
+        "long": "21.9491577"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Natural Park", "Protected Area"],
+      "description": "The Semenic-Caraș Gorge National Park was declared a protected area. It features a typical karst and forest landscape and is characterised by its 300-year-old virgin beech forest, the only one in Europe. The Park contains a number of nature reserves, including the Caraș Gorge (Cheile Carașului), the Caraș Springs (Izvoarele Carașului), and dripstone and other caves. The Caraș Gorge is one of Romania`s longest, wildest and most beautiful, with rich flora and fauna, including the Semenic flower (Anntenaria dioica). It has many caves, some only accessible from underwater, with near-vertical limestone walls and so-called “kettles” on the upper Caraș. On the right bank of the Caraș, above the Caraș Gorge, are the ruins of the thirteenth-century Grat Castle. One of the most beautiful caves in this area, with diverse formations of stalactites and stalagmites, is the dripstone cave of Comarnic. Twenty archaeological sites have been discovered in the Park.",
+      "surface": 66,
+      "popularity": 6.3,
+      "visit_time": 5
     }
   },
   "7": {
@@ -156,18 +156,18 @@
     "path": "M 217.685 515.885 L 215.06 514.82 L 209.78 513.68 L 205.48 512.32 L 199.95 513.97 L 194.23 510.25 L 190.558 512.77 L 189.45 520.54 L 188.67 525.583 L 185.608 529.76 L 187.755 534.44 L 185.8 538.23 L 197.06 540.699 L 205.958 539.902 L 213.042 528.527 L 217.685 515.885 Z",
     "number_coords": [195, 515],
     "card_data": {
-      "name": "Necunoscut",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Cheile Nerei-Beușnița National Park",
+      "location": "Banat",
+      "image_url": "09_nerei",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.944959",
+        "long": "21.8749229"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Natural Park", "Protected Area"],
+      "description": "The Natural Park is located at the south-west limit of the country, in the south of the Anina Mountains (group mountain included in Banat Mountains), in Caraș-Severin County, on the middle course of Nera River and on the upper Beu River. Nera Gorge-Beușnița National Park with an area of 36,758 ha was declared natural protected area by the Law Number.5 of March 6, 2000 (published in Romanian Official Paper Number.152 on April 12, 2000) and represents a mountainous area (mountain peaks, cirques, crevasses, caves, valleys, canyons, waterfalls) what shelters a large variety of flora and fauna; some of the species are endematic or very rarely. Protected areas included in the park: Nera Gorge-Beușnița, Șușara Gorge, Ducin, Izvorul Bigăr, Izvoarele Nerei, Lisovacea and Valea Ciclovei-Ildia. Climate is a temperate continental, with moderate winters, warm summers, low thermal amplitude, with rich rainfall, with Mediterranean influences.",
+      "surface": 0.36,
+      "popularity": 7.1,
+      "visit_time": 6
     }
   },
   "10": {
@@ -175,18 +175,19 @@
     "path": "M 184.82 539.79 L 182.39 554.17 L 178.74 554.54 L 174.57 554.91 L 174.31 557.57 L 177 560.66 L 182.91 559.86 L 187.86 560.78 L 194.38 560.54 L 200.38 561.03 L 208.72 561.96 L 219.67 563.87 L 222.28 563.07 L 222.98 561.03 L 223.58 556.09 L 224.19 552.69 L 224.572 546.598 L 220.502 545.425 L 212.21 543.458 L 208.447 538.813 L 206.757 541.875 L 201.629 542.218 L 196.963 542.615 L 192.82 541.33 L 184.82 539.79 Z",
     "number_coords": [195, 540],
     "card_data": {
-      "name": "Necunoscut",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Romania Danube Entrance",
+      "location": "Banat",
+      "image_url": "10_intrare",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "44.8231931",
+        "long": "21.3638294"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Danube", "Diversity"],
+      "description": "The place where Danube join into Romania border.",
+      "surface": 2,
+      "isRoad": 1,
+      "popularity": 8.8,
+      "visit_time": 3
     }
   },
   "11": {
@@ -195,7 +196,7 @@
     "number_coords": [225, 515],
     "card_data": {
       "name": "Radaraia Windmills",
-      "location": "Timisoara",
+      "location": "Banat",
       "image_url": "11_morile",
       "coords": {
         "lat": "44.8701843",
@@ -411,7 +412,7 @@
         "long": "23.2475768"
       },
       "tags": ["castle", "ruin"],
-      "description": "The city takes its name from the river Jiu, which runs through it. In antiquity, there was a Dacian village in around the location of today's city surrounded by forests. After the Roman conquests of Oltenia (101-102), military units were stationed around the roads that connected different important routes at the time. During the digging of the Târgu Jiu - Rovinari railroad, mosaics, coins, ceramics and Roman bricks were found in the south-eastern part of the city.[3] This and ancient testimonies support the idea that Târgu Jiu was a commercial town (a vicus) while under the Roman Empire's rule. A very important route that connects the Danube to Transylvania runs through the city, so historians believe that part of the Roman army under Trajan's leadership stayed and then passed in the actual location of the city.",
+      "description": "The city takes its name from the river Jiu, which runs through it. In antiquity, there was a Dacian village in around the location of today's city surrounded by forests. After the Roman conquests of Oltenia (101-102), military units were stationed around the roads that connected different important routes at the time. During the digging of the Târgu Jiu - Rovinari railroad, mosaics, coins, ceramics and Roman bricks were found in the south-eastern part of the city. This and ancient testimonies support the idea that Târgu Jiu was a commercial town (a vicus) while under the Roman Empire's rule. A very important route that connects the Danube to Transylvania runs through the city, so historians believe that part of the Roman army under Trajan's leadership stayed and then passed in the actual location of the city.",
       "surface": 102,
       "popularity": 8.8,
       "visit_time": 42
@@ -757,7 +758,7 @@
         "long": "25.3659776"
       },
       "tags": ["Castle", "Dracula"],
-      "description": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov. It is a national monument and landmark in Transylvania. The fortress is on the Transylvanian side of the historical border with Wallachia, on road DN73. Commonly known outside Transylvania as Dracula's Castle, it is marketed as the home of the title character in Bram Stoker's Dracula. There is no evidence that Stoker knew anything about this castle, which has only tangential associations with Vlad the Impaler, voivode of Wallachia, the putative inspiration for Dracula. Stoker's description of Dracula's crumbling fictional castle also bears no resemblance to Bran Castle. The castle is now a museum dedicated to displaying art and furniture collected by Queen Marie.[2] Tourists can see the interior on their own or by a guided tour. At the bottom of the hill is a small open-air museum exhibiting traditional Romanian peasant structures (cottages, barns, water-driven machinery, etc.) from the Bran region.",
+      "description": "Bran Castle is a castle in Bran, 25 kilometres (16 mi) southwest of Brașov. It is a national monument and landmark in Transylvania. The fortress is on the Transylvanian side of the historical border with Wallachia, on road DN73. Commonly known outside Transylvania as Dracula's Castle, it is marketed as the home of the title character in Bram Stoker's Dracula. There is no evidence that Stoker knew anything about this castle, which has only tangential associations with Vlad the Impaler, voivode of Wallachia, the putative inspiration for Dracula. Stoker's description of Dracula's crumbling fictional castle also bears no resemblance to Bran Castle. The castle is now a museum dedicated to displaying art and furniture collected by Queen Marie. Tourists can see the interior on their own or by a guided tour. At the bottom of the hill is a small open-air museum exhibiting traditional Romanian peasant structures (cottages, barns, water-driven machinery, etc.) from the Bran region.",
       "surface": 1,
       "popularity": 9.3,
       "visit_time": 2
@@ -814,7 +815,7 @@
         "long": "26.0961035"
       },
       "tags": ["Natural Reserve", "Natural Park"],
-      "description": "Comana Natural Park was declared a protected area by Government Decision no. 2151 of November 30, 2004, published in the Official Gazette of Romania, no. 38 of January 12, 2005 (regarding the establishment of the protected natural area regime for new areas). It covers an area of 24963 ha[6] and represents a special conservation area with a protection regime for several species of spontaneous flora (Paeonia peregrina Mill-sp., Ruscus aculeatus) and wild fauna (birds, fish, mammals , reptiles and amphibians) from the Burnaz Plain.",
+      "description": "Comana Natural Park was declared a protected area by Government Decision no. 2151 of November 30, 2004, published in the Official Gazette of Romania, no. 38 of January 12, 2005 (regarding the establishment of the protected natural area regime for new areas). It covers an area of 24963 ha and represents a special conservation area with a protection regime for several species of spontaneous flora (Paeonia peregrina Mill-sp., Ruscus aculeatus) and wild fauna (birds, fish, mammals , reptiles and amphibians) from the Burnaz Plain.",
       "surface": 249,
       "popularity": 7.4,
       "visit_time": 2
@@ -1023,7 +1024,7 @@
         "long": "28.6300063"
       },
       "tags": ["Black Sea City", "Port City"],
-      "description": "Constanța, historically known as Tomis, is the oldest continuously inhabited city in Romania, founded around 600 BC. A port-city, it is located in the Northern Dobruja region of Romania, on the Black Sea coast. It is the capital of Constanța County and the largest city in the historical region of Dobrogea. As of the 2022 census, Constanța has a population of 667,860, making it the fifth most populous city in Romania. The Constanța metropolitan area includes 14 localities within 30 km (19 mi) of the city. It is one of the largest metropolitan areas in Romania. The Port of Constanța has an area of 39.26 km2 (15.16 sq mi) and a length of about 30 km (19 mi).[9] It is the largest port on the Black Sea, and one of the largest ports in Europe. Constanța is only 185 miles (298 km) from the Bosphorus strait and in the 19th century many travellers to Constantinople (now Istanbul) arrived there by steamer from Constanța.",
+      "description": "Constanța, historically known as Tomis, is the oldest continuously inhabited city in Romania, founded around 600 BC. A port-city, it is located in the Northern Dobruja region of Romania, on the Black Sea coast. It is the capital of Constanța County and the largest city in the historical region of Dobrogea. As of the 2022 census, Constanța has a population of 667,860, making it the fifth most populous city in Romania. The Constanța metropolitan area includes 14 localities within 30 km (19 mi) of the city. It is one of the largest metropolitan areas in Romania. The Port of Constanța has an area of 39.26 km2 (15.16 sq mi) and a length of about 30 km (19 mi). It is the largest port on the Black Sea, and one of the largest ports in Europe. Constanța is only 185 miles (298 km) from the Bosphorus strait and in the 19th century many travellers to Constantinople (now Istanbul) arrived there by steamer from Constanța.",
       "surface": 124,
       "popularity": 10,
       "visit_time": "80+"
@@ -1262,18 +1263,18 @@
     "path": "M 727.283 404.023 L 731.49 410.6 L 731.26 416.564 L 743.02 414.45 L 766.25 414.144 L 778.39 414.09 L 780.12 409.15 L 768.88 398.11 L 727.283 404.023 Z",
     "number_coords": [755, 395],
     "card_data": {
-      "name": "Statiunea Balneoclimaterica Covasna",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Covasna Spa Resort",
+      "location": "Transylvania",
+      "image_url": "67_covasna",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "45.8462157",
+        "long": "26.157198"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Thermal Spa", "Mountain City"],
+      "description": "The resort is located in Covasna county, at the western foothills of the Vrancea mountains and is a permanent spa resort. The resort is located 35 km from the city of Sfântu Gheorghe, 60 km from Braşov and 250 km from Bucharest. Due to the specific geological conditions, here there are many springs with carbonated mineral water, bicarbonate or containing various compounds of iron, iodine, bromine or chlorine which are recommended in the treatment of cardiovascular diseases, hepatobiliary dysfunctions, digestive diseases and related diseases.",
+      "surface": 1,
+      "popularity": 2.2,
+      "visit_time": 8
     }
   },
   "68": {
@@ -2069,18 +2070,18 @@
     "path": "M 657.24 149.38 L 644.41 150.59 L 639.99 151.12 L 635.05 153.97 L 631.24 153.67 L 628.38 154.9 L 629.24 156.76 L 628.9 158.44 L 626.56 158.44 L 626.64 159.9 L 625.86 161.29 L 624.22 162.4 L 622.48 164.49 L 622.31 166.3 L 620.57 166.88 L 619.45 166.53 L 615.98 169.33 L 615.72 171.19 L 611.04 172.36 L 609.39 173.29 L 608.01 172.42 L 607.4 174.298 L 607.038 178.178 L 609.57 181.214 L 614.962 181.936 L 617.54 185.968 L 616.33 189.22 L 616.624 193.346 L 617.314 195.93 L 622.118 198.602 L 624.582 201.634 L 636.87 201.27 L 650.22 200.92 L 675.18 198.82 L 673.49 191.68 L 676.46 184.73 L 673.13 177.91 L 670.67 172.85 L 663.97 166.42 L 661.61 156.39 L 657.24 149.38 Z",
     "number_coords": [635, 160],
     "card_data": {
-      "name": "Necunoscut",
-      "location": "Timisoara",
-      "image_url": "",
+      "name": "Radauti City",
+      "location": "Bucovina",
+      "image_url": "109_radauti",
       "coords": {
-        "lat": "45.648693",
-        "long": "21.606187"
+        "lat": "47.8405308",
+        "long": "25.8809133"
       },
-      "tags": ["castle", "ruin"],
-      "description": "Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / Cultural exception is competition / ",
-      "surface": 909,
-      "popularity": 360046,
-      "visit_time": 886
+      "tags": ["Historical Region", "Settlement"],
+      "description": "Rădăuți is a city in Suceava County, north-eastern Romania. It is situated in the historical region of Bukovina. Rădăuți is the third largest urban settlement in the county, with a population of 23,822 inhabitants, according to the 2011 census. It was declared a municipality in 1995, along with two other cities in Suceava County: Fălticeni and Câmpulung Moldovenesc. Rădăuți covers an area of 32.30 km2 (12.47 sq mi) and it was the capital of former Rădăuți County (until 1950).",
+      "surface": 32.3,
+      "popularity": 4.8,
+      "visit_time": 10
     }
   },
   "110": {
@@ -2096,7 +2097,7 @@
         "long": "24.556025"
       },
       "tags": ["Natural Park", "Famous Mountain"],
-      "description": "The Rodna Mountains have one of the longest continuous ridges in Romania, with over 50 km (31 mi) from west to east and a width of over 25 km (16 mi). The massif covers an area of about 1,300 km2 (500 sq mi).[1] The highest points are Pietrosul Rodnei at 2,303 m, Ineu Peak at 2,279 m (7,477 ft), Ineuț Peak at 2,202 m (7,224 ft), Gârgalău Peak at 2,159 m (7,083 ft), and Omu Peak at 2,010 m (6,590 ft). The mountains are most suited for hiking in summer and skiing in winter, and are especially famous for having snow late into the summer months (skiing is possible well into June, sometimes even July). While the ridge itself poses no difficulties, the challenge is the massive length of it, and the absence of drinkable water (except for a few puddles that are usually dry). A complete hike along the main Rodnei ridge takes between 3 and 5 days, depending on the weather and the endurance of the hiker.",
+      "description": "The Rodna Mountains have one of the longest continuous ridges in Romania, with over 50 km (31 mi) from west to east and a width of over 25 km (16 mi). The massif covers an area of about 1,300 km2 (500 sq mi). The highest points are Pietrosul Rodnei at 2,303 m, Ineu Peak at 2,279 m (7,477 ft), Ineuț Peak at 2,202 m (7,224 ft), Gârgalău Peak at 2,159 m (7,083 ft), and Omu Peak at 2,010 m (6,590 ft). The mountains are most suited for hiking in summer and skiing in winter, and are especially famous for having snow late into the summer months (skiing is possible well into June, sometimes even July). While the ridge itself poses no difficulties, the challenge is the massive length of it, and the absence of drinkable water (except for a few puddles that are usually dry). A complete hike along the main Rodnei ridge takes between 3 and 5 days, depending on the weather and the endurance of the hiker.",
       "surface": 2303,
       "isMountain": 1,
       "popularity": 9.1,

@@ -1,14 +1,20 @@
 import React, { useEffect, useReducer, useRef, useState } from 'react'
-import LocationDetailsModal from '../LocationDetails/LocationDetailsModal'
-import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils'
-import { Transition } from '@tailwindui/react'
-import ReactLoading from 'react-loading'
-
-import coords from '../../data/locationsRomania.json'
 import panzoom from 'panzoom'
 import SvgDisplay from './SvgDisplay'
+import ReactLoading from 'react-loading'
+import { Transition } from '@tailwindui/react'
+
+import { getUserId } from '../../utils/fetchUserDetails'
+import { firebaseApp } from '../../config/firebase-config'
+import { getDatabase, set, update, ref, get, child, onValue } from 'firebase/database'
+
+import coords from '../../data/locationsRomania.json'
+import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils'
+
+import LocationDetailsModal from '../LocationDetails/LocationDetailsModal'
 
 const Maps = () => {
+  const db = getDatabase(firebaseApp)
   const [, forceUpdate] = useReducer((x) => x + 1, 0)
   const [locationsList, setLocationsList] = useState(coords)
   const [visitedLocations, setVisitedLocations] = useState()
@@ -23,33 +29,52 @@ const Maps = () => {
   const [displayPanZoomDisplayNumbers, setDisplayPanZoomDisplayNumbers] = useState(false)
   const [isPanMoving, setIsPanMoving] = useState(false)
 
+  const userUUID = getUserId()
+
   useEffect(() => {
-    const a = fetchLocationToVisit()
-    const b = fetchUserVisitedLocations()
-    Promise.all([a, b])
-      .then((values) => {
-        setLocationsList(values[0])
-        setVisitedLocations(
-          Object.keys(values[1]).map(function (key) {
-            return (values[1][key] = `${key}`)
-          })
-        )
+    console.log(userUUID)
+    if (!userUUID) return
+    getLocatiosToVisit().then((data) => {
+      setLocationsList(data)
+    })
+
+    onValue(ref(db, `users`), (snapshot) => {
+      const data = snapshot.val()
+      const values = data[userUUID].visited_locations
+      const new_data = Object.keys(values).map(function (key) {
+        return (values[key] = `${key}`)
       })
-      .finally(() => {
-        setTimeout(() => {
-          setIsLoading(false)
-        }, 1500)
-      })
+      return setVisitedLocations(new_data)
+    })
   }, [])
 
-  const fetchLocationToVisit = () =>
-    getLocatiosToVisit().then((locationsToVisit) => {
-      return locationsToVisit
-    })
-  const fetchUserVisitedLocations = () =>
-    getUserVisitedLocations().then((userVisitedLocations) => {
-      return userVisitedLocations
-    })
+  useEffect(() => {
+    if (locationsList && visitedLocations) {
+      setIsLoading(false)
+    }
+    // if (userUUID === undefined) {
+    //   console.log('if', userUUID)
+    //   setIsLoading(true)
+    // } else {
+    //   console.log('else')
+    //   const a = fetchLocationToVisit()
+    //   const b = fetchUserVisitedLocations()
+    //   Promise.all([a, b])
+    //     .then((values) => {
+    //       setLocationsList(values[0])
+    //       setVisitedLocations(
+    //         Object.keys(values[1]).map(function (key) {
+    //           return (values[1][key] = `${key}`)
+    //         })
+    //       )
+    //     })
+    //     .finally(() => {
+    //       setTimeout(() => {
+    //         setIsLoading(false)
+    //       }, 1500)
+    //     })
+    // }
+  }, [visitedLocations])
 
   const onModalLocationsChanged = (newLocations) => {
     setVisitedLocations(newLocations)

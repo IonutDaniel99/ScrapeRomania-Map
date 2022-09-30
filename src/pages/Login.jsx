@@ -21,7 +21,7 @@ const Login = () => {
   }
 
   useEffect(() => {
-    if (user != null) {
+    if (user) {
       get(child(ref(db), `users/${user.uid}/visited_locations`))
         .then((snapshot) => {
           if (!snapshot.exists()) {

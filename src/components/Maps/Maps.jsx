@@ -4,14 +4,14 @@ import SvgDisplay from './SvgDisplay'
 import ReactLoading from 'react-loading'
 import { Transition } from '@tailwindui/react'
 
-import { getUserId } from '../../utils/fetchUserDetails'
 import { firebaseApp } from '../../config/firebase-config'
 import { getDatabase, set, update, ref, get, child, onValue } from 'firebase/database'
 
 import coords from '../../data/locationsRomania.json'
-import { getLocatiosToVisit, getUserVisitedLocations } from '../../utils/firebaseUtils'
+import { getLocatiosToVisit, getUserId, getUserVisitedLocations } from '../../utils/firebaseUtils'
 
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal'
+import _ from 'lodash'
 
 const Maps = () => {
   const db = getDatabase(firebaseApp)
@@ -32,48 +32,22 @@ const Maps = () => {
   const userUUID = getUserId()
 
   useEffect(() => {
-    console.log(userUUID)
     if (!userUUID) return
     getLocatiosToVisit().then((data) => {
       setLocationsList(data)
     })
-
-    onValue(ref(db, `users`), (snapshot) => {
-      const data = snapshot.val()
-      const values = data[userUUID].visited_locations
-      const new_data = Object.keys(values).map(function (key) {
-        return (values[key] = `${key}`)
-      })
-      return setVisitedLocations(new_data)
-    })
+    const data2 = getUserVisitedLocations()
+    setVisitedLocations(data2)
   }, [])
 
   useEffect(() => {
-    if (locationsList && visitedLocations) {
-      setIsLoading(false)
+    if (locationsList !== undefined && visitedLocations !== undefined) {
+      console.log(locationsList, visitedLocations)
+      if (!Object.keys(visitedLocations || {}).length == 0) {
+        console.log('test', locationsList, visitedLocations)
+        setIsLoading(false)
+      }
     }
-    // if (userUUID === undefined) {
-    //   console.log('if', userUUID)
-    //   setIsLoading(true)
-    // } else {
-    //   console.log('else')
-    //   const a = fetchLocationToVisit()
-    //   const b = fetchUserVisitedLocations()
-    //   Promise.all([a, b])
-    //     .then((values) => {
-    //       setLocationsList(values[0])
-    //       setVisitedLocations(
-    //         Object.keys(values[1]).map(function (key) {
-    //           return (values[1][key] = `${key}`)
-    //         })
-    //       )
-    //     })
-    //     .finally(() => {
-    //       setTimeout(() => {
-    //         setIsLoading(false)
-    //       }, 1500)
-    //     })
-    // }
   }, [visitedLocations])
 
   const onModalLocationsChanged = (newLocations) => {

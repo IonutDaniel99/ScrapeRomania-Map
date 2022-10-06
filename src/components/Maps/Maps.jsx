@@ -36,19 +36,17 @@ const Maps = () => {
     getLocatiosToVisit().then((data) => {
       setLocationsList(data)
     })
-    const data2 = getUserVisitedLocations()
-    setVisitedLocations(data2)
+    onValue(ref(db, `users/${getUserId()}/visited_locations`), (snapshot) => {
+      const values = snapshot.val()
+      setVisitedLocations(Object.keys(values).map((key) => (values[key] = `${key}`)))
+    })
   }, [])
 
   useEffect(() => {
-    if (locationsList !== undefined && visitedLocations !== undefined) {
-      console.log(locationsList, visitedLocations)
-      if (!Object.keys(visitedLocations || {}).length == 0) {
-        console.log('test', locationsList, visitedLocations)
-        setIsLoading(false)
-      }
-    }
-  }, [visitedLocations])
+    console.log(locationsList, visitedLocations)
+    if (!locationsList || !visitedLocations) return
+    setIsLoading(false)
+  }, [locationsList, visitedLocations])
 
   const onModalLocationsChanged = (newLocations) => {
     setVisitedLocations(newLocations)

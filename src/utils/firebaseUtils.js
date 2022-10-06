@@ -15,17 +15,11 @@ export const getUserId = () => {
 
 export const getLocatiosToVisit = () => Promise.resolve(Locations) // Local
 
-export const getUserVisitedLocations = () => {
-  const id = getUserId()
-  var data = {}
-  onValue(ref(db, `users/${id}/visited_locations`), (snapshot) => {
+export const getUserVisitedLocations = () =>
+  onValue(ref(db, `users/${getUserId()}/visited_locations`), (snapshot) => {
     const values = snapshot.val()
-    data = Object.keys(values).map(function (key) {
-      return (values[key] = `${key}`)
-    })
+    return Object.keys(values).map((key) => (values[key] = `${key}`))
   })
-  return data
-}
 
 export const writeDataToFirebase = (path, data) => {
   // console.error(FIREBASE_ERROR, path, data);

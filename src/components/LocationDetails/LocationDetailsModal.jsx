@@ -8,13 +8,12 @@ import StarIcon from '@mui/icons-material/Star'
 
 const LocationDetailsModal = ({ locationId, location_details, visited_locations, onModalLocationsChanged }) => {
   const [check, setCheck] = useState(true)
-
   useEffect(() => {
     isChecked()
   }, [])
 
   const isChecked = () => {
-    if (visited_locations.includes(locationId.toString())) {
+    if (visited_locations[locationId] !== 0) {
       setCheck(false)
     } else {
       setCheck(true)
@@ -26,10 +25,10 @@ const LocationDetailsModal = ({ locationId, location_details, visited_locations,
       return
     }
     const _newLocations = visited_locations
-    if (_newLocations[locationId]) {
-      delete _newLocations[locationId]
+    if (_newLocations[locationId] === 0) {
+      _newLocations[locationId] = 1
     } else {
-      _newLocations[locationId] = `${locationId}`
+      _newLocations[locationId] = 0
     }
     onModalLocationsChanged(_newLocations)
     writeData(_newLocations)

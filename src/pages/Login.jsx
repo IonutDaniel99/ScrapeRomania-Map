@@ -1,7 +1,7 @@
 import React, { useEffect } from 'react'
 import { FcGoogle } from 'react-icons/fc'
 import { child, get, getDatabase, ref } from 'firebase/database'
-import { writeDataToFirebase } from '../utils/firebaseUtils'
+import { generateVisitedLocations, writeDataToFirebase } from '../utils/firebaseUtils'
 import { useNavigate } from 'react-router-dom'
 import { UserAuth } from '../context/AuthContext'
 import { firebaseApp } from '../config/firebase-config'
@@ -21,12 +21,13 @@ const Login = () => {
   }
 
   useEffect(() => {
+    const visitedLocationsObject = generateVisitedLocations()
     if (user) {
       get(child(ref(db), `users/${user.uid}/visited_locations`))
         .then((snapshot) => {
           if (!snapshot.exists()) {
             writeDataToFirebase(`users/${user.uid}`, {
-              visited_locations: { 0: 0 },
+              visited_locations: visitedLocationsObject,
             })
           }
         })
@@ -36,6 +37,8 @@ const Login = () => {
       navigate('/main')
     }
   }, [user])
+
+
 
   return (
     <div className='w-screen h-screen flex justify-center items-center bg-white relative'>

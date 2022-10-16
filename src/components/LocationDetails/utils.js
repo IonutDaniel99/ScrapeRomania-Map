@@ -1,10 +1,9 @@
-import { getUserId } from '../../utils/fetchUserDetails'
-import { updateDataToFirebase } from '../../utils/firebaseUtils'
+import { firebaseDbExport, getUserId, updateDataToFirebase } from '../../utils/firebaseUtils'
+import { getDatabase, set, update, ref, get, child, onValue} from 'firebase/database'
 
 const FIREBASE_ERROR = 'src/components/LocationDetails/utils.js LIMIT REACH'
 
 export const writeData = (ids) => {
-  // console.error(FIREBASE_ERROR);
   const userUUID = getUserId()
-  updateDataToFirebase(`users/${userUUID}`, ids)
+  update(ref(firebaseDbExport, `users/${userUUID}/visited_locations`), {...ids})
 }

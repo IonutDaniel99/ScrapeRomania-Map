@@ -8,7 +8,7 @@ import { firebaseApp } from '../../config/firebase-config'
 import { getDatabase, set, update, ref, get, child, onValue } from 'firebase/database'
 
 import coords from '../../data/locationsRomania.json'
-import { getLocatiosToVisit, getUserId, getUserVisitedLocations } from '../../utils/firebaseUtils'
+import { generateVisitedLocations, getLocatiosToVisit, getUserId, getUserVisitedLocations } from '../../utils/firebaseUtils'
 
 import LocationDetailsModal from '../LocationDetails/LocationDetailsModal'
 import _ from 'lodash'
@@ -36,17 +36,16 @@ const Maps = () => {
     getLocatiosToVisit().then((data) => {
       setLocationsList(data)
     })
-    onValue(ref(db, `users/${getUserId()}/visited_locations`), (snapshot) => {
+    onValue(ref(db, `users/${userUUID}/visited_locations`), (snapshot) => {
       const values = snapshot.val()
-      setVisitedLocations(Object.keys(values).map((key) => (values[key] = `${key}`)))
+      setVisitedLocations(values)
     })
   }, [])
 
   useEffect(() => {
-    console.log(locationsList, visitedLocations)
     if (!locationsList || !visitedLocations) return
     setIsLoading(false)
-  }, [locationsList, visitedLocations])
+  }, [visitedLocations])
 
   const onModalLocationsChanged = (newLocations) => {
     setVisitedLocations(newLocations)
@@ -151,7 +150,7 @@ const Maps = () => {
             <svg xmlns='http://www.w3.org/2000/svg' version='1.1' baseProfile='tiny' width={1200} height={800}>
               {Object.values(locationsList).map((location, i) => {
                 const locationId = i + 1
-                const imageFill = visitedLocations.includes(locationId.toString())
+                const imageFill = visitedLocations[locationId] === 1 ? true : false
                 return (
                   <SvgDisplay
                     svg_ref={svg_ref}

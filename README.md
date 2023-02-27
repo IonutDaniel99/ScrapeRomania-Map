@@ -7,6 +7,7 @@
   <p align="center">
     Personal project with an interactive svg map of locations to visit in Romania.
     <br />
+    Dropped to focus on my university master thesis. (June 2022)
     <br />
     <br />
     <span>

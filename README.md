@@ -2,12 +2,16 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center">    
+    <br />
+    <br />
+      Dropped to focus on my university master thesis. (June 2022)    
+    <br />
+    <br />
 <h1 align="center">Scrape Romania Map</h1>
   <p align="center">
     Personal project with an interactive svg map of locations to visit in Romania.
     <br />
-    Dropped to focus on my university master thesis. (June 2022)
     <br />
     <br />
     <span>
